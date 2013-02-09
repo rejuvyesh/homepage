@@ -1,0 +1,92 @@
+html {
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+   margin: 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+div#navigation {
+   background: #d6e1ed url("../images/header2.png") repeat-x left bottom;
+   padding-bottom: 18px;
+   text-align: center;
+}
+
+div#navigation a {
+   border: none;
+   margin: 0px 6px 0px 6px;
+}
+
+div#navigation_right {
+   background: #d6e1ed url("../images/footer.png") repeat-x left top;
+   text-align: center;
+   position:bottom;
+   padding:100px; 
+}
+
+div#navigation_right a {
+   border: none;
+   margin: 0px 6px 0px 6px;
+}
+
+div#content {
+   margin: 12px;
+}
+
+@media all and (min-width: 822px) {
+   html {
+       
+      background: url("../images/sidebar2.png"),             url("../images/sidebar3.png");
+      background-repeat: repeat-y, repeat-y;
+      background-position: left, right;
+      
+   }
+
+   div#navigation {
+      background: none;
+      float: left;
+      left: 0px;
+      margin: 0px 0px 0px 18px;
+      position: fixed;
+      top: 0px;
+      width: 102px;
+    }
+
+   div#navigation h1, div#navigation a {
+      display: block;
+      text-align: right;
+   }
+
+   div#navigation a {
+      color: #333;
+      margin: 6px 0px 6px 0px;
+   }
+
+   div#navigation_right {
+      background: none;
+      float:center;
+      right: 10px;
+
+      position: fixed;
+      top: 0px;
+     
+   }
+
+   div#navigation_right h1, div#navigation_right a {
+      display: block;
+      text-align: center;
+   }
+
+   div#navigation_right a {
+      color: #333;
+      margin: 6px 0px 6px 0px;
+   }
+   
+   div#content {
+      margin: 0px 0px 0px 156px;
+      padding: 0px 36px 0px 36px; 
+      width: 686px;
+   }
+}
