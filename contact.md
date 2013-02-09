@@ -8,7 +8,7 @@ Contact
 </br>
 <span data-icon="&#xe001;" aria-hidden="true" style="color:#005580;"></span> **Address**   
 Jayesh Kumar Gupta   
-C-204, Hall 5   
+C-305, Hall 5   
 IIT Kanpur   
 Kanpur, 208016, India
 
@@ -18,4 +18,6 @@ Kanpur, 208016, India
 **@ E-mail**:
 jayeshkg [AT] iitk.ac.in; a2z.jayesh [AT] iitk.ac.in
 
-The preferable way to contact me is to mail me at my email address. Did I say, I love e-mails?
+The preferable way to contact me is to mail me at my email address. Did I say, I love e-mails?[^1]
+
+[^1]: I love text as a medium of communication and will always prefer textual communication over face to face ones.
