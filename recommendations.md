@@ -14,28 +14,28 @@ I'll try recommending artists who I think deserve to be more known.
 
 ### Artists
 
--  [Anoushka Shankar]()
--  [Kalafina]()
--  [Yoko Kanno (菅野 よう子)]()
--  [Mooncake]()
--  [Explosions in the Sky]()
--  [Avial]()
--  [Dragonforce]()
--  [Fleet Foxes]()
--  [Indian Ocean]()
--  [Steve Conte]()
--  [Tenhi]()
--  [Yuki Kajiura (梶浦 由記)]()
--  [Susumu Hirasawa (平沢進)]()
+-  [Anoushka Shankar](http://en.wikipedia.org/wiki/Anoushka_Shankar)
+-  [Avial](http://en.wikipedia.org/wiki/Avial_(band))
+-  [Dragonforce](http://en.wikipedia.org/wiki/DragonForce)
+-  [Explosions in the Sky](http://en.wikipedia.org/wiki/Explosions_in_the_Sky)
+-  [Fleet Foxes](http://en.wikipedia.org/wiki/Fleet_Foxes)
+-  [Indian Ocean](http://en.wikipedia.org/wiki/Indian_Ocean_(band))
+-  [Kalafina](http://en.wikipedia.org/wiki/Kalafina)
+-  [Mooncake](http://www.mooncakeband.com/)
+-  [Steve Conte](http://en.wikipedia.org/wiki/Steve_Conte)
+-  [Susumu Hirasawa (平沢進)](http://en.wikipedia.org/wiki/Susumu_Hirasawa)
+-  [Tenhi](http://en.wikipedia.org/wiki/Tenhi)
+-  [Yoko Kanno (菅野 よう子)](http://en.wikipedia.org/wiki/Yoko_Kanno)
+-  [Yuki Kajiura (梶浦 由記)](http://en.wikipedia.org/wiki/Yuki_Kajiura)
+
 
 ### Albums
 
--  [America Town by _Five for Fighting_]()
--  [World Harmony by _Mrigya_]()
--  [Mutefish on Draught by _Mutefish_]()
--  [Serial Experiments Lain Soundtrack by _Reichi "Chabo" Nakaido (仲井戸麗市)_]()
--  [Era of Queens by _Origa_]()
--  [Flood by _They might be Giants_]()
+-  [World Harmony by _Mrigya_](http://www.mrigya.com/index.htm)
+-  [Mutefish on Draught by _Mutefish_](http://www.mutefish.ie/)
+-  [Serial Experiments Lain Soundtrack by _Reichi "Chabo" Nakaido (仲井戸麗市)_](http://en.wikipedia.org/wiki/Serial_Experiments_Lain#Soundtracks)
+-  [Era of Queens by _Origa_](http://en.wikipedia.org/wiki/Era_of_Queens)
+-  [Flood by _They might be Giants_](http://en.wikipedia.org/wiki/Flood_(They_Might_Be_Giants_album))
 
 ### Songs
 
@@ -121,8 +121,8 @@ I use free/open-source software almost exclusively as much as possible. Some of 
 -  [Terminus](http://terminus-font.sourceforge.net/) - My favorite monospaced terminal font
 -  [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) aka `urxvt` - only sane unicode-aware terminal emulator
 -  [xmonad](http://xmonad.org/) - a window manger that hasn't crashed for me ever
--  [emacs](www.gnu.org/s/emacs) - the only extensible editor
--  [Pentadactyl](5digits.org/pentadactyl/) - make `firefox` behave as Vim
+-  [emacs](http://www.gnu.org/s/emacs) - the only extensible editor
+-  [Pentadactyl](http://5digits.org/pentadactyl/) - make `firefox` behave as Vim
 -  [Claws Mail](http://www.claws-mail.org/) - sane mail
 -  [Zathura](http://pwmt.org/projects/zathura/) - cleanest document reader ever. Just waiting for `epub` support to ditch [Okular]() altogether.
 
@@ -130,3 +130,8 @@ I use free/open-source software almost exclusively as much as possible. Some of 
 Websites
 --------
 
+I follow a lot many websites via [Google Reader]().
+
+- [Gwern's Essays](http://www.gwern.net/)
+- [Hacker News](http://news.ycombinator.com/)
+- []()
