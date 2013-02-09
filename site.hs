@@ -1,4 +1,6 @@
 #!/usr/bin/env runhaskell
+
+{-Thanks to jaspervdj: http://jaspervdj.be/ -}
 --------------------------------------------------------------------------------
 {-# LANGUAGE Arrows            #-}
 {-# LANGUAGE OverloadedStrings #-}
@@ -23,7 +25,7 @@ import           Hakyll
 main :: IO ()
 main = hakyll $ do
          -- Static files
-    match ("images/*" .||. "favicon.ico" .||. "files/**") $ do
+    match ("images/*" .||. "javascripts/*" .||. "favicon.ico" .||. "files/**" .||. "fonts/*") $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -33,10 +35,10 @@ main = hakyll $ do
         compile compressCssCompiler
 
 
-         -- Build tags
+    -- Build tags
     tags <- buildTags "posts/*" (fromCapture "tags/*")
 
-         -- Render each and every post
+    -- Render each and every post
     match "posts/*" $ do
         route   $ setExtension ".html"
         compile $ do
