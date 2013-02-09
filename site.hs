@@ -36,7 +36,7 @@ main = hakyll $ do
 
 
     -- Build tags
-    tags <- buildTags "posts/*" (fromCapture "tags/*")
+    tags <- buildTags "posts/*" (fromCapture "tags/*.html")
 
     -- Render each and every post
     match "posts/*" $ do
