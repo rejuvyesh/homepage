@@ -1,6 +1,10 @@
 ---
 title: Art of Fooling
 description: Irrational personality development and self help
+author: rejuvyesh
+status: finished
+lastmodified: 11 February, 2013
+belief: likely
 tags: IIT-K
 ---
 
