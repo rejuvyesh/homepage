@@ -130,6 +130,7 @@ main = hakyll $ do
         , "acads.md"
         , "aboutme.md"
         , "recommendations.md"
+        , "episteme.md"
         ]
 
 
