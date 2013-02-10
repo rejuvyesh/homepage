@@ -23,6 +23,7 @@ var Footnotes = {
         var el = document.getElementById(id);
         div.html('<div>' + $(el).html() + '</div>');
         $(document.body).append(div);
+        
         var left = position.left;
         if (left + 420 > $(window).width() + $(window).scrollLeft()) left = $(window).width() - 420 + $(window).scrollLeft();
         var top = position.top + 20;
