@@ -20,9 +20,13 @@ author=`git config --get user.name`
 
 cat > "posts/"$filename <<EOF
 ---
-title: $title
+title: Rejuvyesh's Susurrus - $title
+description: 
 author: $author
-tags:
+status: in progress
+last-modified:
+belief:
+tags: 
 ---
 
 EOF
