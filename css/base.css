@@ -78,8 +78,9 @@ h1 {
 h2 {
    font-size: 22px;
    border-bottom: 1px solid #000;
-   width:100%;
+   
 }
+
 
 h3 {
    font-size: 18px;
@@ -152,8 +153,8 @@ div.footnotes hr {
 #footnotediv div{
    opacity:1;
    background-color:#fff;
-   padding:3px;
-   padding:12px;
+   padding:0px 12px;  /*  top and bottom 2px padding  */
+                      /*  left and right 12px padding  */
    max-width:600px;
    border:1px solid #d6e1ed;
 }
