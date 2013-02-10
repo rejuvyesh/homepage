@@ -26,7 +26,7 @@ Academic Background
 <td>BTech</td>
 <td>IIT Kanpur</td>
 <td>2015 (pursuing)</td>
-<td>CPI 9.8 (on a scale of 10 after 2 semesters)</td>
+<td>CPI 9.5 (on a scale of 10 after 3 semesters)</td>
 </tr>
 <tr>
 <td>Senior School Certificate Examination (Class 12) </td>
