@@ -129,7 +129,7 @@ pre code{
 
 .tagline {
    font-family: 'Lato', sans-serif;
-   font-size:20px; /* text-shadow: 0px 1px 1px #4d4d4d; */ color:#909090
+   font-size:20px; 
 }
 
 div.figure {
@@ -147,6 +147,15 @@ div.footnotes {
 
 div.footnotes hr {
    display: none;
+}
+
+#footnotediv div{
+   opacity:1;
+   background-color:#fff;
+   padding:3px;
+   padding:12px;
+   max-width:600px;
+   border:1px solid #d6e1ed;
 }
 
 div#footer {
