@@ -6,8 +6,10 @@ description: About Jayesh Kumar Gupta and the site.
 About
 =========
 
-<div style="color:red">Work Under Progress</div>
-
+<div style="background:#F88379;text-align:center;">Work Under Progress</div>
+<div class="soft">
+<span class="align_left"> Last Modified: 10 February, 2013 </span><span class="align_right"> Status: _in progress_ </span>
+</div>
 Me
 ---
 Hi! I am Jayesh Kumar Gupta. I am a sophomore undergraduate at IIT Kanpur.
@@ -39,9 +41,9 @@ I am trying to start a blog sort of thing for quite some time.[^2] I think it as
 This Site
 ---------
 
-I chose Hakyll as my static site generator, as it's quite similar in terms of configuration to [Xmonad](http://xmonad.org), my window manger. I shifted my blog too here from [Wordpress](http://wordpress.com) mainly for the markdown support. I cringed every time I had to use their crappy web-GUI and I really had no use for their _special_ features.
+I chose Hakyll as my static site generator, as it's quite similar, in terms of configuration, to [Xmonad](http://xmonad.org), my window manger. I shifted my blog too here from [Wordpress](http://wordpress.com) mainly for the markdown support. I cringed every time I had to use their crappy web-GUI and I really had no use for their _special_ features.
 
-The only issue I have with Archlinux, is the dependency hell of Haskell libraries. Only sane way to circumnavigate the issue is by using `hsenv`. `hsenv` is pretty neat in allowing a sandboxed environment for Haskell development. The biggest dependency of-course is `pandoc`. But seriously you must already have it installed[^a]. Then follow the advice on Hakyll's homepage.
+The only issue I have with Archlinux, is the dependency hell of Haskell libraries. Only sane way to circumnavigate this issue is by using `hsenv`. `hsenv` is pretty neat in allowing a sandboxed environment for Haskell development. The biggest dependency of-course is `pandoc`. But seriously you must already have it installed[^a]. Then follow the advice on Hakyll's homepage.
 
 I write source files in [Pandoc](http://johnmacfarlane.net/pandoc/) Markdown. Comments are outsourced to [Disqus](http://disqus.com/). This helps me keeping my site towards the minimal side [^b].
 
@@ -54,4 +56,3 @@ I'll try to keep everything on this site self-contained and hope to keep it acce
 [^b]: Without compromising with the design, I hope.
 
 [^c]: Except the external links of-course. IIT-K does not provide me more than 50-MB of space to host any other content, so I might need to relocate images. Moreover when I have enough content, I might get my own domain name, and relocate the entire website. But be assured that the entire repository will remain available on [Github](http://github.com) (or somewhere else).
-
