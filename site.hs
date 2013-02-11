@@ -42,7 +42,7 @@ main = hakyll $ do
     match "posts/*" $ do
         route   $ setExtension ".html"
         compile $ do
-            pandocCompiler
+            pandocCompilerWith defaultHakyllReaderOptions pandocOptions
                 >>= saveSnapshot "content"
                 >>= return . fmap demoteHeaders
                 >>= loadAndApplyTemplate "templates/post.html" (postCtx tags)
@@ -105,7 +105,7 @@ main = hakyll $ do
     -- Render some static pages
     match (fromList pages) $ do
         route   $ setExtension ".html"
-        compile $ pandocCompiler
+        compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
 
@@ -167,6 +167,14 @@ feedConfiguration title = FeedConfiguration
     , feedRoot        = "http://home.iitk.ac.in/~jayeshkg"
     }
 
+pandocOptions :: Pandoc.WriterOptions
+pandocOptions = defaultHakyllWriterOptions
+    { Pandoc.writerHtmlQTags = True
+    , Pandoc.writerTableOfContents = True
+    , Pandoc.writerSectionDivs = True
+    , Pandoc.writerTemplate = "<div id=\"TOC\">$toc$</div>\n$body$"
+    , Pandoc.writerStandalone = True
+    }
 
 --------------------------------------------------------------------------------
 postList :: Tags -> Pattern -> ([Item String] -> [Item String])
