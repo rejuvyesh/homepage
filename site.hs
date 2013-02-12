@@ -23,7 +23,7 @@ import           Hakyll
 --------------------------------------------------------------------------------
 -- | Entry point
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith config $ do
          -- Static files
     match ("images/*" .||. "javascripts/*" .||. "favicon.ico" .||. "files/**" .||. "fonts/*") $ do
         route   idRoute
@@ -158,9 +158,15 @@ feedCtx = mconcat
 
 
 --------------------------------------------------------------------------------
+config :: Configuration
+config = defaultConfiguration
+    { deployCommand = "rsync -avz _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/"
+    }
+
+
 feedConfiguration :: String -> FeedConfiguration
 feedConfiguration title = FeedConfiguration
-    { feedTitle       = "Rejuvyesh's susurrus - " ++ title
+    { feedTitle       = "Rejuvyesh's susurrus into the Wire - " ++ title
     , feedDescription = "Personal blog of Jayesh Kumar Gupta"
     , feedAuthorName  = "Jayesh Kumar Gupta"
     , feedAuthorEmail = "a2z.jayesh@gmail.com"
