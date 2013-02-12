@@ -1,5 +1,5 @@
 ---
-title: Academics
+title: Jayesh Kumar Gupta :: Academics
 description: Academic details of Jayesh Kumar Gupta
 ---
 
@@ -91,22 +91,21 @@ Major Courses
 
 **Mathematics:**                         **Others**:
 -------------                            ------------
-   Complex Analysis                      Fundamentals of Computing
-   Calculus                              Application of Psychology to Life
-   Linear Algebra                        Chemistry
-   Differential Equations                Engineering Graphics & Drawing
-   Probability and Statistics [^1]
+-   Complex Analysis                      -  Fundamentals of Computing
+-   Calculus                              -  Application of Psychology to Life
+-   Linear Algebra                        -  Chemistry
+-   Differential Equations                -  Engineering Graphics & Drawing
+-   Probability and Statistics [^1]
 
-<p>
-</p>
+<p></p>
 
 **Electrical Engineering:**                          **Physics:**
---------------------------------------              ------------
-   Introduction to Electronics                        Mechanics
-   Signals, Systems and Networks                      Electrodynamics
-   Introduction to Electrical Engineering [^1]
-   Microelectronics I [^1]
-   Control Systems [^1]
+--------------------------------------               ------------
+-   Introduction to Electronics                       -  Mechanics
+-   Signals, Systems and Networks                     -  Electrodynamics
+-   Introduction to Electrical Engineering [^1]
+-   Microelectronics I [^1]
+-   Control Systems [^1]
 
 
 
