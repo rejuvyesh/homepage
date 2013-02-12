@@ -10,7 +10,7 @@ A fair set of things I enjoy <span data-icon="&#xe004;" aria-hidden="true" style
 Music
 -----
 
-I'll try recommending artists who I think deserve to be more known.
+I'll try recommending artists who I think deserve to be more known. You can always track what am I listening to at [LastFM](http://www.last.fm/user/rejuvyesh).
 
 ### Artists
 
@@ -67,6 +67,8 @@ Again I'll try recommending less popular movies although it certainly doesn't me
 
 Anime
 ------
+
+You can track all anime I have seen at [MyAnimelist](http://myanimelist.net/profile/rejuvyesh).
 
 ### Movies
 
@@ -134,4 +136,4 @@ I follow a lot many websites via [Google Reader]().
 
 - [Gwern's Essays](http://www.gwern.net/)
 - [Hacker News](http://news.ycombinator.com/)
-- []()
+
