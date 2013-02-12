@@ -15,6 +15,7 @@ div#navigation {
 }
 
 div#navigation a {
+   color: #333;
    border: none;
    margin: 0px 6px 0px 6px;
 }
@@ -23,7 +24,7 @@ div#navigation_right {
    background: #d6e1ed url("../images/footer.png") repeat-x left top;
    text-align: center;
    position:bottom;
-   padding:100px; 
+   padding:30px; 
 }
 
 div#navigation_right a {
@@ -36,6 +37,16 @@ div#navigation_right a {
 }
 div#content {
    margin: 12px;
+}
+
+.name {
+   font-family: 'Josefin Slab', serif;
+   font-weight:400;
+   font-size:3em;
+   padding-top: 5%;
+   line-height: 1.5em;
+   color:#d6e1ed;
+   text-shadow: 0px 1px 1px #000;
 }
 
 @media all and (min-width: 822px) {
@@ -91,5 +102,15 @@ div#content {
       margin: 0px 0px 0px 156px;
       padding: 0px 36px 0px 36px; 
       width: 686px;
+   }
+
+   .name {
+      font-family: 'Josefin Slab', serif;
+      font-weight:400;
+      font-size:60px;
+      line-height:1.2em;
+      padding-top: 8%;
+      color:#d6e1ed;
+      text-shadow: 0px 1px 1px #000;
    }
 }
