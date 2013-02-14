@@ -9,8 +9,9 @@ p, ul {
 }
 
 img {
-   margin: 12px 0px 12px 0px;
-   max-width: 90%;
+   margin: 12px 0px 12px auto;
+   border: none;
+   max-width: 100%;
    height: auto;
    width: auto\9; /* ie8 */
 }
@@ -118,6 +119,11 @@ blockquote {
 .soft, .caption {
    font-style: italic;
    color: #555;
+}
+
+.status {
+   color: #555;
+   background: #d6e1ed;
 }
 
 /* Add very modest drop shadows, partially inspired by
