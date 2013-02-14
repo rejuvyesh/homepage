@@ -3,3 +3,5 @@
 _cache/
 _site/
 .hsenv/
+/sitemap.xml
+/TODO
