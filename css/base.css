@@ -13,7 +13,7 @@ img {
    border: none;
    max-width: 100%;
    height: auto;
-   width: auto\9; /* ie8 */
+   width: auto; 
 }
 
 em {

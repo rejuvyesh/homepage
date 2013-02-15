@@ -23,7 +23,7 @@ div#navigation a {
 div#navigation_right {
    background: #d6e1ed url("../images/footer.png") repeat-x left top;
    text-align: center;
-   position:bottom;
+   /* position: bottom; */
    padding:30px; 
 }
 
@@ -32,7 +32,7 @@ div#navigation_right a {
    margin: 0px 6px 0px 6px;
 }
 
-#toc {
+#TOC {
    display: none;
 }
 div#content {
@@ -81,9 +81,7 @@ div#content {
 
    div#navigation_right {
       background: none;
-      float:center;
       right: 10px;
-
       position: fixed;
       top: 0px;
       
