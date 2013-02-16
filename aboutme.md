@@ -17,11 +17,11 @@ Hi! I am Jayesh Kumar Gupta. I am a sophomore undergraduate at IIT Kanpur.
 
 So how should I go about describing myself?
 
-Judging by time within which I redesigned my website, I guess I am fairly narcissistic. 
+Judging by the time within which I redesigned my website, I guess I am fairly narcissistic. 
 
 I love making lists. I see lists as a means to build against the forces of information multitude. TODO
 
-I like books. I don't have any particular affinity to printed books having read most books in electronic format since a long time.[^0]
+I like books. I don't have any particular affinity to printed books, having read most books in electronic format since a long time.[^0]
 
 I am really sheepish to accept this but I really don't play any video games. I have seldom found them more interesting or even fun, than say a book or browsing the internet.[^3]
 
@@ -35,7 +35,7 @@ I have been trying to start a blog sort of thing for quite some time.[^2]
 
 Why, you may ask? All articles I have read about improving your writing skill reach a common conclusion: "only way to improve your writing skills is to write". A lot, I guess. I read plenty of books, papers, blogs and magazine articles. I think of blogging as a much better way to share what I have been reading and thinking about. Developing critical thinking requires a lot of practice, and writing is a useful aid in reflection. Writing about stuff, forces me to think harder, helping me to sharpen my thoughts, and improve my writing in the process too. Moreover I am into tracking my beliefs and ideas, and how they change with time. Having those in written is only helpful.
 
-Then why not facebook ^[Or Google+]? If you look at the history of internet, you'll realize that "big sites rise and fall in popularity"^[If you don't believe me just think of [Yahoo!](http://yahoo.com) or Orkut] while I think I'll want my internet identity to persist longer than those sites do. I don't want to be reduced to be a handle tacked at the end of a huge company's website ^[Facebook, I am looking at you]. Moreover, I find it very hard to find older posts on facebook ^[Especially without Google Searches being possible.]. With increasing tension between the social stalwarts like Facebook vs Twitter (over the Instagram issue) or Facebook vs Google+, instead of them collaborating to make the web a better place, it has become pertinent to me that I shouldn't leave my data to whims of a particular company.  
+Then why not Facebook ^[Or Google+]? If you look at the history of internet, you'll realize that "big sites rise and fall in popularity"^[If you don't believe me just think of [Yahoo!](http://yahoo.com) or Orkut] while I think I'll want my internet identity to persist longer than those sites do. I don't want to be reduced to be a handle tacked at the end of a huge company's website ^[Facebook, I am looking at you]. Moreover, I find it very hard to find older posts on facebook ^[Especially without Google Searches being possible.]. With increasing tension between the social stalwarts like Facebook vs Twitter (over the Instagram issue) or Facebook vs Google+, instead of them collaborating to make the web a better place, it has become pertinent to me that I shouldn't leave my data to whims of a particular company.  
 
 
 
