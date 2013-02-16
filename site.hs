@@ -50,13 +50,13 @@ main = hakyllWith config $ do
                 >>= relativizeUrls
                 
     -- Post list
-    create ["posts.html"] $ do
+    create ["weblog.html"] $ do
          route idRoute
          compile $ do
              list <- postList tags "posts/*" recentFirst
              makeItem ""
                 >>= loadAndApplyTemplate "templates/posts.html"
-                        (constField "title" "Posts" `mappend`
+                        (constField "title" "All Posts" `mappend`
                          constField "posts" list `mappend`
                          defaultContext)
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
