@@ -20,7 +20,7 @@ author=`git config --get user.name`
 
 cat > "posts/"$filename <<EOF
 ---
-title: Rejuvyesh's Susurrus - $title
+title: Rejuvyesh's Susurrus into the Wire - $title
 description: 
 author: $author
 status: in progress
@@ -31,4 +31,4 @@ tags:
 
 EOF
 
-$EDITOR "posts/"$filename
+$HOME/Scripts/emacs-gui "posts/"$filename
