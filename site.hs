@@ -166,7 +166,7 @@ config = defaultConfiguration
 
 feedConfiguration :: String -> FeedConfiguration
 feedConfiguration title = FeedConfiguration
-    { feedTitle       = "Rejuvyesh's Susurrus into the Wire - " ++ title
+    { feedTitle       = "Rejuvyesh's Whisperings into the Wire - " ++ title
     , feedDescription = "Personal blog of Jayesh Kumar Gupta"
     , feedAuthorName  = "Jayesh Kumar Gupta"
     , feedAuthorEmail = "a2z.jayesh@gmail.com"
