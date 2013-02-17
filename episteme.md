@@ -10,14 +10,14 @@ Episteme Tags
 
 <div style="background:#F88379;text-align:center;">Work Under Progress</div>
 <div class="soft">
-<span class="align_left"> Last Modified: 10 February, 2013 </span><span class="align_right"> Epistemic state: <a href="">highly likely</a></span>
+<span class="align_left"> Last Modified: 17 February, 2013 </span><span class="align_right"> Epistemic state: <a href="">highly likely</a></span>
 </div>
 
 Your being here implies your curiosity about these [epistemic](http://en.wikipedia.org/wiki/Epistemology) markers. I guess all other metadata in each page is self explanatory. Date denotes the day when it was posted, tags categorize the data, status explains the current state of the post: whether finished, in progress, or a draft ^[In decreasing order of completeness.].
 
 I have borrowed ^[or stolen if _you_ wish] this idea from [Gwern's belief tags](http://gwern.net) ^[who incidentally says that he stole the idea from [ Muflax’s "epistemic state"](http://muflax.com/episteme/) tags].
 
-Since I plan to track my beliefs over a period of time, I think this is a pretty neat idea. This way I'll never need to throw away my content if I no longer believe it to be true and have changed my mind.^[After all [what are the odds a 6-year-old would know what a 30-year-old wants to do?"](http://www.qwantz.com/index.php?comic=2366)] I do not wish to end claiming that "I'm agnostic about everything."^[That's why I haven't given any leeway to myself in having a tag for probability near 50%, although I agree that there are some situations where you don't have any data to do any better.]
+Since I plan to track my beliefs over a period of time, I think this is a pretty neat idea. This way I'll never need to throw away my content if I no longer believe it to be true and have changed my mind.^[After all [what are the odds a 6-year-old would know what a 30-year-old wants to do?"](http://www.qwantz.com/index.php?comic=2366)] I do not wish to end up claiming that "I'm agnostic about everything."^[That's why I haven't given any leeway to myself in having a tag for probability near 50%, although I agree that there are some situations where you don't have any data to do any better.]
 
 I plan to use following tags:^[Mostly similar to _Gwern's_, using ["Kesselman List of Estimative Words"](http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf), page 71]
 
@@ -33,4 +33,4 @@ I plan to use following tags:^[Mostly similar to _Gwern's_, using ["Kesselman Li
 
    -  **emotional**: These are much personal in nature. "cluster of ideas that got itself entangled with a complex emotional state, and I needed to externalize it to even look at it"
 
-   -  **log**
+   -  **log**: These are just a log of events as they happened without my comments.
