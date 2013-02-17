@@ -5,7 +5,8 @@ h1, h2, h3 {
 }
 
 p, ul {
-   margin: 18px 0px 18px 0px;
+   margin-left: 1em;
+   margin-right: 1em;
 }
 
 img {
@@ -35,12 +36,13 @@ div#footer {
 html {
    background-color: #fff;
    font-size: 16px;
-   font-family: 'Lato', sans-serif;
-   line-height: 24px;
+   font-family: 'Lato', 'Proxima Nova', sans-serif;
+   line-height: 1.3;
 }
 
 body {
    color: #333;
+   margin: 0px 0px 18px 0px;
 }
 
 a, a:link, a:visited {
@@ -112,8 +114,12 @@ ul {
 }
 
 blockquote {
-   font-style: italic;
-   margin-left: 18px;
+   border-left: 10px solid #d6e1f3;
+   border-right: 10px solid #d6e1f3;
+   margin-left: 1em;
+   margin-right: 1em;
+   padding-left: 0;
+   
 }
 
 .soft, .caption {
@@ -147,7 +153,11 @@ q {
 }
 
 /* Better footnotes */
-sub, sup { line-height: 0.3em; }
+sub, sup {
+   line-height: 0.2em;
+   margin-left: 0.2em;
+   font-size:small;
+}
 
 /* code { */
 /*    font-size:12px; */
@@ -173,7 +183,8 @@ pre code{
 .tagline {
    padding:10px 10px;
    font-family: 'Lato', sans-serif;
-   font-size:20px;
+   font-size:1.02em;
+   text-align:left;
    color:#888
 }
 
@@ -186,8 +197,9 @@ div.figure p {
 }
 
 div.footnotes {
+   border-top: 10px solid #d6e1ed;
    color: #555;
-   border-left: 1px dashed #555;
+   
 }
 
 div.footnotes hr {
