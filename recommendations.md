@@ -53,6 +53,8 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 -  [Crazy Sunshine by _The Pillows_](http://www.youtube.com/watch?v=xzTRd3NoZ0A)
 -  [Losing My Religion by _R.E.M_](http://www.youtube.com/watch?v=xwtdhWltSIg)
 -  [I Can't Decide by _Scissor Sisters_](http://www.youtube.com/watch?v=OFKUnfwBPTU)
+-  [Let Them Bleed by _Toggi_]()
+-  [Paper Airplane by _Alison Krauss & Union Station]()
 
 Movies
 ------
