@@ -54,7 +54,7 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 -  [Losing My Religion by _R.E.M_](http://www.youtube.com/watch?v=xwtdhWltSIg)
 -  [I Can't Decide by _Scissor Sisters_](http://www.youtube.com/watch?v=OFKUnfwBPTU)
 -  [Let Them Bleed by _Toggi_]()
--  [Paper Airplane by _Alison Krauss & Union Station]()
+-  [Paper Airplane by _Alison Krauss & Union Station](https://www.youtube.com/watch?v=2-0drZqMdR4)
 
 Movies
 ------
