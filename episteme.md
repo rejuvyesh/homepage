@@ -8,7 +8,6 @@ description: Describing the reason behind the epistemic markers
 Episteme Tags
 =============
 
-<div style="background:#F88379;text-align:center;">Work Under Progress</div>
 <div class="soft">
 <span class="align_left"> Last Modified: 17 February, 2013 </span><span class="align_right"> Epistemic state: <a href="">highly likely</a></span>
 </div>
@@ -17,13 +16,13 @@ Your being here implies your curiosity about these [epistemic](http://en.wikiped
 
 I have borrowed ^[or stolen if _you_ wish] this idea from [Gwern's belief tags](http://gwern.net) ^[who incidentally says that he stole the idea from [ Muflax’s "epistemic state"](http://muflax.com/episteme/) tags].
 
-Since I plan to track my beliefs over a period of time, I think this is a pretty neat idea. This way I'll never need to throw away my content if I no longer believe it to be true and have changed my mind.^[After all [what are the odds a 6-year-old would know what a 30-year-old wants to do?"](http://www.qwantz.com/index.php?comic=2366)] I do not wish to end up claiming that "I'm agnostic about everything."^[That's why I haven't given any leeway to myself in having a tag for probability near 50%, although I agree that there are some situations where you don't have any data to do any better.]
+Since I plan to track my beliefs over a period of time, I think this is a pretty neat idea. This way I'll never need to throw away my content if I no longer believe it to be true and have changed my mind.^[After all [what are the odds a 6-year-old would know what a 30-year-old wants to do?"](http://www.qwantz.com/index.php?comic=2366)] Since, I do not wish to end up claiming that "I'm agnostic about everything" I haven't given any leeway to myself in having a tag for probability near 50%, although I agree that there are some situations where you don't have any data to do any better.
 
 I plan to use following tags:^[Mostly similar to _Gwern's_, using ["Kesselman List of Estimative Words"](http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf), page 71]
 
    -  **certain**: Everything on this page is correct as per my current knowledge. I fully endorse it and there are not many errors. If asked to assign a probability, I'll say `p > 85%`.
 
-   -  **highly likely**: The point I was trying to make was fine but there are gaps in my reasoning and isn't so well put. I need to rewrite the post, so be careful. Probability `70% < p < 85%`
+   -  **highly likely**: The point I was trying to make was fine but there are gaps in my reasoning and may be, isn't so well put. I might need to rewrite the post, so be careful. Probability `70% < p < 85%`
 
    -  **likely**: I found some idea interesting and managed to move over my laziness and _type_, to understand it better. I assign a medium high probability of `55% < p < 70%` to it being true.
 
