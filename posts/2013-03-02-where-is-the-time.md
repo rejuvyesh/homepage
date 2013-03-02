@@ -32,8 +32,11 @@ Now onto music. A visit to the largest music database in the world, [Gracenote](
 ## Movies and TV shows
 
 So do you even have any time left for this? Well have you seen the [IMDB](http://en.wikipedia.org/wiki/Internet%20Movie%20Database)'s [Top 250](http://www.imdb.com/chart/top)? That's alone worth 2/3rd of a year ^[Watching one movie every day, after all you have other things to do as well. Right?]. IMDB too faddish for you? Have a look at _NY Times_' ["The Best 1,000 Movies Ever Made"](http://www.nytimes.com/ref/movies/1000best.html) which would be another 3 years at a movie per day. And really, you are watching that stupid _Salman Khan_ movie again? You have to be kidding me!
+
 TV shows! What TV shows? I don't any time left for watching those TV shows or a metric to compare their seasons upon seasons. I know I 'll be missing on art like _The Wire_ and _Breaking Bad_ but you'll have to cull something!
 
 And please... don't get me started on anime.
 
-And you seriously want me not to just remain a consumer of information but also a producer? _You gotta be kidding me_.   
+And you seriously want me not to just remain a consumer of information but also a producer? 
+
+![_You gotta be kidding me_.](/images/kidding.png)
