@@ -119,7 +119,8 @@ blockquote {
    border-right: 10px solid #d6e1f3;
    margin-left: 1em;
    margin-right: 1em;
-   padding-left: 0;
+   padding-left: 0.3em;
+   padding-right: 0.3em;
    
 }
 
@@ -139,6 +140,7 @@ http://nicolasgallagher.com/css-drop-shadows-without-images/demo/
 'alternating'/zebra-stripe coloring of quotes. */
 blockquote, blockquote blockquote blockquote, blockquote
 blockquote blockquote blockquote blockquote {
+   
    z-index: -2;
    background-color: rgb(250, 250, 250);
 }
