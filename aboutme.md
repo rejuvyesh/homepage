@@ -67,5 +67,3 @@ I'll try to keep everything on this site self-contained [^c] and hope to keep it
 [^d]: I have enough content, I might get my own domain name, and think of hosting it somewhere. But be assured that the entire repository will remain available on [Github](http://github.com) (or somewhere else).
 
 Signing Off!
-
-* * * * *
