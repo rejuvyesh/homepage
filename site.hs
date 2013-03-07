@@ -48,10 +48,11 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/post.html" (postCtx tags)
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
+                >>= removeIndexHtml
                 
     -- Post list
     create ["weblog.html"] $ do
-         route idRoute
+         route $ niceRoute
          compile $ do
              list <- postList tags "posts/*" recentFirst
              makeItem ""
@@ -61,13 +62,14 @@ main = hakyllWith config $ do
                          defaultContext)
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
+                >>= removeIndexHtml
 
     -- Post tags
     tagsRules tags $ \tag pattern -> do
          let title = "Posts tagged " ++ tag
 
         -- Copied from posts, need to refactor
-         route idRoute
+         route $ niceRoute
          compile $ do
              list <- postList tags pattern recentFirst
              makeItem ""
@@ -77,6 +79,7 @@ main = hakyllWith config $ do
                          defaultContext)
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
+                >>= removeIndexHtml
 
         -- Create RSS feed as well
          version "rss" $ do
@@ -87,7 +90,7 @@ main = hakyllWith config $ do
 
     -- Index
     match "index.html" $ do
-        route idRoute
+        route $ niceRoute
         compile $ do
             list <- postList tags "posts/*" $ take 3 . recentFirst
             let indexContext = constField "posts" list `mappend`
@@ -98,6 +101,7 @@ main = hakyllWith config $ do
                 >>= applyAsTemplate indexContext
                 >>= loadAndApplyTemplate "templates/default.html" indexContext
                 >>= relativizeUrls
+                >>= removeIndexHtml
 
     -- Read templates
     match "templates/*" $ compile $ templateCompiler
@@ -108,6 +112,7 @@ main = hakyllWith config $ do
         compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
+                >>= removeIndexHtml
 
     -- Render the 404 page, we don't relativize URL's here.
     match "404.html" $ do
@@ -149,6 +154,7 @@ footerCtx = mconcat
     , defaultContext
     ]
 
+-------------------------------------------------------------------------------
 -- replace a foo/bar.md by foo/bar/index.html
 -- this way the url looks like: foo/bar in most browsers
 niceRoute :: Routes
@@ -157,6 +163,14 @@ niceRoute = customRoute createIndexRoute
     createIndexRoute ident = takeDirectory p </> takeBaseName p </> "index.html"
                              where p=toFilePath ident
 
+-- replace url of the form foo/bar/index.html by foo/bar
+removeIndexHtml :: Item String -> Compiler (Item String)
+removeIndexHtml item = return $ fmap (withUrls removeIndexStr) item
+  where
+    removeIndexStr :: String -> String
+    removeIndexStr str@(x:xs) | str == "/index.html" = ""
+                              | otherwise = x:removeIndexStr xs
+    removeIndexStr [] = []
 
 --------------------------------------------------------------------------------
 feedCtx :: Context String
