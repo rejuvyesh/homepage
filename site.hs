@@ -52,7 +52,7 @@ main = hakyllWith config $ do
                 
     -- Post list
     create ["weblog.html"] $ do
-         route $ niceRoute
+         route idRoute
          compile $ do
              list <- postList tags "posts/*" recentFirst
              makeItem ""
@@ -90,7 +90,7 @@ main = hakyllWith config $ do
 
     -- Index
     match "index.html" $ do
-        route $ niceRoute
+        route idRoute
         compile $ do
             list <- postList tags "posts/*" $ take 3 . recentFirst
             let indexContext = constField "posts" list `mappend`
