@@ -12,7 +12,7 @@ import           Control.Applicative ((<$>))
 import           Data.Monoid         (mappend, mconcat)
 import           Prelude             hiding (id)
 import           System.Cmd          (system)
-import           System.FilePath     (replaceExtension, takeDirectory)
+import           System.FilePath     (replaceExtension, takeDirectory, takeBaseName, (</>))
 import qualified Text.Pandoc         as Pandoc
 
 
@@ -40,7 +40,7 @@ main = hakyllWith config $ do
 
     -- Render each and every post
     match "posts/*" $ do
-        route   $ setExtension ".html"
+        route   $ niceRoute
         compile $ do
             pandocCompiler
                 >>= saveSnapshot "content"
@@ -149,6 +149,15 @@ footerCtx = mconcat
     , defaultContext
     ]
 
+-- replace a foo/bar.md by foo/bar/index.html
+-- this way the url looks like: foo/bar in most browsers
+niceRoute :: Routes
+niceRoute = customRoute createIndexRoute
+  where
+    createIndexRoute ident = takeDirectory p </> takeBaseName p </> "index.html"
+                             where p=toFilePath ident
+
+
 --------------------------------------------------------------------------------
 feedCtx :: Context String
 feedCtx = mconcat
@@ -160,7 +169,7 @@ feedCtx = mconcat
 --------------------------------------------------------------------------------
 config :: Configuration
 config = defaultConfiguration
-    { deployCommand = "rsync -avz _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/"
+    { deployCommand = "rsync -avz --checksum _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/"
     }
 
 
