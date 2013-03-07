@@ -13,6 +13,7 @@ title=${REPLY}
 clean_title=`echo $title | tr "[:upper:]" "[:lower:]"]` #Lower Case
 clean_title=`echo $clean_title | iconv -f utf-8 -t ascii//translit` #Remove accents
 clean_title=`echo $clean_title | tr -dc '[a-z0-9\. -_]'` #Keep spaces and letters
+clean_title=`echo $clean_title | tr -d '[!?@#$%\^&"']'` #Remove punctuations
 clean_title=`echo $clean_title | tr " " "-"` #Replace spaces by dashes
 
 filename=$date_pattern$clean_title.md
