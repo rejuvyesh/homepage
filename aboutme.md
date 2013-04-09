@@ -29,18 +29,24 @@ I am really sheepish to accept this but I really don't play any video games. I h
 Blog
 ----
 
-> Just as inviting people over forces you to clean up your apartment, writing something that other people will read forces you to think well. [^1]
+
 
 I have been trying to start a blog sort of thing for quite some time.[^2]
 
 Why, you may ask? All articles I have read about improving your writing skill reach a common conclusion: "only way to improve your writing skills is to write". A lot, I guess. I read plenty of books, papers, blogs and magazine articles. I think of blogging as a much better way to share what I have been reading and thinking about. Developing critical thinking requires a lot of practice, and writing is a useful aid in reflection. Writing about stuff, forces me to think harder, helping me to sharpen my thoughts, and improve my writing in the process too. Moreover I am into tracking my beliefs and ideas, and how they change with time. Having those in written is only helpful.
 
-Then why not Facebook ^[Or Google+]? If you look at the history of internet, you'll realize that "big sites rise and fall in popularity"^[If you don't believe me just think of [Yahoo!](http://yahoo.com) or Orkut] while I think I'll want my internet identity to persist longer than those sites do. I don't want to be reduced to be a handle tacked at the end of a huge company's website ^[Facebook, I am looking at you]. Moreover, I find it very hard to find older posts on facebook ^[Especially without Google Searches being possible.]. With increasing tension between the social stalwarts like Facebook vs Twitter (over the Instagram issue) or Facebook vs Google+, instead of them collaborating to make the web a better place, it has become pertinent to me that I shouldn't leave my data to whims of a particular company.  
+If you read the last paragraph carefully you might have noticed that I still didn't answer - why blogging? I could have started a personal diary or something too, couldn't I? After-all people wrote before blogs were invented, didn't they?.
+
+> Just as inviting people over forces you to clean up your apartment, writing something that other people will read forces you to think well. [^graham]
+
+The most important reason behind blogging is the illusion it gives me that someone else will read my writing. Writing for even one person seems to be more satisfactory than doing it for nobody. So, I request you, dear reader, to leave you reactions and comments to my posts, as they are the most motivating part of the entire process.
+
+Then why not Facebook ^[Or Google+]? If you look at the history of internet, you'll realize that "big sites rise and fall in popularity"^[If you don't believe me just think of [Yahoo!](http://yahoo.com) or Orkut] while I think I'll want my internet identity to persist longer than those sites do. I don't want to be reduced to be a handle tacked at the end of a huge company's website ^[Facebook, I am looking at you]. Moreover, I find it very hard to find older posts on facebook ^[Especially without Google Searches being possible. I still haven't got Graph Search to change my mind.]. With increasing tension between the social stalwarts like Facebook vs Twitter (over the Instagram issue) or Facebook vs Google+, instead of them collaborating to make the web a better place, it has become pertinent to me that I shouldn't leave my data to whims of a particular company.
 
 
 
 [^0]: I haven't really owned many books and my school library was nearly close to useless, once I had some sort of access to the internet.
-[^1]: [_Paul Graham_](http://www.paulgraham.com/essay.html)
+[^graham]: [_Paul Graham_](http://www.paulgraham.com/essay.html)
 [^2]: As some might know/remember, _Rejuvyesh Spricht_.
 [^3]: This might be more because I am pretty bad at them. (Actually I am pretty bad at anything which requires quick decisions.) Only computer game I liked was [Simcity 4](http://en.wikipedia.org/wiki/SimCity_4).
 
@@ -64,6 +70,6 @@ I'll try to keep everything on this site self-contained [^c] and hope to keep it
 
 [^c]: Except the external links of-course. IIT-K does not provide me more than 50-MB of space to host any other content, so I might need to relocate images.
 
-[^d]: I have enough content, I might get my own domain name, and think of hosting it somewhere. But be assured that the entire repository will remain available on [Github](http://github.com) (or somewhere else).
+[^d]: When I have enough content, I might get my own domain name, and think of hosting it somewhere. But be assured that the entire repository will remain available on [Github](http://github.com) (or somewhere else).
 
 Signing Off!
