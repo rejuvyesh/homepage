@@ -177,7 +177,7 @@ feedCtx = mconcat
 --------------------------------------------------------------------------------
 config :: Configuration
 config = defaultConfiguration
-    { deployCommand = "rsync -avz --checksum _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/"
+    { deployCommand = "rsync -avz --delete --checksum _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/"
     }
 
 
