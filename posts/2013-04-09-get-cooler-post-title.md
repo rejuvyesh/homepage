@@ -3,7 +3,7 @@ title: Get Cooler Post Title
 description: Just a log of random stuff mostly book reviews
 author: rejuvyesh
 status: finished
-lastmodified:11 April, 2013
+lastmodified: 11 April, 2013
 belief: log
 tags: books, log 
 ---
