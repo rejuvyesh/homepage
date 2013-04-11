@@ -32,4 +32,4 @@ I plan to use following tags:^[Mostly similar to _Gwern's_, using ["Kesselman Li
 
    -  **emotional**: These are much personal in nature. "cluster of ideas that got itself entangled with a complex emotional state, and I needed to externalize it to even look at it"
 
-   -  **log**: These are just a log of events as they happened without my comments.
+   -  **log**: These are just a log of events as they happened hopefully without my biased comments.
