@@ -95,7 +95,7 @@ Major Courses
 -   Calculus                              -  Application of Psychology to Life
 -   Linear Algebra                        -  Chemistry
 -   Differential Equations                -  Engineering Graphics & Drawing
--   Probability and Statistics [^1]
+-   Probability and Statistics 
 
 <p></p>
 
@@ -103,9 +103,9 @@ Major Courses
 --------------------------------------               ------------
 -   Introduction to Electronics                       -  Mechanics
 -   Signals, Systems and Networks                     -  Electrodynamics
--   Introduction to Electrical Engineering [^1]
--   Microelectronics I [^1]
--   Control Systems [^1]
+-   Introduction to Electrical Engineering
+-   Microelectronics I
+-   Control Systems
 
 
 

@@ -25,6 +25,8 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 -  [Steve Conte](http://en.wikipedia.org/wiki/Steve_Conte)
 -  [Susumu Hirasawa (平沢進)](http://en.wikipedia.org/wiki/Susumu_Hirasawa)
 -  [Tenhi](http://en.wikipedia.org/wiki/Tenhi)
+-  [World's End Girlfriend](https://en.wikipedia.org/wiki/World%27s_End_Girlfriend)
+-  [Yndi Halda](https://en.wikipedia.org/wiki/Yndi_Halda)
 -  [Yoko Kanno (菅野 よう子)](http://en.wikipedia.org/wiki/Yoko_Kanno)
 -  [Yuki Kajiura (梶浦 由記)](http://en.wikipedia.org/wiki/Yuki_Kajiura)
 
@@ -33,12 +35,10 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 
 -  [World Harmony by _Mrigya_](http://www.mrigya.com/index.htm)
 -  [Mutefish on Draught by _Mutefish_](http://www.mutefish.ie/)
--  [Serial Experiments Lain Soundtrack by _Reichi "Chabo" Nakaido (仲井戸麗市)_](http://en.wikipedia.org/wiki/Serial_Experiments_Lain#Soundtracks)
--  [Era of Queens by _Origa_](http://en.wikipedia.org/wiki/Era_of_Queens)
--  [Flood by _They might be Giants_](http://en.wikipedia.org/wiki/Flood_(They_Might_Be_Giants_album))
 
 ### Songs
 
+-  [100 Years of Choke by _World's End Girlfriend_]()
 -  [Duvet by _Bôa_](http://www.youtube.com/watch?v=T0N5YblvT1c)
 -  [Victory Song by _Ensiferum_](http://www.youtube.com/watch?v=fyvPe0uqjjY)
 -  [Drumming Song by _Florence + The Machine_]()
@@ -66,6 +66,7 @@ Again I'll try recommending less popular movies although it certainly doesn't me
 -  [The Man from Earth](http://www.imdb.com/title/tt0756683/)
 -  [Eternal Sunshine of the Spotless Mind](http://www.imdb.com/title/tt0338013/)
 -  [Monty Python and the Holy Grail](http://www.imdb.com/title/tt0071853/)
+-  [Oldboy](http://www.imdb.com/title/tt0364569/)
 
 Anime
 ------
