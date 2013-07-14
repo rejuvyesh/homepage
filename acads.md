@@ -6,7 +6,7 @@ description: Academic details of Jayesh Kumar Gupta
 Academics
 =========
 
-I am a sophomore undergraduate student at [Department of Electrical
+I am a junior undergraduate student at [Department of Electrical
 Engineering](http://www.iitk.ac.in/ee/) at Indian Institute of Technology, Kanpur. (In case you missed the url).
 
 
@@ -26,7 +26,7 @@ Academic Background
 <td>BTech</td>
 <td>IIT Kanpur</td>
 <td>2015 (pursuing)</td>
-<td>CPI 9.5 (on a scale of 10 after 3 semesters)</td>
+<td>CPI 9.5 (on a scale of 10 after 4 semesters)</td>
 </tr>
 <tr>
 <td>Senior School Certificate Examination (Class 12) </td>
@@ -51,6 +51,20 @@ Academic Background
 Research
 --------
 
+### MTBA: Matlab Toolbox for Biclustering Analysis
+**Guide:**[Dr. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
+<div style="float:right">R&D Project, IIT Kanpur (Summer 2013)</div>
+
+We developed a new Matlab^TM toolbox designed to perform a variety of biclustering algorithms under a common user interface, providing multiple functionalities for data handling, preprocessing, biclustering and visualization. More information is available on the [toolbox website](http://home.iitk.ac.in/~jayeshkg/mtba/). 
+
+### Feature Level Analysis
+**Guide:**[Dr. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
+<div style="float:right">R&D Project, IIT Kanpur (Winter 2012)</div>
+
+We took a case-study of acoustic and vibrational features from the different working states of an air compressor and graphically analyze them to derive the best feature set. We then validate our results by comparing the classification accuracy of the SVM model built by these feature sets with the standard PCA based SVM model, getting similar accuracies for both methods. This helped us to reduce the complexity of our earlier smartphone application while giving comparable results.
+
+
+
 ### Smart Phone Application for Fault Recognition
 
 **Guide:**[Dr. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
@@ -67,7 +81,6 @@ range of fields; even in industry.
 
 The paper *Smart Phone Application for Fault Recognition* has been
 accepted for [ICST 2012](http://seat.massey.ac.nz/conferences/icst2012/)
-
 
 
 Projects
