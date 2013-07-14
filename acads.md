@@ -55,7 +55,7 @@ Research
 **Guide:**[Dr. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">R&D Project, IIT Kanpur (Summer 2013)</div>
 
-We developed a new Matlab^TM toolbox designed to perform a variety of biclustering algorithms under a common user interface, providing multiple functionalities for data handling, preprocessing, biclustering and visualization. More information is available on the [toolbox website](http://home.iitk.ac.in/~jayeshkg/mtba/). 
+We developed a new Matlab^TM^ toolbox designed to perform a variety of biclustering algorithms under a common user interface, providing multiple functionalities for data handling, preprocessing, biclustering and visualization. More information is available on the [toolbox website](http://home.iitk.ac.in/~jayeshkg/mtba/). 
 
 ### Feature Level Analysis
 **Guide:**[Dr. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
