@@ -38,10 +38,10 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 
 ### Songs
 
--  [100 Years of Choke by _World's End Girlfriend_]()
+-  [100 Years of Choke by _World's End Girlfriend_](http://youtu.be/KYBulfbBstc)
 -  [Duvet by _Bôa_](http://www.youtube.com/watch?v=T0N5YblvT1c)
 -  [Victory Song by _Ensiferum_](http://www.youtube.com/watch?v=fyvPe0uqjjY)
--  [Drumming Song by _Florence + The Machine_]()
+-  [Drumming Song by _Florence + The Machine_](http://youtu.be/TpLXQorSQe8)
 -  [Chant I (Making of Cyborg) by _Kenji Kawai_](http://www.youtube.com/watch?v=D1u15C3zp50)
 -  [A different day by _Half an Eye_](http://www.youtube.com/watch?v=FYGQb73SIXs)
 -  [Afterglow by _INXS_](http://www.youtube.com/watch?v=OnTelUJrDhc)
@@ -53,8 +53,8 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 -  [Crazy Sunshine by _The Pillows_](http://www.youtube.com/watch?v=xzTRd3NoZ0A)
 -  [Losing My Religion by _R.E.M_](http://www.youtube.com/watch?v=xwtdhWltSIg)
 -  [I Can't Decide by _Scissor Sisters_](http://www.youtube.com/watch?v=OFKUnfwBPTU)
--  [Let Them Bleed by _Toggi_]()
--  [Paper Airplane by _Alison Krauss & Union Station](https://www.youtube.com/watch?v=2-0drZqMdR4)
+-  [Let Them Bleed by _Toggi_](http://youtu.be/1yWgiCPwbnk)
+-  [Paper Airplane by _Alison Krauss & Union Station_](https://www.youtube.com/watch?v=2-0drZqMdR4)
 
 Movies
 ------
@@ -103,13 +103,13 @@ You can track all anime I have seen at [MyAnimelist](http://myanimelist.net/prof
 TV
 ---
 
-- [Sherlock]()
+- [Sherlock](http://www.imdb.com/title/tt1475582/)
 - [Freaks and Geeks]()
-- [House]()
-- [Breaking Bad]()
-- [The Wire]()
-- [The IT Crowd]()
-- [The Dewarist]()
+- [House](http://www.imdb.com/title/tt0412142/)
+- [Breaking Bad](http://www.imdb.com/title/tt0903747/)
+- [The Wire](http://www.imdb.com/title/tt0306414/)
+- [The IT Crowd](http://www.imdb.com/title/tt0487831/)
+- [The Dewarist](http://www.dewarsindia.com/the-dewarists/about-dewarists.aspx)
 
 Books
 -----
@@ -135,7 +135,7 @@ I use free/open-source software almost exclusively as much as possible. Some of 
 Websites
 --------
 
-I follow a lot many websites via [Google Reader]().
+I follow a lot many websites via ~~Google Reader~~ [theoldreader](theoldreader.com).
 
 - [Gwern's Essays](http://www.gwern.net/)
 - [Hacker News](http://news.ycombinator.com/)
