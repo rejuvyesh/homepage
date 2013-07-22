@@ -40,3 +40,5 @@ And please... don't get me started on anime.
 And you seriously want me not to just remain a consumer of information but also a producer? 
 
 ![_You gotta be kidding me_.](/images/kidding.png)
+
+BTW you should better check out [Gwern's essay](http://www.gwern.net/Culture%20is%20not%20about%20Esthetics) on Culture and how it's not about esthetics.
