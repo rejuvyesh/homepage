@@ -253,7 +253,7 @@ ul.social {
    text-align: center;
 }
 ul.social li {
-   background: none repeat scroll 0 0 #bbb;
+   background: none repeat scroll 0 0 #ddd;
    border-radius: 100% 100% 100% 100%;
    display: inline-block;
    height: 60px;
@@ -266,7 +266,7 @@ ul.social li {
    
 }
 ul.social li:hover {
-   background: none repeat scroll 0 0 #888;
+   background: none repeat scroll 0 0 #d6e1ed;
 }
 ul.social li a {
    border-bottom: none;
