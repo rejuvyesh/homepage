@@ -8,11 +8,12 @@ module Main where
 
 
 --------------------------------------------------------------------------------
-import           Data.Monoid         (mappend, mconcat)
-import           Prelude             hiding (id)
-import           System.Cmd          (system)
-import           System.FilePath     (replaceExtension, takeDirectory, takeBaseName, (</>))
-import qualified Text.Pandoc         as Pandoc
+import           Data.Monoid     (mappend, mconcat)
+import           Prelude         hiding (id)
+import           System.Cmd      (system)
+import           System.FilePath (replaceExtension, takeBaseName, takeDirectory,
+                                  (</>))
+import qualified Text.Pandoc     as Pandoc
 
 
 --------------------------------------------------------------------------------
@@ -48,7 +49,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
                 >>= removeIndexHtml
-                
+
     -- Post list
     create ["weblog.html"] $ do
          route idRoute
@@ -127,7 +128,7 @@ main = hakyllWith config $ do
                 >>= fmap (take 10) . recentFirst
                 >>= renderAtom (feedConfiguration "All posts") feedCtx
 
-   
+
     where
     pages =
         [ "contact.md"
