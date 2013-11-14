@@ -187,8 +187,8 @@ feedConfiguration title = FeedConfiguration
     { feedTitle       = "Rejuvyesh's Whisperings into the Wire - " ++ title
     , feedDescription = "Personal blog of Jayesh Kumar Gupta"
     , feedAuthorName  = "Jayesh Kumar Gupta"
-    , feedAuthorEmail = "a2z.jayesh@gmail.com"
-    , feedRoot        = "http://home.iitk.ac.in/~jayeshkg"
+    , feedAuthorEmail = "mail@rejuvyesh.com"
+    , feedRoot        = "http://rejuvyesh.com"
     }
 
 pandocOptions :: Pandoc.WriterOptions
