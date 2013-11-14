@@ -16,7 +16,7 @@ Kanpur, 208016, India
 <span class="icon-mobile" aria-hidden="true" style="color:#005580;"></span>**Mobile** : (+91)    9005434081
 
 **@ E-mail**:
-<jayeshkg@iitk.ac.in>; <a2z.jayesh@gmail.com>
+<jayeshkg@iitk.ac.in>; <mail@rejuvyesh.com>
 
 The preferable way to contact me is to mail me at my email address. Did I say, I love e-mails?
 
