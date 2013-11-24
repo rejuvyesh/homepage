@@ -34,8 +34,6 @@ I am really sheepish to accept this but I really don't play any video games. I h
 Blog
 ----
 
-
-
 I have been trying to start a blog sort of thing for quite some time.[^2]
 
 Why, you may ask? All articles I have read about improving your writing skill reach a common conclusion: "only way to improve your writing skills is to write". A lot, I guess. I read plenty of books, papers, blogs and magazine articles. I think of blogging as a much better way to share what I have been reading and thinking about. Developing critical thinking requires a lot of practice, and writing is a useful aid in reflection. Writing about stuff, forces me to think harder, helping me to sharpen my thoughts, and improve my writing in the process too. Moreover I am into tracking my beliefs and ideas, and how they change with time. Having those in written is only helpful.
@@ -59,7 +57,7 @@ Then why not Facebook ^[Or Google+]? If you look at the history of internet, you
 This Site
 ---------
 
-I chose Hakyll as my static site generator, as it's quite similar, in terms of configuration, to [Xmonad](http://xmonad.org), my window manger. I shifted my blog too here from [Wordpress](http://wordpress.com) mainly for bringing my writing under [version control](), and the markdown support. I cringed every time I had to use their crappy web-GUI and I really had no use for their _special_ features.
+I chose Hakyll as my static site generator, as it's quite similar, in terms of configuration, to [Xmonad](http://xmonad.org), my window manger. I shifted my blog too here from [Wordpress](http://wordpress.com) mainly for bringing my writing under [version control](http://git-scm.com/book/en/Getting-Started-About-Version-Control), and the markdown support. I cringed every time I had to use their crappy web-GUI and I really had no use for their _special_ features.
 
 The only issue I have with Archlinux, is the dependency hell of Haskell libraries. Only sane way to circumnavigate this issue is by using `hsenv`. `hsenv` is pretty neat in allowing a sandboxed environment for Haskell development. The biggest dependency of-course is `pandoc`. But seriously you must already have it installed[^a]. Then follow the advice on Hakyll's homepage.
 
@@ -79,6 +77,6 @@ I'll try to keep everything on this site self-contained [^c] and hope to keep it
 
 ****
 
-Thank you for reading, and feel free to get in touch about literally anything. Seriously, the best emails begin with “This is random, but…” and end with “…thought this would be relevant to your interests.”
+Thank you for reading, and feel free to get in touch about literally anything. Seriously, the best emails begin with “This is random, but…” and end with “…thought this would be relevant to your interests.” See [Contact](/contact.html) for details.
 
 Signing Off!
