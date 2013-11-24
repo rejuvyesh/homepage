@@ -18,7 +18,7 @@ Me
 
 Hi! I am Jayesh Kumar Gupta. I am a junior undergraduate at IIT Kanpur, and although I find writing about myself little weird, I figure that if you have clicked the [`About`](#) link then you probably want to know a little more than that. 
 
-I was born and raised at [Jodhpur](https://en.wikipedia.org/wiki/Jodhpur), Rajasthan in India. Although, I've not traveled to a number of places, the internet never lets me shake of the the sense of wonder at seeing just how wonderfully vast, and shockingly small, the world is. Although I study Electrical Engineering at IIT Kanpur, I am interested in anything to do with science.
+I was born and raised at [Jodhpur](https://en.wikipedia.org/wiki/Jodhpur), Rajasthan in India. Although, I've not traveled to a number of places, the internet never lets me shake off the the sense of wonder at seeing just how wonderfully vast, and shockingly small, the world is. Although I study Electrical Engineering at IIT Kanpur, I am interested in anything to do with science.
 
 ### Things I love:
 
