@@ -1,5 +1,6 @@
 ---
-title: Music, Movies, Anime, TV, Books and Software I love
+title: Spread the memes
+description: Music, Movies, Anime, TV, Books and Software I love
 ---
 
 Recommendations

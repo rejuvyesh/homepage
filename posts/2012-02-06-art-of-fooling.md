@@ -16,4 +16,3 @@ It was nearly 11pm, someone knocked at our door asking us to come to the other d
 
 All this has further strengthened my belief of never believing in any of the claims of any such, so-called personality development course and forced me think about the all-pervasive marketing strategies in today’s world. From [Roller Babies](http://youtu.be/XQcVllWpwGs) to Kolaveri di, this truly is the marketing age.
 
-* * * * *
