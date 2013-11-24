@@ -1,0 +1,55 @@
+.sidebar {
+  width: 308px;
+  background: image-url("bg_sidebar.png") 0 0 transparent no-repeat;
+  overflow: hidden;
+  color: white;
+  vertical-align: top;
+
+  .content {
+    padding: 20px;
+    padding-left: 20px;
+    padding-right: 22px;
+
+    a {
+      color: white;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
+    h1 {
+      font-size: 42px;
+      font-weight: bold;
+      padding-bottom: 33px;
+      margin-left: -1px;
+      padding-top: 10px;
+    }
+
+    h2 {
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    .about {
+      padding-bottom: 15px;
+      border-bottom: 1px solid #F1A953;
+      padding-left: 15px;
+
+      h1 {
+        a {
+          text-decoration: none;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      p {
+        line-height: 20px;
+        padding-top: 15px;
+      }
+    }
+
+  }
+}
+
