@@ -60,7 +60,10 @@ main = hakyllWith config $ do
                         (constField "title" "All Posts" `mappend`
                          constField "posts" list `mappend`
                          defaultContext)
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/default.html"
+                        (constField "title" "Whisperings into the Wire" `mappend`
+                         constField "description" "Blog" `mappend`
+                         defaultContext)
                 >>= relativizeUrls
                 >>= removeIndexHtml
 
