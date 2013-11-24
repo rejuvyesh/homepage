@@ -136,6 +136,7 @@ main = hakyllWith config $ do
         , "aboutme.md"
         , "recommendations.md"
         , "episteme.md"
+        , "book-reviews.md"
         ]
 
 

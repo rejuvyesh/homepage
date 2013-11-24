@@ -132,7 +132,7 @@ table {
   border-collapse: separate;
     /* *border-collapse: collapse;
        IE7, collapse table to remove spacing */
-  font-size: 1rem;
+  font-size: 0.8rem;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
