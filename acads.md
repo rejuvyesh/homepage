@@ -15,37 +15,12 @@ Engineering](http://www.iitk.ac.in/ee/) at Indian Institute of Technology, Kanpu
 Academic Background
 -------------------
 
-<table border="1" class="gray" style="text-align:center">
-<tr>
-<th>Degree</th>
-<th>University/Board</th>
-<th>Year</th>
-<th>Performance</th>
-</tr>
-<tr>
-<td>BTech</td>
-<td>IIT Kanpur</td>
-<td>2015 (pursuing)</td>
-<td>CPI 9.5 (on a scale of 10 after 4 semesters)</td>
-</tr>
-<tr>
-<td>Senior School Certificate Examination (Class 12) </td>
-
-<td>Central Board of Secondary Education</td>
-<td>2011</td>
-<td>93.8%</td>
-</tr>
-<tr>
-<td>Secondary School Examination <br/> (Class 10)</td>
-<td>Central Board of Secondary Education</td>
-
-<td>2009</td>
-<td>94.6%</td>
-</tr>
-</table>
-
-</br>
-
+Degree                                           University/Board                       Year              Performance
+------                                           ----------------                       ----              ------------
+B. Tech.                                         IIT Kanpur                             2015(pursuing)    CPI 9.5 (on a scale of 10 after 4 semesters)
+Senior School Certificate Examination (Class 12) Central Board of Secondary Education   2011              93.8%
+Secondary School Examination (Class 10)          Central Board of Secondary Education   2009              94.6%
+----------------------------------------------------------------------------------------------------------------------
 
 
 Research
