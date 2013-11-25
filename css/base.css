@@ -207,23 +207,6 @@ tbody tr:hover td {
    background: #d6e1ed;
 }
 
-/* Add very modest drop shadows, partially inspired by
-http://nicolasgallagher.com/css-drop-shadows-without-images/demo/
-       Note the awful hack by which we implement
-'alternating'/zebra-stripe coloring of quotes. */
-/* blockquote, blockquote blockquote blockquote, blockquote */
-/* blockquote blockquote blockquote blockquote { */
-   
-/*    z-index: -2; */
-/*    background-color: rgb(250, 250, 250); */
-/* } */
-
-/* blockquote blockquote, blockquote blockquote blockquote */
-/* blockquote, blockquote blockquote blockquote blockquote blockquote */
-/* blockquote { */
-/*    background-color:#F0F9FF; */
-/* } */
-
 q {
    background-color:rgba(50,50,255,.03);
 }
@@ -297,57 +280,8 @@ div#footer {
    font-size: 12px;
 }
 
-/*************************************/
 
-/* This gets Google to fall into place */
-.share {
-	 font-size: 1px;
-   float: right;
-}
 
-/* This gets Facebook to fall into place */
-.share iframe {
-	 vertical-align: middle;
-}
-
-/* Set an optional width for your button wrappers */
-.share span {
-	 display: inline-block;
-	 width: 110px;
-}
-
-/* /\* Adjust the widths individually if you like *\/ */
-/* .share .google { */
-/* 	 width: 75px; */
-/* } */
-
-/* Social links */
-ul.social {
-   text-align: center;
-}
-ul.social li {
-   background: none repeat scroll 0 0 #ddd;
-   border-radius: 100% 100% 100% 100%;
-   display: inline-block;
-   height: 60px;
-   line-height: 60px;
-   margin-bottom: 0.5em;
-   overflow: hidden;
-   transition-duration: 0.7s;
-   width: 60px;
-   font-size:20px;
-   
-}
-ul.social li:hover {
-   background: none repeat scroll 0 0 #d6e1ed;
-}
-ul.social li a {
-   border-bottom: none;
-   color: none;
-}
-ul.social li a:hover {
-   background: none;
-}
 /*******************************************************************************
  * Disqus                                                                    
 ******************************************************************************/
