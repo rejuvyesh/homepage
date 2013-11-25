@@ -280,7 +280,33 @@ div#footer {
    font-size: 12px;
 }
 
-
+/* Social Contact links */
+ul.social {
+  text-align: center;
+}
+ul.social li {
+  background: none repeat scroll 0 0 #ddd;
+  border-radius: 100% 100% 100% 100%;
+  display: inline-block;
+  height: 60px;
+  line-height: 60px;
+  margin-bottom: 0.5em;
+  overflow: hidden;
+  transition-duration: 0.7s;
+  width: 60px;
+  font-size:20px;
+  
+}
+ul.social li:hover {
+  background: none repeat scroll 0 0 #d6e1ed;
+}
+ul.social li a {
+  border-bottom: none;
+  color: none;
+}
+ul.social li a:hover {
+  background: none;
+}
 
 /*******************************************************************************
  * Disqus                                                                    
