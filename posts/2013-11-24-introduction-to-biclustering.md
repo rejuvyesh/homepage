@@ -6,7 +6,6 @@ status: in progress
 lastmodified: 24 November, 2013
 belief: likely
 tags: biclustering, matlab, mtba, machine learning
-
 ---
 
 This is the first post in _hopefully_ a series of posts on biclustering algorithms. The posts would also serve as an example for usage of [MTBA](http://iitk.ac.in/iil/mtba/), the matlab toolbox I have implemented.
@@ -36,7 +35,11 @@ And how we can rearrange this matrix to make the partitions obvious:
 This leads us to the definition of biclustering:
 
 > Biclustering, co-clustering, or two-mode clustering is a data mining technique which allows simultaneous clustering of the rows and columns of a matrix.
-> -- Wiki-sama
+> -- [Wiki-sama](https://en.wikipedia.org/wiki/Biclustering)
+
+Clustering both rows and columns together, could appear a little unintuitive but its very useful. Maybe an example would help.
+
+## Example
 
 
 
