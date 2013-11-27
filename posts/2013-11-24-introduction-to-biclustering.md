@@ -5,6 +5,7 @@ author: rejuvyesh
 status: in progress
 lastmodified: 24 November, 2013
 belief: likely
+math: true
 tags: biclustering, matlab, mtba, machine learning
 ---
 
