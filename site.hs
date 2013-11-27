@@ -202,6 +202,7 @@ pandocOptions = defaultHakyllWriterOptions
     , Pandoc.writerSectionDivs = True
     , Pandoc.writerTemplate = "<div id=\"TOC\">$toc$</div>\n$body$"
     , Pandoc.writerStandalone = True
+    , Pandoc.writerHTMLMathMethod = Pandoc.MathJax ""                                
     }
 
 --------------------------------------------------------------------------------
