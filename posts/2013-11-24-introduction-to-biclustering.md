@@ -9,7 +9,7 @@ math: true
 tags: biclustering, matlab, mtba, machine learning
 ---
 
-This is the first post in _hopefully_ a series of posts on biclustering algorithms. The posts would also serve as an example for usage of [MTBA](http://iitk.ac.in/iil/mtba/), the matlab toolbox I have implemented.
+This is the first post in _hopefully_ a series of posts on biclustering algorithms. The posts would also serve as an example for usage of [MTBA](http://iitk.ac.in/iil/mtba/), the matlab toolbox I have contributed to.
 
 Biclustering, as the word itself suggests, is somehow related to clustering. So understanding biclustering requires us to first see what's clustering.
 
