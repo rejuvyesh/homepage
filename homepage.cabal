@@ -3,7 +3,7 @@ version:             0.1.0.0
 synopsis:            Personal Blog and Homepage of Jayesh Kumar Gupta
 -- description:         
 homepage:            http://rejuvyesh.com
-license:             CC
+license:             MIT
 license-file:        LICENSE
 author:              rejuvyesh
 maintainer:          mail@rejuvyesh.com
