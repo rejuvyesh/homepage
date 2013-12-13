@@ -22,6 +22,15 @@ strong {
    font-weight:bolder;
 }
 
+.math em{
+  color: #333;
+  font-style: italic;
+}
+.math strong{
+  color: #333;
+  font-weight: bolder;
+}
+
 ul {
    padding-left: 18px;
 }
