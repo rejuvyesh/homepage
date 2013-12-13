@@ -182,7 +182,7 @@ feedCtx = mconcat
 --------------------------------------------------------------------------------
 config :: Configuration
 config = defaultConfiguration
-    { deployCommand = "rsync -avz --delete --checksum _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/"
+    { deployCommand = "/usr/bin/cp -rf _site/* ../rejuvyesh.github.io/ && cd ../rejuvyesh.github.io/ && git add -A && git commit -m \"update\" && git push origin"
     }
 
 
