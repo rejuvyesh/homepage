@@ -2,7 +2,7 @@
 title: Introduction to Biclustering
 description: An introduction to biclustering technique
 author: rejuvyesh
-status: in progress
+status: finished
 lastmodified: 30 November, 2013
 belief: likely
 math: true
