@@ -19,7 +19,8 @@ Clustering is one of the most fundamental techniques in _unsupervised learning_.
 
 What's common in these clustering algorithms is that we have a dataset, usually represented as an $n \times m$ matrix, where $n$ is the number of samples and $m$ are the features for these samples. A typical clustering algorithm will either cluster these samples according to some measure along one of these features or cluster the features together according to some measure along the samples. 
 
-![Scatter plot of Clusters](/images/clustering.png) 
+![Scatter plot of Clusters  [(Source)](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/)](/images/clustering.png)
+
 
 For a more detailed overview of clustering, see surveys by Jain et.al.[^jain1][^jain2] or Berkhin [^berkhin].
 
