@@ -134,7 +134,8 @@ main = hakyllWith config $ do
 
     where
     pages =
-        [ "contact.md"
+      [   "contact.md"
+        , "404.md" 
         , "acads.md"
         , "aboutme.md"
         , "recommendations.md"
