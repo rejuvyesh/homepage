@@ -6,3 +6,4 @@ _site/
 /sitemap.xml
 /TODO
 /stats/
+.cabal-sandbox
