@@ -9,10 +9,9 @@ module Main where
 
 --------------------------------------------------------------------------------
 import           Data.Monoid     (mappend, mconcat)
+import           Data.List       (isInfixOf)
 import           Prelude         hiding (id)
-import           System.Cmd      (system)
-import           System.FilePath (replaceExtension, takeBaseName, takeDirectory,
-                                  (</>))
+import           System.FilePath (takeBaseName, takeDirectory, (</>))
 import qualified Text.Pandoc     as Pandoc
 
 
@@ -112,7 +111,7 @@ main = hakyllWith config $ do
     -- Render some static pages
     match (fromList pages) $ do
         route   $ setExtension ".html"
-        compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
+        compile $ pandocCompilerWithTransform  defaultHakyllReaderOptions pandocOptions pandocTransform
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
                 >>= removeIndexHtml
@@ -206,6 +205,13 @@ pandocOptions = defaultHakyllWriterOptions
     , Pandoc.writerHTMLMathMethod = Pandoc.MathJax ""                                
     }
 
+pandocTransform :: Pandoc.Pandoc -> Pandoc.Pandoc
+pandocTransform = Pandoc.bottomUp (map (addAmazonAffiliate))
+
+addAmazonAffiliate :: Pandoc.Inline -> Pandoc.Inline
+addAmazonAffiliate (Pandoc.Link r (l, t)) | "?search" `isInfixOf` l                                 = Pandoc.Link r (l++"&tag=rejuvyeshcom-20", t)
+                                   | "amazon.com/" `isInfixOf` l && not ("?tag=" `isInfixOf` l) = Pandoc.Link r (l++"?tag=rejuvyeshcom-20", t)
+addAmazonAffiliate x = x
 --------------------------------------------------------------------------------
 
 postList :: Tags -> Pattern -> ([Item String] -> Compiler [Item String])
