@@ -11,7 +11,7 @@ module Main where
 import           Data.Monoid     (mappend, mconcat)
 import           Data.List       (isInfixOf)
 import           Prelude         hiding (id)
-import           System.FilePath (takeBaseName, takeDirectory, (</>))
+import           System.FilePath (takeBaseName)
 import qualified Text.Pandoc     as Pandoc
 
 
@@ -24,7 +24,7 @@ import           Hakyll
 main :: IO ()
 main = hakyllWith config $ do
          -- Static files
-    match ("images/*" .||. "javascripts/*" .||. "favicon.ico" .||. "files/**" .||. "fonts/*" .||. "resume.html") $ do
+    match ("images/*" .||. "javascripts/*" .||. "favicon.ico" .||. "files/**" .||. "fonts/*") $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -39,7 +39,7 @@ main = hakyllWith config $ do
 
     -- Render each and every post
     match "posts/*" $ do
-        route   $ niceRoute
+        route   $ niceRoute "posts/"
         compile $ do
             pandocCompiler
                 >>= saveSnapshot "content"
@@ -51,7 +51,7 @@ main = hakyllWith config $ do
 
     -- Post list
     create ["weblog.html"] $ do
-         route idRoute
+         route $ niceRoute ""
          compile $ do
              list <- postList tags "posts/*" recentFirst
              makeItem ""
@@ -71,7 +71,7 @@ main = hakyllWith config $ do
          let title = "Posts tagged " ++ tag
 
         -- Copied from posts, need to refactor
-         route $ niceRoute
+         route $ niceRoute "tags/"
          compile $ do
              list <- postList tags pattern recentFirst
              makeItem ""
@@ -110,7 +110,7 @@ main = hakyllWith config $ do
 
     -- Render some static pages
     match (fromList pages) $ do
-        route   $ setExtension ".html"
+        route   $ niceRoute ""
         compile $ pandocCompilerWithTransform  defaultHakyllReaderOptions pandocOptions pandocTransform
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
@@ -122,6 +122,11 @@ main = hakyllWith config $ do
         compile $ pandocCompiler
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
 
+    -- Render the resume page
+    match "resume.html" $ do
+        route   $ niceRoute ""
+        compile copyFileCompiler
+                                
     -- Render RSS feed
     create ["rss.xml"] $ do
         route idRoute
@@ -156,11 +161,9 @@ postCtx tags = mconcat
 -------------------------------------------------------------------------------
 -- replace a foo/bar.md by foo/bar/index.html
 -- this way the url looks like: foo/bar in most browsers
-niceRoute :: Routes
-niceRoute = customRoute createIndexRoute
-  where
-    createIndexRoute ident = takeDirectory p </> takeBaseName p </> "index.html"
-                             where p=toFilePath ident
+niceRoute :: String -> Routes
+niceRoute prefix = customRoute $
+                   \ident -> prefix ++ (takeBaseName . toFilePath $ ident) ++ "/index.html"
 
 -- replace url of the form foo/bar/index.html by foo/bar
 removeIndexHtml :: Item String -> Compiler (Item String)
@@ -209,8 +212,8 @@ pandocTransform :: Pandoc.Pandoc -> Pandoc.Pandoc
 pandocTransform = Pandoc.bottomUp (map (addAmazonAffiliate))
 
 addAmazonAffiliate :: Pandoc.Inline -> Pandoc.Inline
-addAmazonAffiliate (Pandoc.Link r (l, t)) | "?search" `isInfixOf` l                                 = Pandoc.Link r (l++"&tag=rejuvyeshcom-20", t)
-                                   | "amazon.com/" `isInfixOf` l && not ("?tag=" `isInfixOf` l) = Pandoc.Link r (l++"?tag=rejuvyeshcom-20", t)
+addAmazonAffiliate (Pandoc.Link r (l, t)) | "?search" `isInfixOf` l = Pandoc.Link r (l++"&tag=rejuvyeshcom-20", t)
+                                          | "amazon.com/" `isInfixOf` l && not ("?tag=" `isInfixOf` l) = Pandoc.Link r (l++"?tag=rejuvyeshcom-20", t)
 addAmazonAffiliate x = x
 --------------------------------------------------------------------------------
 
