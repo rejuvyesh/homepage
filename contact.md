@@ -23,7 +23,7 @@ The preferable way to contact me is to mail me at my email address. I welcome co
 
 Also if you wish to remain anonymous while giving me feedback, you are welcome to do so at [whatiswrong.me](http://whatiswrongwith.me/rejuvyesh). (Seriously. I love criticism or rants. [Don’t hold back](http://web.archive.org/web/20130426112421/http://sl4.org/crocker.html).)
 
-You can also use my [GPG Key](./rejuvyesh.key) (fingerprint:CEEACD5D) if you want.
+You can also use my [GPG Key](/rejuvyesh.key) (fingerprint:CEEACD5D) if you want.
 
 **Elsewhere**:
 
