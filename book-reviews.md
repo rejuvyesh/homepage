@@ -125,6 +125,9 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[Cloud Atlas](http://www.amazon.com/s?ie=UTF8&field-isbn=0340822783&page=1&rh=i:stripbooks)*                                                                                                           David Mitchell             ★★★★     2005   2013/06/13   I think connecting different short stories to make a single book is good idea. it worked well in <em>Accelerando</em> and it cleverly works here. If you are looking for some overarching plot, then look elsewhere. Even though the book takes a dystopian outlook towards the human future, you somehow forget that in the books inherent goodness.
                                                                                                                                                                                                                                                                   
 
+  *[Wired Love: A Romance of Dots and Dashes](https://encrypted.google.com/books?id=BjAOAAAAYAAJ)*                                                                                                        Ella Cheever Thayer        ★★★★     1879   2014/06/23   Gwern aptly described this as "nuttily modern" in his review. Anticipating everything we've come to expect from what goes online: from anonymous internet chat to cellphones (and that too in 1879). All in all a very amusing Victorian romance novel.
+                                                                                                                                                                                                                                                                  
+
   *[The Wise Man's Fear (The Kingkiller Chronicle, \#2)](http://www.amazon.com/s?ie=UTF8&field-isbn=0756404738&page=1&rh=i:stripbooks)*                                                                   Patrick Rothfuss           ★★★★     2011   2013/08/13   Considering that Rothfuss worked with only fairly common tropes for a fantasy book, the series is still entertaining. Rothfuss is wonderful with the words, though it still seems that not much has happened.<br/>Looking forward for the next volume.
                                                                                                                                                                                                                                                                   
 
@@ -194,6 +197,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[Siddhartha](http://www.amazon.com/s?ie=UTF8&field-isbn=0553208845&page=1&rh=i:stripbooks)*                                                                                                            Hermann Hesse              ★★★★     1981   2013/05/13   
 
   *[Quantum Computing since Democritus](http://www.amazon.com/s?ie=UTF8&field-isbn=0521199565&page=1&rh=i:stripbooks)*                                                                                    Scott Aaronson             ★★★★     2013   2013/10/08   
+
+  *[The Omnivore's Dilemma: A Natural History of Four Meals](http://www.amazon.com/s?ie=UTF8&field-isbn=0143038583&page=1&rh=i:stripbooks)*                                                               Michael Pollan             ★★★★     2006   2014/06/22   
 
   *[The Information: A History, a Theory, a Flood](http://www.amazon.com/s?ie=UTF8&field-isbn=0007225741&page=1&rh=i:stripbooks)*                                                                         James Gleick               ★★★★     2012   2013/03/29   
 
@@ -315,7 +320,7 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[The Bottle Imp](http://www.amazon.com/s?ie=UTF8&field-isbn=1600964168&page=1&rh=i:stripbooks)*                                                                                                        Robert Louis Stevenson     ★★★      2008   2014/04/03   
 
-  *[Down on the Farm (Laundry Files, \#2.6)](http://www.tor.com/stories/2008/07/down-on-the-farm)*                                                                                                        Charles Stross             ★★★      2010   2014/03/22   
+  *[Down on the Farm (Laundry Files, \#2.6)](http://www.tor.com/stories/2008/07/down-on-the-farm)*                                                                                                        Charles Stross             ★★★      2008   2014/03/22   
 
   *[Overtime (Laundry Files, \#2.5)](http://www.tor.com/stories/2009/12/overtime)*                                                                                                                        Charles Stross             ★★★      2009   2014/03/21   
 
