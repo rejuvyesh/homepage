@@ -21,7 +21,7 @@ Kanpur, 208016, India
 
 The preferable way to contact me is to mail me at my email address. I welcome comments, questions, angry rant, marriage proposals or anything else under the sun. Did I say, I love e-mails?
 
-Also if you wish to remain anonymous while giving me feedback, you are welcome to do so at [whatiswrong.me](http://whatiswrongwith.me/rejuvyesh). (Seriously. I love criticism or rants. [Don’t hold back](http://web.archive.org/web/20130426112421/http://sl4.org/crocker.html).)
+Also if you wish to remain anonymous while giving me feedback, you are welcome to do so at [whatiswrong.me](http://whatiswrongwith.me/rejuvyesh). (Seriously. I love criticism or rants. [Don’t hold back](http://web.archive.org/web/20130426112421/http://sl4.org/crocker.html).) You may ask me any question (anonymously, if you wish) at [ask.fm](http://ask.fm/rejuvyesh) as well.
 
 You can also use my [GPG Key](/rejuvyesh.key) (fingerprint:CEEACD5D) if you want.
 
