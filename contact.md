@@ -9,7 +9,7 @@ Contact
 </br>
 <span class="icon-envelop" aria-hidden="true" style="color:#005580;"></span> **Address**   
 Jayesh Kumar Gupta   
-C-305, Hall 5   
+Somewhere, Hall 1
 IIT Kanpur   
 Kanpur, 208016, India
 
