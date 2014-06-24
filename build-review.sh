@@ -6,5 +6,7 @@
 # License: GNU GPL 3 <http://www.gnu.org/copyleft/gpl.html>
 #
 
+kitab
 cat templates/review.md > book-reviews.md
 gr2md ~/archive/goodreads-export.csv >> book-reviews.md
+git add book-reviews.md && git commit -m "Update reviews `date`"

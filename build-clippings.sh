@@ -8,3 +8,4 @@
 
 cat templates/clippings.md > clippings.md
 clippings2md ~/books/reading_list/My\ Clippings.txt >> clippings.md
+git add clippings.md && git commit -m "Update clippings `date`"
