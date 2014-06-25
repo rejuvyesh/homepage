@@ -5,7 +5,7 @@ find . -name "*.md" -type f -print0 | xargs -0 runhaskell linkextract.hs >> ~/.u
 -}
 
 import System.Environment (getArgs)
-import Text.Pandoc
+import Text.Pandoc (Pandoc, Inline(Link), def, bottomUpM, readMarkdown)
 
 main :: IO ()
 main = getArgs >>= mapM readFile >>= mapM_ analyzePage
