@@ -202,16 +202,16 @@ h1, h2, h3 {
 
 
 h1 {
-   font-size: 32px;
+   font-size: 2em;
 }
 
 h2 {
-   font-size: 22px;
+   font-size: 1.3em;
 }
 
 
 h3 {
-   font-size: 18px;
+   font-size: 1.1em;
 }
 
 h1 a:link, h1 a:visited, h1 a:active {
@@ -366,13 +366,8 @@ div.figure p {
 }
 
 div.footnotes {
-   border-top: 5px solid #d6e1ed;
-   color: #555;
-   
-}
-
-div.footnotes hr {
-   display: none;
+  color: #555;
+  font-size: 0.85em;
 }
 
 .align_right {
@@ -385,15 +380,16 @@ div.footnotes hr {
 }
 
 #footnotediv div{
-   opacity:1;
-   background-color:#fff;
-   padding:0px 12px;
-   max-width:600px;
-   border:1px solid #d6e1ed;
+  opacity:1;
+  background-color:#fff;
+  padding:0px 12px;
+  max-width:600px;
+  font-size: 0.9em;
+  border:1px solid #d6e1ed;
 }
 
 div#footer {
-   font-size: 12px;
+   font-size: 0.75em;
 }
 
 /* Social Contact links */
