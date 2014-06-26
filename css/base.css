@@ -12,6 +12,34 @@ article .entry-content h1, h2 h3, h4 {
   position: static;
 }
 
+article .entry-content h1:hover .hash, article .entry-content h2:hover .hash, article .entry-content h3:hover .hash, article .entry-content h4:hover .hash, article .entry-content h5:hover .hash {
+  color: #ccc;
+  display: block;
+}
+
+article .entry-content h1 .hash, article .entry-content h2 .hash, article .entry-content h3 .hash, article .entry-content h4 .hash, article .entry-content h5 .hash {
+  color: #ddd;
+  transition: color 0.3s;
+  position: absolute;
+  left: -20px;
+  width: auto;
+  display: none;
+}
+
+article .entry-content h1 a, article .entry-content h2 a, article .entry-content h3 a, article .entry-content h4 a, article .entry-content h5 a {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  color: inherit;
+}
+
+article .entry-content h1 a:hover, article .entry-content h2 a:hover, article .entry-content h3 a:hover, article .entry-content h4 a:hover, article .entry-content h5 a:hover {
+  color: inherit;
+  text-decoration: underline;
+  border-bottom: none;
+}
+
+
 article .entry-content a, a:link, a:visited {
   color: #005580;
 
