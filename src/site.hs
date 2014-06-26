@@ -2,7 +2,6 @@
 
 {-Thanks to jaspervdj: http://jaspervdj.be/ -}
 --------------------------------------------------------------------------------
-{-# LANGUAGE Arrows            #-}
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
 
@@ -40,14 +39,13 @@ main = hakyllWith config $ do
     -- Render each and every post
     match "posts/*" $ do
         route   $ niceRoute "posts/"
-        compile $ do
-            pandocCompiler
-                >>= saveSnapshot "content"
-                >>= return . fmap demoteHeaders
-                >>= loadAndApplyTemplate "templates/post.html" (postCtx tags)
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
-                >>= relativizeUrls
-                >>= removeIndexHtml
+        compile $ pandocCompiler
+          >>= saveSnapshot "content"
+          >>= return . fmap demoteHeaders
+          >>= loadAndApplyTemplate "templates/post.html" (postCtx tags)
+          >>= loadAndApplyTemplate "templates/default.html" defaultContext
+          >>= relativizeUrls
+          >>= removeIndexHtml
 
     -- Post list
     create ["weblog.html"] $ do
@@ -106,7 +104,7 @@ main = hakyllWith config $ do
                 >>= removeIndexHtml
 
     -- Read templates
-    match "templates/*" $ compile $ templateCompiler
+    match "templates/*" . compile $ templateCompiler
 
     -- Render some static pages
     match (fromList pages) $ do
@@ -130,8 +128,7 @@ main = hakyllWith config $ do
     -- Render RSS feed
     create ["rss.xml"] $ do
         route idRoute
-        compile $ do
-            loadAllSnapshots "posts/*" "content"
+        compile $ loadAllSnapshots "posts/*" "content"
                 >>= fmap (take 10) . recentFirst
                 >>= renderAtom (feedConfiguration "All posts") feedCtx
 
@@ -210,7 +207,7 @@ pandocOptions = defaultHakyllWriterOptions
     }
 
 pandocTransform :: Pandoc.Pandoc -> Pandoc.Pandoc
-pandocTransform = Pandoc.bottomUp (map (addAmazonAffiliate))
+pandocTransform = Pandoc.bottomUp (map addAmazonAffiliate)
 
 addAmazonAffiliate :: Pandoc.Inline -> Pandoc.Inline
 addAmazonAffiliate (Pandoc.Link r (l, t)) | "?search" `isInfixOf` l = Pandoc.Link r (l++"&tag=rejuvyeshcom-20", t)
