@@ -109,13 +109,14 @@ main = hakyllWith config $ do
     -- Render some static pages
     match (fromList pages) $ do
         route   $ niceRoute ""
-        compile $ pandocCompilerWithTransform  defaultHakyllReaderOptions pandocOptions pandocTransform
+        compile $ pandocCompilerWithTransform  defaultHakyllReaderOptions defaultHakyllWriterOptions pandocTransform
+                >>= loadAndApplyTemplate "templates/post.html" defCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
                 >>= removeIndexHtml
 
     -- Render the 404 page, we don't relativize URL's here.
-    match "404.html" $ do
+    match "404.md" $ do
         route idRoute
         compile $ pandocCompiler
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
@@ -136,7 +137,6 @@ main = hakyllWith config $ do
     where
     pages =
       [   "contact.md"
-        , "404.md" 
         , "acads.md"
         , "aboutme.md"
         , "recommendations.md"
@@ -151,9 +151,20 @@ postCtx :: Tags -> Context String
 postCtx tags = mconcat
     [ dateField "date" "%B %e, %Y"
     , tagsField "tags" tags
+    , modificationTimeField "lastmodified" "%d %b %Y"
+    , constField "author" "rejuvyesh"
+    , constField "belief" "N/A" 
     , defaultContext
     ]
 
+defCtx :: Context String
+defCtx = mconcat
+         [ dateField "date" "%B %e, %Y"
+         , modificationTimeField "lastmodified" "%d %b %Y"
+         , constField "author" "rejuvyesh"
+         , constField "belief" "N/A"
+         , defaultContext
+         ]
 
 -------------------------------------------------------------------------------
 -- replace a foo/bar.md by foo/bar/index.html
