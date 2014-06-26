@@ -74,6 +74,7 @@ article .entry-content .footnotes hr {
   margin: 30px auto 20px;
   height: 1px;
 }
+
 article .entry-content .footnotes hr:after {
   content: "§";
   cursor: default;
@@ -236,13 +237,33 @@ ul {
 }
 
 blockquote {
-   border-left: 10px solid #d6e1f3;
-   border-right: 10px solid #d6e1f3;
-   margin-left: 1em;
-   margin-right: 1em;
-   padding-left: 1em;
-   padding-right: 1em;
-   
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  -moz-box-shadow: 1px 1px 10px #ccc;
+  -webkit-box-shadow: 1px 1px 10px #ccc;
+  box-shadow: 1px 1px 10px #ccc;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+  content: "\201C"; /* # double quote */
+  font-size: 4em;
+  font-weight: bold;
+  color: #999;
+
+  line-height: 0.1em;
+  margin-right: 0.1em;
+  vertical-align: -0.4em;
+  /* left: 10px; */
+  /* top:5px; */
+
+}
+blockquote p {
+  display: inline;
 }
 
 /* from Twitter's bootstrap package; adds grid-lines to table */
