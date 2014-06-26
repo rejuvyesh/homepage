@@ -3,9 +3,6 @@ title: Clippings
 description: Clippings from what I've been reading.
 ---
 
-<clippings>
-<div class="entry-content">
-
 # My Clippings
 
 These are random highlights from books I've been reading. Using fmap's [clippings](https://github.com/fmap/clippings) library I wrote a small tool [clippings2md](https://github.com/rejuvyesh/clippings2md) to convert my Paperwhite's clippings to markdown and export that here.
@@ -355,8 +352,6 @@ These are random highlights from books I've been reading. Using fmap's [clipping
  --- John Brunner
 
 <hr />
-</div>
-</clippings>
 <h2>Comments</h2>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
