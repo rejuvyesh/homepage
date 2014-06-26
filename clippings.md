@@ -9,7 +9,7 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 ------------
 
-<div id="clippings">
+<clippings>
 <div class="entry-content">
 
 ### Wired Love
@@ -353,7 +353,7 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 <hr />
 </div>
-</div>
+</clippings>
 <h2>Comments</h2>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
