@@ -2,6 +2,7 @@
 title: Clippings
 description: Clippings from what I've been reading.
 ---
+<clippings>
 
 # My Clippings
 
@@ -9,7 +10,7 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 ------------
 
-<clippings>
+
 <div class="entry-content">
 
 ### Wired Love
