@@ -149,8 +149,7 @@ main = hakyllWith config $ do
 --------------------------------------------------------------------------------
 postCtx :: Tags -> Context String
 postCtx tags = mconcat
-    [ modificationTimeField "mtime" "%U"
-    , dateField "date" "%B %e, %Y"
+    [ dateField "date" "%B %e, %Y"
     , tagsField "tags" tags
     , defaultContext
     ]
