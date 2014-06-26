@@ -50,6 +50,7 @@ div#content {
 .header-image {
   
 }
+
 .header-image img {
   display:block;
   margin-left: auto;
@@ -76,7 +77,7 @@ div#content {
 @media all and (min-width: 820px) {
   html {
     
-    background: url("../images/sidebar2.png"),             url("../images/sidebar3.png");
+    background: url("../images/sidebar2.png"), url("../images/sidebar3.png");
     background-repeat: repeat-y, repeat-y;
     background-position: left, right;
     
