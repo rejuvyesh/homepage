@@ -1,7 +1,92 @@
-h1, h2, h3 {
-   margin: 0px 0px 18px 0px;
-   padding: 14px 0px 0px 0px;
-   
+article {
+  position: relative;
+}
+
+article .entry-content {
+  padding-bottom: 15px;
+  line-height: 1.5;
+}
+
+article .entry-content h1, h2 h3, h4 {
+  overflow: hidden;
+  position: static;
+}
+
+article .entry-content a, a:link, a:visited {
+  color: #005580;
+
+	-webkit-transition: color .4s linear;
+	-moz-transition: color .4s linear;
+	-o-transition: color .4s linear;
+	-ms-transition: color .4s linear;
+	transition: color .4s linear;
+  text-decoration: none;
+}
+
+article .entry-content a:hover {
+  color: #004680;
+  border-bottom: 1px solid #555;
+}
+
+article .entry-content hr {
+  background-color: #efefef;
+  border: 0;
+  height: 1px;
+  color: #cccccc
+  margin: 35px auto;
+  width: 50%;
+  clear: both;
+}
+
+article .entry-content .footnotes hr {
+  padding: 0px;
+  text-align: center;
+  width: 100%;
+  background-color: #EFEFEF;
+  margin: 30px auto 20px;
+  height: 1px;
+}
+article .entry-content .footnotes hr:after {
+  content: "§";
+  cursor: default;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  padding: 0px 0.25em;
+  background: none repeat scroll 0% 0% #FFF;
+  top: -0.7em;
+}
+
+
+article .meta {
+  text-align: center;
+  top: 75px;
+  line-height: 2;
+  font-size: 0.9em;
+  color: #999;
+  padding: 10px 0px;
+  border-top: 1px solid #efefef;
+  clear: both;
+  position: static;
+  width: auto;
+}
+
+article .meta .meta-component {
+  display: inline-block;
+  margin-right: 30px;
+  position: relative;
+}
+
+article .meta a {
+  color: #999;
+  transition: color 0.3s ease 0s;
+  outline-width: 0;
+  border-bottom: none;
+}
+
+article .meta a:hover {
+  color: #555;
+  border-bottom: 1px solid #555;
 }
 
 
@@ -60,7 +145,9 @@ a, a:link, a:visited {
 	 -ms-transition: color .4s linear;
 	 transition: color .4s linear;
    text-decoration: none;
-   border-bottom: 1px solid #555;
+
+}
+
 }
 
 
