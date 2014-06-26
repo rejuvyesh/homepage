@@ -5,13 +5,6 @@ author: Jayesh Kumar Gupta
 description: Describing the reason behind the epistemic markers
 ---
 
-Episteme Tags
-=============
-
-<div class="soft">
-<span class="align_left"> Last Modified: 17 February, 2013 </span><span class="align_right"> Epistemic state: <a href="">highly likely</a></span>
-</div>
-
 Your being here implies your curiosity about these [epistemic](http://en.wikipedia.org/wiki/Epistemology) markers. I guess all other metadata in each page is self explanatory. Date denotes the day when it was posted, tags categorize the data, status explains the current state of the post: whether finished, in progress, or a draft ^[In decreasing order of completeness.].
 
 I have borrowed ^[or stolen if _you_ wish] this idea from [Gwern's belief tags](http://gwern.net) ^[who incidentally says that he stole the idea from [ Muflax’s "epistemic state"](http://muflax.com/episteme/) tags].

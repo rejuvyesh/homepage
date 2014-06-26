@@ -3,13 +3,6 @@ title: About
 description: About Jayesh Kumar Gupta and the site.
 ---
 
-About
-=========
-
-<div class="soft">
-<span class="align_left"> Last Modified: 10 February, 2013 </span><span class="align_right"> Status: _in progress_ </span>
-</div>
-
 Me
 ---
 

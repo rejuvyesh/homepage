@@ -1,10 +1,7 @@
 ---
-title: Jayesh Kumar Gupta :: Academics
+title: Academics
 description: Academic details of Jayesh Kumar Gupta
 ---
-
-Academics
-=========
 
 I am a junior undergraduate student at [Department of Electrical
 Engineering](http://www.iitk.ac.in/ee/) at Indian Institute of Technology, Kanpur. (In case you missed the url).

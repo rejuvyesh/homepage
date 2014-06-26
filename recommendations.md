@@ -1,12 +1,10 @@
 ---
-title: Spread the memes
+title: Recommendations
 description: Music, Movies, Anime, TV, Books and Software I love
 ---
 
-Recommendations
-===============
+## That's how we spread the memes <span data-icon="&#xe004;" aria-hidden="true" style="color:#005580"></span> !
 
-A fair set of things I enjoy <span data-icon="&#xe004;" aria-hidden="true" style="color:#005580"></span>.
 
 Music
 -----
