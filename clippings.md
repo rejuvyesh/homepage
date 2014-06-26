@@ -9,7 +9,7 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 ------------
 
-<article class=clippings>
+<div id=clippings>
 
 ### Wired Love
 
@@ -351,7 +351,7 @@ These are random highlights from books I've been reading. Using fmap's [clipping
  --- John Brunner
 
 <hr />
-</article>
+</div>
 <h2>Comments</h2>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
