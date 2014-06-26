@@ -15,7 +15,7 @@ article .entry-content h1, h2 h3, h4 {
 article .entry-content h1:hover .hash, article .entry-content h2:hover .hash, article .entry-content h3:hover .hash, article .entry-content h4:hover .hash, article .entry-content h5:hover .hash {
   color: #ccc;
   display: block;
-}
+} 
 
 article .entry-content h1 .hash, article .entry-content h2 .hash, article .entry-content h3 .hash, article .entry-content h4 .hash, article .entry-content h5 .hash {
   color: #ddd;
@@ -42,7 +42,7 @@ article .entry-content h1 a:hover, article .entry-content h2 a:hover, article .e
 
 article .entry-content a, a:link, a:visited {
   color: #005580;
-
+  
 	-webkit-transition: color .4s linear;
 	-moz-transition: color .4s linear;
 	-o-transition: color .4s linear;
@@ -119,6 +119,7 @@ article .meta a:hover {
 }
 
 
+
 img {
    margin: 12px 0px 12px auto;
    border: none;
@@ -140,6 +141,7 @@ strong {
   color: #333;
   font-style: italic;
 }
+
 .math strong{
   color: #333;
   font-weight: bolder;
@@ -166,35 +168,24 @@ body {
 }
 
 a, a:link, a:visited {
-   color: #005580;
-   
-	 -webkit-transition: color .4s linear;
-	 -moz-transition: color .4s linear;
-	 -o-transition: color .4s linear;
-	 -ms-transition: color .4s linear;
-	 transition: color .4s linear;
-   text-decoration: none;
-
+  color: #005580;
+  
+	-webkit-transition: color .4s linear;
+	-moz-transition: color .4s linear;
+	-o-transition: color .4s linear;
+	-ms-transition: color .4s linear;
+	transition: color .4s linear;
 }
-
-}
-
 
 a:hover {
-   color: #004680;
-   background: #d3e1ed;
+  color: #004680;
+  border-bottom: 1px solid #555;
 }
 
 a img {
    margin-bottom: 0px;
 }
 
-pre {
-   background: none repeat scroll 0 0 #f2f9ff;
-   font-size: 14px;
-   margin-left: 18px;
-   overflow: auto;
-}
 
 h1, h2, h3 {
    font-weight: bold;
@@ -225,12 +216,12 @@ h2 a:link, h2 a:visited, h2 a:active {
    color: #555;
    background: none;
 }
+
 h3 a:link, h3 a:visited, h3 a:active {
    color: #444;
    background: none;
    border:none;
 }
-
 
 ul {
     list-style:square;
@@ -254,7 +245,7 @@ blockquote:before {
   font-size: 4em;
   font-weight: bold;
   color: #999;
-
+  
   line-height: 0.1em;
   margin-right: 0.1em;
   vertical-align: -0.4em;
@@ -359,9 +350,16 @@ q {
 
 /* Better footnotes */
 sub, sup {
-   line-height: 0.2em;
+   line-height: 0.2;
    margin-left: 0.2em;
-   font-size:small;
+   font-size: 0.75em;
+}
+
+pre {
+  background: none repeat scroll 0 0 #f2f9ff;
+  margin-left: 18px;
+  overflow: auto;
+  padding: 10px;
 }
 
 
@@ -373,8 +371,10 @@ code{
 }
 
 pre code{
-   display:block;
-   padding:8px;
+  background: none;
+  font-size: 0.85em;
+   /* display:block; */
+   /* padding:8px; */
    border: none;
 }
 
@@ -444,6 +444,12 @@ ul.social li a:hover {
 /*******************************************************************************
  * Disqus                                                                    
 ******************************************************************************/
+
+#comment {
+  padding: 10px 0px;
+  border-top: 1px solid #efefef;
+  clear: both;
+}
 
 /* Reset list image for disqus */
 div#disqus_thread ul {
