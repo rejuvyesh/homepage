@@ -3,10 +3,6 @@ title: Contact
 description: Contact Jayesh Kumar Gupta aka rejuvyesh
 ---
 
-Contact
-=======
-
-</br>
 <span class="icon-envelop" aria-hidden="true" style="color:#005580;"></span> **Address**   
 Jayesh Kumar Gupta   
 Somewhere, Hall 1
