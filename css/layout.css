@@ -11,6 +11,7 @@ body {
 div#navigation {
   background: #d6e1ed url("../images/header2.png") repeat-x left bottom;
   padding-bottom: 18px;
+  padding-top: 10px;
   text-align: center;
 }
 
@@ -63,8 +64,8 @@ div#content {
   font-size: 2.4em;
   padding-top: 5%;
   line-height: 1.5em;
-  color: #555555
-  text-align:center;
+  color: #555555;
+  text-align: center;
 }
 .header-container p {
   padding: 10px 10px;
@@ -136,7 +137,7 @@ div#content {
 
   .header-container h1 {
     font-size: 2.8em;
-    text-align:auto;
+    text-align: left;
   }
   .header-container p {
     text-align:left;
