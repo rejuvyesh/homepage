@@ -7,3 +7,5 @@ _site/
 /TODO
 /stats/
 .cabal-sandbox
+*.jpg
+*.png
