@@ -41,7 +41,7 @@ article .entry-content h1 a:hover, article .entry-content h2 a:hover, article .e
 
 
 article .entry-content a, a:link, a:visited {
-  color: #005580;
+  color: #4682B4;
   
 	-webkit-transition: color .4s linear;
 	-moz-transition: color .4s linear;
@@ -168,7 +168,7 @@ body {
 }
 
 a, a:link, a:visited {
-  color: #005580;
+  color: #4682B4;
   
 	-webkit-transition: color .4s linear;
 	-moz-transition: color .4s linear;
