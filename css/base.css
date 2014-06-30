@@ -1,3 +1,136 @@
+html {
+  background-color: #fff;
+  font-size: 16px;
+  font-family: 'Lato', 'Proxima Nova', sans-serif;
+  line-height: 1.4;
+}
+
+body {
+  color: #333;
+  margin: 0px 0px 18px 0px;
+}
+
+a, a:link, a:visited {
+  color: #4682B4;
+  
+	-webkit-transition: color .4s linear;
+	-moz-transition: color .4s linear;
+	-o-transition: color .4s linear;
+	-ms-transition: color .4s linear;
+	transition: color .4s linear;
+}
+
+a:hover {
+  color: #004680;
+  border-bottom: 1px solid #555;
+}
+
+a img {
+  margin-bottom: 0px;
+}
+
+blockquote {
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  -moz-box-shadow: 1px 1px 10px #ccc;
+  -webkit-box-shadow: 1px 1px 10px #ccc;
+  box-shadow: 1px 1px 10px #ccc;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+  content: "\201C"; /* # double quote */
+  font-size: 4em;
+  font-weight: bold;
+  color: #999;
+  
+  line-height: 0.1em;
+  margin-right: 0.1em;
+  vertical-align: -0.4em;
+  /* left: 10px; */
+  /* top:5px; */
+
+}
+
+blockquote p {
+  display: inline;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  color:#333
+}
+
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+
+h3 {
+  font-size: 1.2em;
+}
+
+h1 a:link, h1 a:visited, h1 a:active {
+  color: #333;
+  background: none;
+  border:none;
+}
+
+h2 a:link, h2 a:visited, h2 a:active {
+  color: #555;
+  background: none;
+}
+
+h3 a:link, h3 a:visited, h3 a:active {
+  color: #444;
+  background: none;
+  border:none;
+}
+
+ul {
+  list-style:square;
+}
+
+img {
+  margin: 12px 0px 12px auto;
+  border: none;
+  max-width: 100%;
+  height: auto;
+  width: auto; 
+}
+
+em {
+  color: #af5f5f;
+  font-style: italic; }
+
+strong {
+  color: #085272;
+  font-weight:bolder;
+}
+
+.math em{
+  color: #333;
+  font-style: italic;
+}
+
+.math strong{
+  color: #333;
+  font-weight: bolder;
+}
+
+ul {
+  padding-left: 18px;
+}
+
 article {
   position: relative;
 }
@@ -5,6 +138,13 @@ article {
 article .entry-content {
   padding-bottom: 15px;
   line-height: 1.5;
+}
+
+article .entry-content .toc {
+  float: right;
+  width: 20%;
+  background: none repeat scroll 0% 0% #eee;
+  margin-left: 20px;
 }
 
 article .entry-content h1, h2 h3, h4 {
@@ -60,7 +200,7 @@ article .entry-content hr {
   background-color: #efefef;
   border: 0;
   height: 1px;
-  color: #cccccc
+  color: #cccccc;
   margin: 35px auto;
   width: 50%;
   clear: both;
@@ -106,7 +246,7 @@ article .meta .meta-component {
   position: relative;
 }
 
-article .meta a {
+article .meta a a:link {
   color: #999;
   transition: color 0.3s ease 0s;
   outline-width: 0;
@@ -118,144 +258,33 @@ article .meta a:hover {
   border-bottom: 1px solid #555;
 }
 
-
-
-img {
-   margin: 12px 0px 12px auto;
-   border: none;
-   max-width: 100%;
-   height: auto;
-   width: auto; 
+.archive > li {
+  list-style-type: none;
 }
 
-em {
-   color: #af5f5f;
-   font-style: italic; }
-
-strong {
-   color: #085272;
-   font-weight:bolder;
+.archive-item {
+  border: medium none;
 }
 
-.math em{
-  color: #333;
-  font-style: italic;
+
+.archive-item .item-link h2:hover {
+   text-decoration: underline;
 }
 
-.math strong{
-  color: #333;
-  font-weight: bolder;
+
+.archive-item .item-link .item-excerpt {
+  color: #aaa;
+  transition: color 0.3s ease 0s;
+  font-weight: 300;
+  display: inline-block;
 }
 
-ul {
-   padding-left: 18px;
-}
+
 
 div#footer {
    margin: 60px 0px 36px 0px;
 }
 
-html {
-   background-color: #fff;
-   font-size: 16px;
-   font-family: 'Lato', 'Proxima Nova', sans-serif;
-   line-height: 1.4;
-}
-
-body {
-   color: #333;
-   margin: 0px 0px 18px 0px;
-}
-
-a, a:link, a:visited {
-  color: #4682B4;
-  
-	-webkit-transition: color .4s linear;
-	-moz-transition: color .4s linear;
-	-o-transition: color .4s linear;
-	-ms-transition: color .4s linear;
-	transition: color .4s linear;
-}
-
-a:hover {
-  color: #004680;
-  border-bottom: 1px solid #555;
-}
-
-a img {
-   margin-bottom: 0px;
-}
-
-
-h1, h2, h3 {
-   font-weight: bold;
-   color:#333
-}
-
-
-h1 {
-   font-size: 2.5em;
-}
-
-h2 {
-   font-size: 1.4em;
-}
-
-
-h3 {
-   font-size: 1.2em;
-}
-
-h1 a:link, h1 a:visited, h1 a:active {
-   color: #333;
-   background: none;
-   border:none;
-}
-
-h2 a:link, h2 a:visited, h2 a:active {
-   color: #555;
-   background: none;
-}
-
-h3 a:link, h3 a:visited, h3 a:active {
-   color: #444;
-   background: none;
-   border:none;
-}
-
-ul {
-    list-style:square;
-}
-
-blockquote {
-  margin-left: 1em;
-  margin-right: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  -moz-box-shadow: 1px 1px 10px #ccc;
-  -webkit-box-shadow: 1px 1px 10px #ccc;
-  box-shadow: 1px 1px 10px #ccc;
-  quotes: "\201C""\201D""\2018""\2019";
-}
-
-blockquote:before {
-  content: "\201C"; /* # double quote */
-  font-size: 4em;
-  font-weight: bold;
-  color: #999;
-  
-  line-height: 0.1em;
-  margin-right: 0.1em;
-  vertical-align: -0.4em;
-  /* left: 10px; */
-  /* top:5px; */
-
-}
-blockquote p {
-  display: inline;
-}
 
 /* from Twitter's bootstrap package; adds grid-lines to table */
 table {
@@ -364,10 +393,8 @@ pre {
 
 
 code{
-   background-color:rgb(250,250,250); 
-   border:1px solid rgb(200,200,200);
-   padding-left:4px;
-   padding-right:4px;
+  background-color: #eee; 
+  padding: 1px 5px;
 }
 
 pre code{
