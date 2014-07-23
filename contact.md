@@ -4,10 +4,10 @@ description: Contact Jayesh Kumar Gupta aka rejuvyesh
 ---
 
 <span class="icon-envelop" aria-hidden="true" style="color:#005580;"></span> **Address**   
-Jayesh Kumar Gupta   
-B-116, Hall 1   
-IIT Kanpur   
-Kanpur, 208016, India
+| Jayesh Kumar Gupta
+| B-116, Hall 1
+| IIT Kanpur
+| Kanpur, 208016, India
 
 
 <span class="icon-mobile" aria-hidden="true" style="color:#005580;"></span>**Mobile** : (+91)    9005434081
