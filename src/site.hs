@@ -117,8 +117,7 @@ main = hakyllWith config $ do
         route idRoute
         compile $ do
             list <- postList tags "posts/*" $ fmap (take 3) . recentFirst
-            let indexContext = constField "posts" list `mappend`
-                               field "tags" (\_ -> renderTagList tags) `mappend`
+            let indexContext = field "tags" (\_ -> renderTagList tags) `mappend`
                                defaultContext
 
             getResourceBody
