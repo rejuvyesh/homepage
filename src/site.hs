@@ -32,6 +32,30 @@ main = hakyllWith config $ do
         route idRoute
         compile compressCssCompiler
 
+    -- Notes
+    match "notes/*" $ do
+      route $ niceRoute "notes/"
+      compile $ pandocCompilerWith defaultHakyllReaderOptions writerOptions
+        >>= loadAndApplyTemplate "templates/note.html" defCtx
+        >>= loadAndApplyTemplate "templates/default.html" defCtx
+        >>= relativizeUrls
+        >>= removeIndexHtml
+
+    -- Notes Archive
+    create ["notes.html"] $ do
+      route $ niceRoute ""
+      compile $ do
+        notes <- loadAll "notes/*"
+        makeItem ""
+          >>= loadAndApplyTemplate "templates/notes.html"
+                  (constField "title" "All Notes" `mappend`
+                   listField "notes" defCtx (return notes) `mappend`
+                   defaultContext)
+          >>= loadAndApplyTemplate "templates/default.html"
+                  (constField "title" "rejuvyesh's notes" `mappend`
+                   defCtx)
+          >>= relativizeUrls
+          >>= removeIndexHtml
 
     -- Build tags
     tags <- buildTags "posts/*" (fromCapture "tags/*.html")
