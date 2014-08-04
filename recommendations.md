@@ -13,6 +13,7 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 
 ### Artists
 
+-  [Advaita](https://en.wikipedia.org/wiki/Advaita_(band))
 -  [Anoushka Shankar](http://en.wikipedia.org/wiki/Anoushka_Shankar)
 -  [Avial](http://en.wikipedia.org/wiki/Avial_(band))
 -  [Dragonforce](http://en.wikipedia.org/wiki/DragonForce)
@@ -21,6 +22,7 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 -  [Indian Ocean](http://en.wikipedia.org/wiki/Indian_Ocean_(band))
 -  [Kalafina](http://en.wikipedia.org/wiki/Kalafina)
 -  [Mooncake](http://www.mooncakeband.com/)
+-  [Niladri Kumar](https://en.wikipedia.org/wiki/Niladri_Kumar)
 -  [Steve Conte](http://en.wikipedia.org/wiki/Steve_Conte)
 -  [Susumu Hirasawa (平沢進)](http://en.wikipedia.org/wiki/Susumu_Hirasawa)
 -  [Tenhi](http://en.wikipedia.org/wiki/Tenhi)
@@ -37,6 +39,7 @@ I'll try recommending artists who I think deserve to be more known. You can alwa
 
 ### Songs
 
+-  [Priority by _Niladri Kumar_](http://youtu.be/nB0CC5j-tfY)
 -  [100 Years of Choke by _World's End Girlfriend_](http://youtu.be/KYBulfbBstc)
 -  [Duvet by _Bôa_](http://www.youtube.com/watch?v=T0N5YblvT1c)
 -  [Victory Song by _Ensiferum_](http://www.youtube.com/watch?v=fyvPe0uqjjY)

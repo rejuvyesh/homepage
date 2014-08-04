@@ -185,7 +185,7 @@ defCtx = mconcat
          [ dateField "date" "%B %e, %Y"
          , modificationTimeField "lastmodified" "%d %b %Y"
          , constField "author" "rejuvyesh"
-         , constField "belief" "N/A"
+         , constField "belief" "N/A" 
          , defaultContext
          ]
 
@@ -229,12 +229,12 @@ feedConfiguration title = FeedConfiguration
     , feedRoot        = "http://rejuvyesh.com"
     }
 
-pandocOptions :: Pandoc.WriterOptions
-pandocOptions = defaultHakyllWriterOptions
+writerOptions :: Pandoc.WriterOptions
+writerOptions = defaultHakyllWriterOptions
     { Pandoc.writerHtmlQTags = True
     , Pandoc.writerTableOfContents = True
     , Pandoc.writerSectionDivs = True
-    , Pandoc.writerTemplate = "<div id=\"TOC\">$toc$</div>\n$body$"
+    , Pandoc.writerTemplate = "<div class=\"toc\"><p><strong>Contents</strong></p>$toc$</div>\n$body$"
     , Pandoc.writerStandalone = True
     , Pandoc.writerHTMLMathMethod = Pandoc.MathJax ""                                
     }
