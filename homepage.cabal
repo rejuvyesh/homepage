@@ -23,7 +23,7 @@ executable homepage
                        pandoc       >= 1.12,
                        filepath     >= 1.3.0.0,
                        process      >= 1.1.0.2,
-                       cryptohash   >= 0.8.4,
+                       cryptohash   >= 0.11,
                        pandoc-types >= 1.12,
                        hakyll       >= 4.2.2.0
   -- hs-source-dirs:      
