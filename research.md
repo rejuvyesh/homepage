@@ -3,23 +3,31 @@ title: Research
 description: Research Experience
 ---
 
-## PlanIt: Learning to Plan Paths from Large Scale Preference Feedback
+## What am I currently working on?
+
+### Coded Sampling Bound
+***Mentor**[Prof. A.K. Chaturvedi](http://home.iitk.ac.in/~akc/)
+<div style="float:right">Undergraduate Project, IIT Kanpur</div>
+
+## What have I worked on?
+
+### PlanIt: Learning to Plan Paths from Large Scale Preference Feedback
 **Mentor:**[Prof. Ashutosh Saxena](http://www.cs.cornell.edu/~asaxena/)
 <div style="float:right">Cornell University (Summer 2014)</div>
 
-## MTBA: Matlab Toolbox for Biclustering Analysis
+### MTBA: Matlab Toolbox for Biclustering Analysis
 **Mentor:**[Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">IIT Kanpur (Summer 2013)</div>
 
 We developed a new Matlab^TM^ toolbox designed to perform a variety of biclustering algorithms under a common user interface, providing multiple functionalities for data handling, preprocessing, biclustering and visualization. More information is available on the [toolbox website](http://iitk.ac.in/iil/mtba/). 
 
-## Feature Level Analysis
+### Feature Level Analysis
 **Mentor:**[Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">IIT Kanpur (Winter 2012)</div>
 
 We took a case-study of acoustic and vibrational features from the different working states of an air compressor and graphically analyze them to derive the best feature set. We then validate our results by comparing the classification accuracy of the SVM model built by these feature sets with the standard PCA based SVM model, getting similar accuracies for both methods. This helped us to reduce the complexity of our earlier smartphone application while giving comparable results (see [publications](/publications)).
 
-## Smart Phone Application for Fault Recognition
+### Smart Phone Application for Fault Recognition
 
 **Mentor:**[Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">IIT Kanpur (Summer 2012)</div>
