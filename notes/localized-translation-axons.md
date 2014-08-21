@@ -1,6 +1,6 @@
 ---
 title: Role of Localized Translation in Axons
-description: Neurobiology Notes
+description: [Neurobiology] Notes on protein synthesis in axons
 author: rejuvyesh
 ---
 
