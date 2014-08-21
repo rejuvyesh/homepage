@@ -6,7 +6,7 @@ description: Research Experience
 ## What am I currently working on?
 
 ### Coded Sampling Bound
-***Mentor:** [Prof. A.K. Chaturvedi](http://home.iitk.ac.in/~akc/)
+**Mentor:** [Prof. A.K. Chaturvedi](http://home.iitk.ac.in/~akc/)
 <div style="float:right">Undergraduate Project, IIT Kanpur</div>
 
 ## What have I worked on?
