@@ -5,6 +5,11 @@
   </div>
 
   <div class="meta">
+    $if(prevPost)$
+    <div class="meta-component">
+      <a href="$prevPost$" style="float:left;">Next</a>
+    </div>
+    $endif$
     <div class="meta-component">
       <span class="icon-quill" aria-hidden="true"></span> <em>$author$</em> on <strong>$lastmodified$</strong>
     </div>
@@ -14,6 +19,11 @@
     $if(tags)$
     <div class="meta-component">
       <span class="icon-tags" aria-hidden="true"></span> $tags$.
+    </div>
+    $endif$
+    $if(nextPost)$
+    <div class="meta-component">
+    <a href="$nextPost$" style="float:right; text-align: right;">Previous</a>
     </div>
     $endif$
   </div>
