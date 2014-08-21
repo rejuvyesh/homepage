@@ -166,6 +166,9 @@ main = hakyllWith config $ do
         , "episteme.md"
         , "book-reviews.md"
         , "clippings.md"
+        , "research.md"
+        , "publications.md"
+        , "projects.md"
         ]
 
 
