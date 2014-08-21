@@ -2,7 +2,7 @@ html {
   background-color: #fff;
   font-size: 16px;
   font-family: 'Lato', 'Proxima Nova', sans-serif;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 body {
@@ -287,12 +287,9 @@ article .meta a:hover {
   display: inline-block;
 }
 
-
-
 div#footer {
    margin: 60px 0px 36px 0px;
 }
-
 
 /* from Twitter's bootstrap package; adds grid-lines to table */
 table {
