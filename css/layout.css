@@ -75,6 +75,49 @@ div#content {
   color:#777777
 }
 
+.work h2 {
+  font-size: 1.5em;
+}
+
+.work h3 {
+  font-weight: normal;
+  border-bottom: 1px solid #555;
+  margin-bottom: 0.2em;
+}
+
+.projects table {
+  border-collapse: collapse;
+  border: none;
+  font-size: 1em;
+}
+
+.projects table th, table td {
+  border: none;
+}
+
+.projects table th {
+  padding-top: 0.6em;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.projects table td {
+  padding-left: 1.15em;
+  vertical-align: middle;
+}
+
+
+.projects table tr + tr td {
+  border-top: none;
+}
+
+.projects table tbody tr:nth-child(odd) td {
+  background-color: white;
+}
+.projects table tbody tr:hover td {
+  background-color: white;
+}
+
 @media all and (min-width: 820px) {
   html {
     
@@ -136,10 +179,10 @@ div#content {
   }
 
   .header-container h1 {
-    font-size: 2.8em;
+    font-size: 3em;
     text-align: left;
   }
   .header-container p {
     text-align:left;
   }
-
+  
