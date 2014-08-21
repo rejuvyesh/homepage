@@ -32,6 +32,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[Accelerando](http://www.amazon.com/s?ie=UTF8&field-isbn=0441014151&page=1&rh=i:stripbooks)*                                                                                                           Charles Stross             ★★★★★    2006   2013/04/29   Quite unlike other SF I have read. <br/>
                                                                                                                                                                                                                                                                   
 
+  *[Creative Destruction: How Globalization Is Changing the World's Cultures](http://www.amazon.com/s?ie=UTF8&field-isbn=0691117837&page=1&rh=i:stripbooks)*                                              Tyler Cowen                ★★★★★    2004   2014/08/01   
+
   *[The Truth of Fact, the Truth of Feeling](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)*                                                       Ted Chiang                 ★★★★★    2013   2014/03/22   
 
   *[The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](http://www.amazon.com/s?ie=UTF8&field-isbn=0596001088&page=1&rh=i:stripbooks)*                           Eric S. Raymond            ★★★★★    2001   2013/07/16   
@@ -78,7 +80,7 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[Gold: The Final Science Fiction Collection](http://www.amazon.com/s?ie=UTF8&field-isbn=0060556528&page=1&rh=i:stripbooks)*                                                                            Isaac Asimov               ★★★★★    2003                
 
-  *[Catch-22](http://www.amazon.com/s?ie=UTF8&field-isbn=0684833395&page=1&rh=i:stripbooks)*                                                                                                              Joseph Heller              ★★★★★    2004   2013/06/23   
+  *[Catch-22 (Catch-22, \#1)](http://www.amazon.com/s?ie=UTF8&field-isbn=0684833395&page=1&rh=i:stripbooks)*                                                                                              Joseph Heller              ★★★★★    2004   2013/06/23   
 
   *[Murder on the Orient Express](http://www.amazon.com/s?ie=UTF8&field-isbn=0002315394&page=1&rh=i:stripbooks)*                                                                                          Agatha Christie            ★★★★★    1998                
 
@@ -156,6 +158,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[The Blank Slate: The Modern Denial of Human Nature](http://www.amazon.com/s?ie=UTF8&field-isbn=0142003344&page=1&rh=i:stripbooks)*                                                                    Steven Pinker              ★★★★     2003   2014/03/20   I think Pinker was a little harsh with the post-modern phenomenon in art.
                                                                                                                                                                                                                                                                   
 
+  *[The Metropolitan Man]()*                                                                                                                                                                              Alexander Wales            ★★★★     0      2014/08/09   
+
   *[Snow, Glass, Apples](http://thedreaming.joefulgham.com/1999/10/10/snow-glass-apples/)*                                                                                                                Neil Gaiman                ★★★★     1995   2014/06/12   
 
   *[Tap](http://www.amazon.com/s?ie=UTF8&field-isbn=4309622038&page=1&rh=i:stripbooks)*                                                                                                                   Greg Egan                  ★★★★     2008   2014/04/26   
@@ -168,7 +172,7 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[The Lifecycle of Software Objects](http://www.amazon.com/s?ie=UTF8&field-isbn=1596063173&page=1&rh=i:stripbooks)*                                                                                     Ted Chiang                 ★★★★     2010                
 
-  *[Fine Structure](http://qntm.org/structure)*                                                                                                                                                           Sam Hughes                 ★★★★     2010   2014/03/21   
+  *[Fine Structure](http://qntm.org/structure)*                                                                                                                                                           Sam  Hughes                ★★★★     2010   2014/03/21   
 
   *[The Little Prince](http://www.amazon.com/s?ie=UTF8&field-isbn=0156012197&page=1&rh=i:stripbooks)*                                                                                                     Antoine de Saint-Exupéry   ★★★★     2000   2014/03/01   
 
@@ -203,6 +207,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[The Signal and the Noise: Why So Many Predictions Fail - But Some Don't](http://www.amazon.com/s?ie=UTF8&field-isbn=159420411X&page=1&rh=i:stripbooks)*                                               Nate Silver                ★★★★     2012   2013/07/30   
 
   *[How the Mind Works](http://www.amazon.com/s?ie=UTF8&field-isbn=0393318486&page=1&rh=i:stripbooks)*                                                                                                    Steven Pinker              ★★★★     1999                
+
+  *[Dirk Gently's Holistic Detective Agency (Dirk Gently \#1)]()*                                                                                                                                         Douglas Adams              ★★★★     2013   2014/07/05   
 
   *[The Meme Machine](http://www.amazon.com/s?ie=UTF8&field-isbn=019286212X&page=1&rh=i:stripbooks)*                                                                                                      Susan J. Blackmore         ★★★★     2000   2013/02/25   
 
@@ -258,7 +264,7 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[The Lord of the Rings (The Lord of the Rings, \#1-3)](http://www.amazon.com/s?ie=UTF8&field-isbn=0618640150&page=1&rh=i:stripbooks)*                                                                  J.R.R. Tolkien             ★★★★     2005                
 
-  *[Harry Potter and the Deathly Hallows (Harry Potter, \#7)](http://www.amazon.com/s?ie=UTF8&field-isbn=0545010225&page=1&rh=i:stripbooks)*                                                              J.K. Rowling               ★★★★     2007                
+  *[Harry Potter and the Deathly Hallows (Harry Potter \#7)](http://www.amazon.com/s?ie=UTF8&field-isbn=0545010225&page=1&rh=i:stripbooks)*                                                               J.K. Rowling               ★★★★     2007                
 
   *[Tips on Physics: A Problem-solving Supplement to the Feynman Lectures on Physics](http://www.amazon.com/s?ie=UTF8&field-isbn=0805390634&page=1&rh=i:stripbooks)*                                      Richard P. Feynman         ★★★★     2005                
 
@@ -313,6 +319,10 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[Twelve Angry Men](http://www.amazon.com/s?ie=UTF8&field-isbn=0143104403&page=1&rh=i:stripbooks)*                                                                                                      Reginald Rose              ★★★      2006   2014/02/23   Fonda's movie was better than the play.
                                                                                                                                                                                                                                                                   
+
+  *[Bossypants](http://www.amazon.com/s?ie=UTF8&field-isbn=0316175862&page=1&rh=i:stripbooks)*                                                                                                            Tina Fey                   ★★★      2011   2014/08/13   
+
+  *[Burning Girls](http://www.amazon.com/s?ie=UTF8&field-isbn=1466848057&page=1&rh=i:stripbooks)*                                                                                                         Veronica Schanoes          ★★★      2013   2014/08/10   
 
   *[Speaking of Empire and Resistance: Conversations with Tariq Ali](http://www.amazon.com/s?ie=UTF8&field-isbn=156584954X&page=1&rh=i:stripbooks)*                                                       Tariq Ali                  ★★★      2005   2014/05/31   
 
@@ -378,7 +388,7 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[The  C Programming Language  ](http://www.amazon.com/s?ie=UTF8&field-isbn=0131103628&page=1&rh=i:stripbooks)*                                                                                         Brian W. Kernighan         ★★★      1988                
 
-  *[Harry Potter and the Chamber of Secrets (Harry Potter, \#2)](http://www.amazon.com/s?ie=UTF8&field-isbn=0439064864&page=1&rh=i:stripbooks)*                                                           J.K. Rowling               ★★★      1999                
+  *[Harry Potter and the Chamber of Secrets (Harry Potter \#2)](http://www.amazon.com/s?ie=UTF8&field-isbn=0439064864&page=1&rh=i:stripbooks)*                                                            J.K. Rowling               ★★★      1999                
 
   *[City of Golden Shadow (Otherland, \#1)](http://www.amazon.com/s?ie=UTF8&field-isbn=0886777631&page=1&rh=i:stripbooks)*                                                                                Tad Williams               ★★★      1998   2011/06/01   
 
@@ -403,6 +413,9 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[Harry Potter and the Order of the Phoenix (Harry Potter, \#5)](http://www.amazon.com/s?ie=UTF8&field-isbn=0439358078&page=1&rh=i:stripbooks)*                                                         J.K. Rowling               ★★       2003                
 
   *[Eragon (The Inheritance Cycle, \#1)](http://www.amazon.com/s?ie=UTF8&field-isbn=0375826696&page=1&rh=i:stripbooks)*                                                                                   Christopher Paolini        ★★       2005                
+
+  *[Turbulence](http://www.amazon.com/s?ie=UTF8&field-isbn=9350092174&page=1&rh=i:stripbooks)*                                                                                                            Samit Basu                 ★        2010   2014/08/18   Only good thing about it was that it didn't took itself seriously and so could remain humorous for most parts. Probably I am more biased against it because I've read *Worm*, which actually took lame super powers to their logical conclusion.
+                                                                                                                                                                                                                                                                  
 
   *[The Supernaturalist](http://www.amazon.com/s?ie=UTF8&field-isbn=078685149X&page=1&rh=i:stripbooks)*                                                                                                   Eoin Colfer                ★        2005                
 
