@@ -145,7 +145,12 @@ article .entry-content .toc {
   width: 20%;
   background: none repeat scroll 0% 0% #eee;
   margin-left: 20px;
+  margin-top: 0;
+  padding-left: 10px;
+  padding-right: 10px; 
 }
+article .entry-content .toc:after {
+  clear: both; }
 
 article .entry-content h1, h2 h3, h4 {
   overflow: hidden;
