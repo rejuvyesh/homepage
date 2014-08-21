@@ -19,6 +19,8 @@ Few important molecules:
 
 Ca^2+^ probably plays a very important role in all this.
 
+This phenomenon was initially thought to be just a development characteristic, observed in vitro models. Interestingly, this has now been observed in adults especially during nerve regeneration.
+
 [^aside]: I was confused for quite some time actually. Not being a biology major, first thing that comes into mind is language translation and second is moving an object from one place to another. After reading the first page of the paper I realized that they are talking about protein translation. Probably my bone-headedness than anything.
 
 ## Evidence
@@ -87,5 +89,5 @@ Ca^2+^ probably plays a very important role in all this.
 ## References
 
 1. [Lin, Andrew C., and Christine E. Holt. "Local translation and directional steering in axons." The EMBO journal 26.16 (2007): 3729-3736.](http://onlinelibrary.wiley.com/doi/10.1038/sj.emboj.7601808/full)
-
+2. [Zheng, Jun-Qi, et al. "A functional role for intra-axonal protein synthesis during axonal regeneration from adult sensory neurons." The Journal of Neuroscience 21.23 (2001): 9291-9303.](http://www.jneurosci.org/content/21/23/9291.full)
 
