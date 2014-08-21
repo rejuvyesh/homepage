@@ -2,7 +2,10 @@
   <ul class="archive">
     $for(notes)$
     <li class="archive-item">
-      <a class="item-link" href="$url$"><h2 class="item-title">$title$</h2></a>
+      <a class="item-link" href="$url$"><section class="item-title">$title$</section></a>
+      <div class="item-excerpt">
+        $description$
+      </div>
     </li>
     $endfor$
   </ul>
