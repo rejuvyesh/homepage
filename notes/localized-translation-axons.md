@@ -89,5 +89,6 @@ This phenomenon was initially thought to be just a development characteristic, o
 ## References
 
 1. [Lin, Andrew C., and Christine E. Holt. "Local translation and directional steering in axons." The EMBO journal 26.16 (2007): 3729-3736.](http://onlinelibrary.wiley.com/doi/10.1038/sj.emboj.7601808/full)
-2. [Zheng, Jun-Qi, et al. "A functional role for intra-axonal protein synthesis during axonal regeneration from adult sensory neurons." The Journal of Neuroscience 21.23 (2001): 9291-9303.](http://www.jneurosci.org/content/21/23/9291.full)
+2. [Šatkauskas, Saulius, and Dominique Bagnard. "Local protein synthesis in axonal growth cones: what is next?." Cell adhesion & migration 1.4 (2007): 179.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2634104/)
+3. [Zheng, Jun-Qi, et al. "A functional role for intra-axonal protein synthesis during axonal regeneration from adult sensory neurons." The Journal of Neuroscience 21.23 (2001): 9291-9303.](http://www.jneurosci.org/content/21/23/9291.full)
 
