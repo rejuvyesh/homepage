@@ -271,11 +271,14 @@ article .meta a:hover {
   border: medium none;
 }
 
-
-.archive-item .item-link h2:hover {
-   text-decoration: underline;
+.item-title {
+  font-size: 1.5em;
+  padding-top: 10px;
 }
 
+.archive-item .item-link .item-title {
+  font-weight: normal;
+}
 
 .archive-item .item-link .item-excerpt {
   color: #aaa;
