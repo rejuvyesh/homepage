@@ -32,4 +32,4 @@ tags:
 
 EOF
 
-$HOME/Scripts/emacs-gui "posts/"$filename
+$HOME/src/scripts/emacs-gui "posts/"$filename
