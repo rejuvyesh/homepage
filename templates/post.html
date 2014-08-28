@@ -13,9 +13,11 @@
     <div class="meta-component">
       <span class="icon-quill" aria-hidden="true"></span> <em>$author$</em> on <strong>$lastmodified$</strong>
     </div>
+    $if(belief)$
     <div class="meta-component">
       Epistemic state: <a href="/episteme">$belief$</a>
     </div>
+    $endif$
     $if(tags)$
     <div class="meta-component">
       <span class="icon-tags" aria-hidden="true"></span> $tags$.
