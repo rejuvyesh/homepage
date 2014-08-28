@@ -179,7 +179,6 @@ postCtx tags = mconcat
     , tagsField "tags" tags
     , modificationTimeField "lastmodified" "%d %b %Y"
     , constField "author" "rejuvyesh"
-    , constField "belief" "N/A" 
     , defaultContext
     ]
 
@@ -188,7 +187,6 @@ defCtx = mconcat
          [ dateField "date" "%B %e, %Y"
          , modificationTimeField "lastmodified" "%d %b %Y"
          , constField "author" "rejuvyesh"
-         , constField "belief" "N/A" 
          , defaultContext
          ]
 
