@@ -158,6 +158,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[The Blank Slate: The Modern Denial of Human Nature](http://www.amazon.com/s?ie=UTF8&field-isbn=0142003344&page=1&rh=i:stripbooks)*                                                                    Steven Pinker              ★★★★     2003   2014/03/20   I think Pinker was a little harsh with the post-modern phenomenon in art.
                                                                                                                                                                                                                                                                   
 
+  *[Hot Death, Cold Soup: An Anthology of Pakistani Women Writers](http://www.amazon.com/s?ie=UTF8&field-isbn=1859641113&page=1&rh=i:stripbooks)*                                                         Manjula Padmanabhan        ★★★★     2009   2014/09/02   
+
   *[The Metropolitan Man]()*                                                                                                                                                                              Alexander Wales            ★★★★     0      2014/08/09   
 
   *[Snow, Glass, Apples](http://thedreaming.joefulgham.com/1999/10/10/snow-glass-apples/)*                                                                                                                Neil Gaiman                ★★★★     1995   2014/06/12   
@@ -333,6 +335,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
   *[Overtime (Laundry Files, \#2.5)](http://www.tor.com/stories/2009/12/overtime)*                                                                                                                        Charles Stross             ★★★      2009   2014/03/21   
 
   *[No Exit](http://www.amazon.com/s?ie=UTF8&field-isbn=0573613052&page=1&rh=i:stripbooks)*                                                                                                               Jean-Paul Sartre           ★★★      2010   2014/03/09   
+
+  *[Harvest](http://www.amazon.com/s?ie=UTF8&field-isbn=8186706054&page=1&rh=i:stripbooks)*                                                                                                               Manjula Padmanabhan        ★★★      2003   2014/08/25   
 
   *[Spar](http://clarkesworldmagazine.com/johnson_10_09/)*                                                                                                                                                Kij Johnson                ★★★      2009   2014/02/21   
 
