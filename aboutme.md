@@ -70,6 +70,6 @@ I'll try to keep everything on this site self-contained [^c] and hope to keep it
 
 ****
 
-Thank you for reading, and feel free to get in touch about literally anything. Seriously, the best emails begin with “This is random, but…” and end with “…thought this would be relevant to your interests.” See [Contact](/contact.html) for details.
+Thank you for reading, and feel free to get in touch about literally anything. Seriously, the best emails begin with “This is random, but…” and end with “…thought this would be relevant to your interests.” See [Contact](/contact) for details.
 
 Signing Off!
