@@ -2,7 +2,7 @@
 title: The Infinite Why Regress
 description: Why the argument of the unexplained designer is a bad one.
 author: rejuvyesh
-status: in progress
+status: finished
 lastmodified: 08 March, 2013
 belief: highly likely
 tags: philosophy, religion

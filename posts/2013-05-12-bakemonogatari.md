@@ -2,7 +2,7 @@
 title: Bakemonogatari
 description: Short review of a fantastic anime
 author: rejuvyesh
-status: complete
+status: finished
 lastmodified: 12 May, 2013
 belief: likely
 tags: anime

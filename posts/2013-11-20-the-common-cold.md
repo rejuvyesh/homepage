@@ -2,7 +2,7 @@
 title: The Common Cold
 description: Common cold and why it hasn't been solved yet
 author: rejuvyesh
-status: complete
+status: finished
 lastmodified: 20 November, 2013
 belief: likely
 tags: science

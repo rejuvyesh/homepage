@@ -2,7 +2,7 @@
 title:  The Scientific and Rational Tenor of Srimad Bhagwad Gita
 description: Where I try to take down Gita a notch
 author: rejuvyesh
-status: in progress
+status: finished
 lastmodified: 27 August, 2014
 belief: highly likely
 tags: sceptism, IIT-K, religion, philosophy
