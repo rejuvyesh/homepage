@@ -10,6 +10,413 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Thinking, Fast and Slow
+
+> The moral is significant: when System 2 is otherwise engaged, we will
+> believe almost anything. System 1 is gullible and biased to believe,
+> System 2 is in charge of doubting and unbelieving, but System 2 is
+> sometimes busy, and often lazy. Indeed, there is evidence that people
+> are more likely to be influenced by empty persuasive messages, such as
+> commercials, when they are tired and depleted.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Only one interpretation came to mind, and you were never aware of the
+> ambiguity. System 1 does not keep track of alternatives that it
+> rejects, or even of the fact that there were alternatives. Conscious
+> doubt is not in the repertoire of System 1; it requires maintaining
+> incompatible interpretations in mind at the same time, which demands
+> mental effort. Uncertainty and doubt are the domain of System 2.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The great comedian Danny Kaye had a line that has stayed with me since
+> my adolescence. Speaking of a woman he dislikes, he says, “Her
+> favorite position is beside herself, and her favorite sport is jumping
+> to conclusions.”
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The psychologist Paul Bloom, writing in The Atlantic in 2005,
+> presented the provocative claim that our inborn readiness to separate
+> physical and intentional causality explains the near universality of
+> religious beliefs. He observes that “we perceive the world of objects
+> as essentially separate from the world of minds, making it possible
+> for us to envision soulless bodies and bodiless souls.” The two modes
+> of causation that we are set to perceive make it natural for us to
+> accept the two central beliefs of many religions: an immaterial
+> divinity is the ultimate cause of the physical world, and immortal
+> souls temporarily control our bodies while we live and leave them
+> behind as we die. In Bloom’s view, the two concepts of causality were
+> shaped separately by evolutionary forces, building the origins of
+> religion into the structure of System 1.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Michotte had a different idea: he argued that we see causality, just
+> as directly as we see color. To make his point, he created episodes in
+> which a black square drawn on paper is seen in motion; it comes into
+> contact with another square, which immediately begins to move. The
+> observers know that there is no real physical contact, but they
+> nevertheless have a powerful “illusion of causality.” If the second
+> object starts moving instantly, they describe it as having been
+> “launched” by the first.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The consequences of repeated exposures benefit the organism in its
+> relations to the immediate animate and inanimate environment. They
+> allow the organism to distinguish objects and habitats that are safe
+> from those that are not, and they are the most primitive basis of
+> social attachments. Therefore, they form the basis for social
+> organization and cohesion—the basic sources of psychological and
+> social stability.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> What psychologists do believe is that all of us live much of our life
+> guided by the impressions of System 1—and we often do not know the
+> source of these impressions. How do you know that a statement is true?
+> If it is strongly linked by logic or association to other beliefs or
+> preferences you hold, or comes from a source you trust and like, you
+> will feel a sense of cognitive ease. The trouble is that there may be
+> other causes for your feeling of ease—including the quality of the
+> font and the appealing rhythm of the prose—and you have no simple way
+> of tracing your feelings to their source.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Anything that makes it easier for the associative machine to run
+> smoothly will also bias beliefs. A reliable way to make people believe
+> in falsehoods is frequent repetition, because familiarity is not
+> easily distinguished from truth. Authoritarian institutions and
+> marketers have always known this fact. But it was psychologists who
+> discovered that you do not have to repeat the entire statement of a
+> fact or idea to make it appear true.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The “Florida effect” involves two stages of priming. First, the set of
+> words primes thoughts of old age, though the word old is never
+> mentioned; second, these thoughts prime a behavior, walking slowly,
+> which is associated with old age. All this happens without any
+> awareness.
+
+ --- Kahneman, Daniel
+
+### The Atrocity Archives
+
+> I am compelled to admit that there is a difference between the
+> function and purpose of horror and spy fiction. Horror fiction allows
+> us to confront and sublimate our fears of an uncontrollable universe,
+> but the threat verges on the overwhelming and may indeed carry the
+> protagonists away. Spy fiction in contrast allows us to believe for a
+> while that the little people can, by obtaining secret knowledge,
+> acquire some leverage over the overwhelming threats that permeate
+> their universe.
+
+ --- Charles Stross
+
+### The Atrocity Archives
+
+> Didn't they know that the only unhackable computer is one that's
+> running a secure operating system, welded inside a steel safe, buried
+> under a ton of concrete at the bottom of a coal mine guarded by the
+> SAS and a couple of armoured divisions, and switched off? What did
+> they think they were doing?"
+
+ --- Charles Stross
+
+### The Atrocity Archives
+
+> "Sorry, I only smoke when you plug me into the national grid.
+
+ --- Charles Stross
+
+### The Atrocity Archives
+
+> "Bogons?" "Hypothetical particles of cluelessness. Idiots emit bogons,
+> causing machinery to malfunction in their presence. System
+> administrators absorb bogons, letting the machinery work again. Hacker
+> folklore--"
+
+ --- Charles Stross
+
+### The Atrocity Archives
+
+> "Gene police! You! Out of the pool, now!"
+
+ --- Charles Stross
+
+### The Atrocity Archives
+
+> There will be unpleasant visual distortions and some protosapient
+> wittering, but it's no more intelligent than a News of the World
+> reporter--not really smart enough to be dangerous.
+
+ --- Charles Stross
+
+### Turbulence
+
+> “Aman. Aman, darling? You’re rambling again,” Tia says gently. “Tell
+> Uzma things she needs to know, not things you could blog about. Uzma?”
+
+ --- Samit Basu
+
+### Turbulence
+
+> As the auto whines towards Versova, towards Uzma’s next conquest,
+> Saheli looks at her former classmate, now staring out at the sea as
+> the wind caresses her hair, and feels a burst of sadness. That sense
+> of loss every first agent, every first small-time director, every
+> childhood friend, every parent knows. The knowledge that your part in
+> the story is done, that something larger than you is taking place but
+> there’s no real room for you in it any more. The slow realisation that
+> you were part of something once, but it’s gone now, it’s slipped out
+> of your fingers. The star has moved on, and it’s time to take a bow
+> and make your exit as gracefully as you can.
+
+ --- Samit Basu
+
+### Bossypants
+
+> I can tell twenty comedy writers what to do; I can argue with a
+> cabdriver about 10th Avenue versus the West Side Highway; I will
+> happily tell a joke about Osama bin Laden or the Ku Klux Klan on live
+> television; but I could not talk to the babysitter about the
+> fingernail clipping. I’ll bet you Margaret Thatcher would say the same
+> thing if she were alive today.\* Here’s the truth: I couldn’t tell the
+> woman who so lovingly and devotedly watches my kid every day that I
+> didn’t like how she did this one thing. I didn’t want to hurt her
+> feelings.
+
+ --- Tina Fey
+
+### Bossypants
+
+> Politics and prostitution have to be the only jobs where inexperience
+> is considered a virtue. In what other profession would you brag about
+> not knowing stuff? “I’m not one of those fancy Harvard heart surgeons.
+> I’m just an unlicensed plumber with a dream and I’d like to cut your
+> chest open.” The crowd cheers.
+
+ --- Tina Fey
+
+### Bossypants
+
+> But there is not one management course in the world where they
+> recommend Self-Righteousness as a tool.
+
+ --- Tina Fey
+
+### Bossypants
+
+> Only in comedy, by the way, does an obedient white girl from the
+> suburbs count as diversity.
+
+ --- Tina Fey
+
+### Bossypants
+
+> The more New Yorkers like something, the more disgusted they are. “The
+> kitchen was all Sub-Zero: I want to kill myself. The building has a
+> playroom that makes you want to break your own jaw with a golf club. I
+> can’t take it.”
+
+ --- Tina Fey
+
+### Bossypants
+
+> The next rule is MAKE STATEMENTS. This is a positive way of saying
+> “Don’t ask questions all the time.” If we’re in a scene and I say,
+> “Who are you? Where are we? What are we doing here? What’s in that
+> box?” I’m putting pressure on you to come up with all the answers. In
+> other words: Whatever the problem, be part of the solution. Don’t just
+> sit around raising questions and pointing out obstacles. We’ve all
+> worked with that person. That person is a drag. It’s usually the same
+> person around the office who says things like “There’s no calories in
+> it if you eat it standing up!” and “I felt menaced when Terry raised
+> her voice.” MAKE STATEMENTS also applies to us women: Speak in
+> statements instead of apologetic questions. No one wants to go to a
+> doctor who says, “I’m going to be your surgeon? I’m here to talk to
+> you about your procedure? I was first in my class at Johns Hopkins,
+> so?” Make statements, with your actions and your voice. Instead of
+> saying “Where are we?” make a statement like “Here we are in Spain,
+> Dracula.” Okay,
+
+ --- Tina Fey
+
+### Bossypants
+
+> The second rule of improvisation is not only to say yes, but YES, AND.
+> You are supposed to agree and then add something of your own. If I
+> start a scene with “I can’t believe it’s so hot in here,” and you just
+> say, “Yeah…” we’re kind of at a standstill. But if I say, “I can’t
+> believe it’s so hot in here,” and you say, “What did you expect? We’re
+> in hell.” Or if I say, “I can’t believe it’s so hot in here,” and you
+> say, “Yes, this can’t be good for the wax figures.” Or if I say, “I
+> can’t believe it’s so hot in here,” and you say, “I told you we
+> shouldn’t have crawled into this dog’s mouth,” now we’re getting
+> somewhere. To me YES, AND means don’t be afraid to contribute. It’s
+> your responsibility to contribute. Always make sure you’re adding
+> something to the discussion. Your initiations are worthwhile.
+
+ --- Tina Fey
+
+### Bossypants
+
+> The first rule of improvisation is AGREE. Always agree and SAY YES.
+> When you’re improvising, this means you are required to agree with
+> whatever your partner has created. So if we’re improvising and I say,
+> “Freeze, I have a gun,” and you say, “That’s not a gun. It’s your
+> finger. You’re pointing your finger at me,” our improvised scene has
+> ground to a halt. But if I say, “Freeze, I have a gun!” and you say,
+> “The gun I gave you for Christmas! You bastard!” then we have started
+> a scene because we have AGREED that my finger is in fact a Christmas
+> gun. Now, obviously in real life you’re not always going to agree with
+> everything everyone says. But the Rule of Agreement reminds you to
+> “respect what your partner has created” and to at least start from an
+> open-minded place. Start with a YES and see where that takes you.
+
+ --- Tina Fey
+
+### Bossypants
+
+> Now every girl is expected to have: Caucasian blue eyes full Spanish
+> lips a classic button nose hairless Asian skin with a California tan a
+> Jamaican dance hall ass long Swedish legs small Japanese feet the abs
+> of a lesbian gym owner the hips of a nine-year-old boy the arms of
+> Michelle Obama and doll tits The person closest to actually achieving
+> this look is Kim Kardashian, who, as we know, was made by Russian
+> scientists to sabotage our athletes. Everyone else is struggling.
+
+ --- Tina Fey
+
+### Burning Girls: A Tor.Com Original
+
+> Learning and skill are things to be proud of; they are the stars that
+> light the sky of one’s lifetime.
+
+ --- Schanoes, Veronica
+
+### Operating System Concepts
+
+> Kernighan’s Law “Debugging is twice as hard as writing the code in the
+> first place. Therefore, if you write the code as cleverly as possible,
+> you are, by definition, not smart enough to debug it.”
+
+ --- Gagne, Greg
+
+### Thinking, Fast and Slow
+
+> This is the essence of intuitive heuristics: when faced with a
+> difficult question, we often answer an easier one instead, usually
+> without noticing the substitution.
+
+ --- Kahneman, Daniel
+
+### Creative Destruction - How Globalization Is Changing the World's Cultures-Princeton University Press (2002)
+
+> trade. The British had once sought protection against Indian cloth as
+> well. In the eighteenth cen- Indian cloth was greatly popular in
+> Britain. Hand-painted cot- chintz was very popular in European
+> markets, especially in England, and revolutionized European textile
+> styles. An English ban on chintz failed to keep the product out, just
+> as a “buy domestic cloth”
+
+ --- Tyler Cowen
+
+### Creative Destruction - How Globalization Is Changing the World's Cultures-Princeton University Press (2002)
+
+> movement, an English precursor of Gandhi’s Swadeshi movement, failed.
+> The textiles were so highly demanded that they entered England through
+> the Netherlands. These forms of cultural imperialism, as practiced by
+> Indians, supported the industries that Gandhi later claimed were
+> victimized by British cultural imperialThe very notion of Gandhi’s
+> Swadeshi movement was based on foreign influences. The Swadeshi
+> writers had been strongly influby John Ruskin, William Morris, and the
+> nineteenth-century Arts and Crafts movement of Great Britain. These
+> individuals cried the effects of commerce on art and called for a
+> return to the indigenous production of national handicrafts. Yet
+
+ --- Tyler Cowen
+
+### Creative Destruction - How Globalization Is Changing the World's Cultures-Princeton University Press (2002)
+
+> The fundamental story about consumer taste, in modern times, is not
+> one of dumbing down or of producers seeking to satisfy a homogeneous
+> least common denominator at the expense of quality. Rather, the basic
+> trend is of increasing variety and diversity, at all levels of
+> quality, high and low
+
+ --- Tyler Cowen
+
+### Creative Destruction - How Globalization Is Changing the World's Cultures-Princeton University Press (2002)
+
+> For these reasons, the wealthy face the least danger of quality
+> erosion in a globalized culture. Most individuals who purchase pensive
+> products—diamonds, original paintings, and “Michelin taurant”
+> meals—are well-to-do and will consult or hire critics. Even if
+> cross-cultural exchange lowers product quality in some areas, due to
+> the weakening of customer monitoring, the wealthy will remain
+> protected. Poorer individuals eat more frequently in local diners and
+> more generally consume items that are small in value. They rely on
+> fellow customers to monitor quality, rather than on professional
+> critics, and therefore face a greater danger of the collective action
+> problems discussed above.11
+
+ --- Tyler Cowen
+
+### Creative Destruction - How Globalization Is Changing the World's Cultures-Princeton University Press (2002)
+
+> Hobbyists and channel surfers complement each other symbioti- Just as
+> the channel surfers rely on the hobbyists to monitor quality, so do
+> the hobbyists rely on the channel surfers. Channel surfers create
+> external benefits for other consumers, just as intensive monitors do.
+> By sampling a wide variety of commodities, even if they do so
+> indiscriminately, channel surfers help finance variety. The resulting
+> increase in variety supports diverse and appealing monitoring
+> opportunities for the hobbyists. A creative environment thus balances
+> intensive and extensive consumption, rather than voring the former
+> exclusively.
+
+ --- Tyler Cowen
+
+### Dirk Gentlys Holistic Detective Agency
+
+> Capital letters were always the best way of dealing with things you
+> didn't have a good answer to.
+
+ --- Douglas Adams
+
+### Dirk Gentlys Holistic Detective Agency
+
+> The Electric Monk was a labour-saving device, like a dishwasher or a
+> video recorder. Dishwashers washed tedious dishes for you, thus saving
+> you the bother of washing them yourself, video recorders watched
+> tedious television for you, thus saving you the bother of looking at
+> it yourself; Electric Monks believed things for you, thus saving you
+> what was becoming an increasingly onerous task, that of believing all
+> the things the world expected you to believe.
+
+ --- Douglas Adams
+
 ### Wired Love
 
 > "and what with that and the telephone, and that dreadful phonograph
