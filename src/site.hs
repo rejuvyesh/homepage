@@ -6,14 +6,15 @@ module Main where
 
 --------------------------------------------------------------------------------
 
-import           Data.Monoid     (mappend, mconcat)
-import           Prelude         hiding (id)
-import           System.FilePath (takeBaseName)
+import           Data.Monoid (mappend, mconcat)
+import           Prelude     hiding (id)
+
 
 --------------------------------------------------------------------------------
-import           Hakyll          hiding (pandocCompiler)
+import           Hakyll      hiding (pandocCompiler)
 --------------------------------------------------------------------------------
 
+import           Site.Meta
 import           Site.Pandoc
 
 --------------------------------------------------------------------------------
@@ -34,8 +35,8 @@ main = hakyllWith config $ do
     match "notes/*" $ do
       route $ niceRoute "notes/"
       compile $ pandocCompilerWithToc
-        >>= loadAndApplyTemplate "templates/note.html" defCtx
-        >>= loadAndApplyTemplate "templates/default.html" defCtx
+        >>= loadAndApplyTemplate "templates/note.html" defContext
+        >>= loadAndApplyTemplate "templates/default.html" defContext
         >>= relativizeUrls
         >>= removeIndexHtml
 
@@ -47,11 +48,11 @@ main = hakyllWith config $ do
         makeItem ""
           >>= loadAndApplyTemplate "templates/notes.html"
                   (constField "title" "All Notes" `mappend`
-                   listField "notes" defCtx (return notes) `mappend`
+                   listField "notes" defContext (return notes) `mappend`
                    defaultContext)
           >>= loadAndApplyTemplate "templates/default.html"
                   (constField "title" "rejuvyesh's notes" `mappend`
-                   defCtx)
+                   defContext)
           >>= relativizeUrls
           >>= removeIndexHtml
 
@@ -64,7 +65,7 @@ main = hakyllWith config $ do
         compile $ pandocCompiler
           >>= saveSnapshot "content"
           >>= return . fmap demoteHeaders
-          >>= loadAndApplyTemplate "templates/post.html" (postCtx tags)
+          >>= loadAndApplyTemplate "templates/post.html" (postContext tags)
           >>= loadAndApplyTemplate "templates/default.html" defaultContext
           >>= relativizeUrls
           >>= removeIndexHtml
@@ -108,7 +109,7 @@ main = hakyllWith config $ do
              route   $ setExtension "xml"
              compile $ loadAllSnapshots pattern "content"
                 >>= fmap (take 10) . recentFirst
-                >>= renderAtom (feedConfiguration title) feedCtx
+                >>= renderAtom feedConfiguration feedContext
 
     -- Index
     match "index.html" $ do
@@ -131,8 +132,8 @@ main = hakyllWith config $ do
     match (fromList pages) $ do
         route   $ niceRoute ""
         compile $ pandocCompiler
-                >>= loadAndApplyTemplate "templates/post.html" defCtx
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/post.html" defContext
+                >>= loadAndApplyTemplate "templates/default.html" defContext
                 >>= relativizeUrls
                 >>= removeIndexHtml
 
@@ -151,8 +152,9 @@ main = hakyllWith config $ do
     create ["rss.xml"] $ do
         route idRoute
         compile $ loadAllSnapshots "posts/*" "content"
-                >>= fmap (take 10) . recentFirst
-                >>= renderAtom (feedConfiguration "All posts") feedCtx
+          >>= filterDraftItems
+          >>= fmap (take 10) . recentFirst
+          >>= renderAtom feedConfiguration feedContext
 
 
     where
@@ -171,46 +173,6 @@ main = hakyllWith config $ do
 
 
 --------------------------------------------------------------------------------
-postCtx :: Tags -> Context String
-postCtx tags = mconcat
-    [ dateField "date" "%B %e, %Y"
-    , tagsField "tags" tags
-    , modificationTimeField "lastmodified" "%d %b %Y"
-    , constField "author" "rejuvyesh"
-    , defaultContext
-    ]
-
-defCtx :: Context String
-defCtx = mconcat
-         [ dateField "date" "%B %e, %Y"
-         , modificationTimeField "lastmodified" "%d %b %Y"
-         , constField "author" "rejuvyesh"
-         , defaultContext
-         ]
-
--------------------------------------------------------------------------------
--- replace a foo/bar.md by foo/bar/index.html
--- this way the url looks like: foo/bar in most browsers
-niceRoute :: String -> Routes
-niceRoute prefix = customRoute $
-                   \ident -> prefix ++ (takeBaseName . toFilePath $ ident) ++ "/index.html"
-
--- replace url of the form foo/bar/index.html by foo/bar
-removeIndexHtml :: Item String -> Compiler (Item String)
-removeIndexHtml item = return $ fmap (withUrls removeIndexStr) item
-  where
-    removeIndexStr :: String -> String
-    removeIndexStr str@(x:xs) | str == "/index.html" = ""
-                              | otherwise = x:removeIndexStr xs
-    removeIndexStr [] = []
-
---------------------------------------------------------------------------------
-feedCtx :: Context String
-feedCtx = mconcat
-    [ bodyField "description"
-    , defaultContext
-    ]
-
 
 --------------------------------------------------------------------------------
 config :: Configuration
@@ -219,9 +181,9 @@ config = defaultConfiguration
     }
 
 
-feedConfiguration :: String -> FeedConfiguration
-feedConfiguration title = FeedConfiguration
-    { feedTitle       = "Rejuvyesh's Whisperings into the Wire - " ++ title
+feedConfiguration :: FeedConfiguration
+feedConfiguration = FeedConfiguration
+    { feedTitle       = "Rejuvyesh's Whisperings into the Wire"
     , feedDescription = "Personal blog of Jayesh Kumar Gupta"
     , feedAuthorName  = "Jayesh Kumar Gupta"
     , feedAuthorEmail = "mail@rejuvyesh.com"
@@ -235,4 +197,4 @@ postList :: Tags -> Pattern -> ([Item String] -> Compiler [Item String])
 postList tags pattern preprocess' = do
     postItemTpl <- loadBody "templates/postitem.html"
     posts       <- preprocess' =<< loadAll pattern
-    applyTemplateList postItemTpl (postCtx tags) posts
+    applyTemplateList postItemTpl (postContext tags) posts
