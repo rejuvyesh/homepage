@@ -6,14 +6,14 @@ module Main where
 
 --------------------------------------------------------------------------------
 
-import           Data.Monoid (mappend, mconcat)
+import           Data.Monoid (mappend)
 import           Prelude     hiding (id)
-
 
 --------------------------------------------------------------------------------
 import           Hakyll      hiding (pandocCompiler)
 --------------------------------------------------------------------------------
 
+import           Site.Config
 import           Site.Meta
 import           Site.Pandoc
 
@@ -170,27 +170,6 @@ main = hakyllWith config $ do
         , "publications.md"
         , "projects.md"
         ]
-
-
---------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------
-config :: Configuration
-config = defaultConfiguration
-    { deployCommand = "/usr/bin/cp -rf _site/* ../rejuvyesh.github.io/ && cd ../rejuvyesh.github.io/ && git add -A && git commit -m \"update\" && git push origin"
-    }
-
-
-feedConfiguration :: FeedConfiguration
-feedConfiguration = FeedConfiguration
-    { feedTitle       = "Rejuvyesh's Whisperings into the Wire"
-    , feedDescription = "Personal blog of Jayesh Kumar Gupta"
-    , feedAuthorName  = "Jayesh Kumar Gupta"
-    , feedAuthorEmail = "mail@rejuvyesh.com"
-    , feedRoot        = "http://rejuvyesh.com"
-    }
-
---------------------------------------------------------------------------------
 
 postList :: Tags -> Pattern -> ([Item String] -> Compiler [Item String])
          -> Compiler String
