@@ -49,7 +49,7 @@ main = hakyllWith config $ do
           >>= loadAndApplyTemplate "templates/notes.html"
                   (constField "title" "All Notes" `mappend`
                    listField "notes" defContext (return notes) `mappend`
-                   defaultContext)
+                   defContext)
           >>= loadAndApplyTemplate "templates/default.html"
                   (constField "title" "rejuvyesh's notes" `mappend`
                    defContext)
@@ -66,7 +66,7 @@ main = hakyllWith config $ do
           >>= saveSnapshot "content"
           >>= return . fmap demoteHeaders
           >>= loadAndApplyTemplate "templates/post.html" (postContext tags)
-          >>= loadAndApplyTemplate "templates/default.html" defaultContext
+          >>= loadAndApplyTemplate "templates/default.html" defContext
           >>= relativizeUrls
           >>= removeIndexHtml
 
@@ -79,11 +79,11 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/posts.html"
                         (constField "title" "All Posts" `mappend`
                          constField "posts" list `mappend`
-                         defaultContext)
+                         defContext)
                 >>= loadAndApplyTemplate "templates/default.html"
                         (constField "title" "Whisperings into the Wire" `mappend`
                          constField "description" "Blog" `mappend`
-                         defaultContext)
+                         defContext)
                 >>= relativizeUrls
                 >>= removeIndexHtml
 
@@ -99,8 +99,8 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/posts.html"
                         (constField "title" title `mappend`
                          constField "posts" list `mappend`
-                         defaultContext)
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                         defContext)
+                >>= loadAndApplyTemplate "templates/default.html" defContext
                 >>= relativizeUrls
                 >>= removeIndexHtml
 
@@ -117,7 +117,7 @@ main = hakyllWith config $ do
         compile $ do
             list <- postList tags "posts/*" $ fmap (take 3) . recentFirst
             let indexContext = field "tags" (\_ -> renderTagList tags) `mappend`
-                               defaultContext
+                               defContext
 
             getResourceBody
                 >>= applyAsTemplate indexContext
@@ -141,7 +141,7 @@ main = hakyllWith config $ do
     match "404.md" $ do
         route idRoute
         compile $ pandocCompiler
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/default.html" defContext
 
     -- Render the resume page
     match "resume.html" $ do
