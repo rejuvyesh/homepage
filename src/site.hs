@@ -1,5 +1,3 @@
-#!/usr/bin/env runhaskell
-
 {-Thanks to jaspervdj: http://jaspervdj.be/ -}
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
@@ -7,16 +5,16 @@ module Main where
 
 
 --------------------------------------------------------------------------------
+
 import           Data.Monoid     (mappend, mconcat)
-import           Data.List       (isInfixOf)
 import           Prelude         hiding (id)
 import           System.FilePath (takeBaseName)
-import qualified Text.Pandoc     as Pandoc
-
 
 --------------------------------------------------------------------------------
-import           Hakyll
+import           Hakyll          hiding (pandocCompiler)
+--------------------------------------------------------------------------------
 
+import           Site.Pandoc
 
 --------------------------------------------------------------------------------
 -- | Entry point
@@ -35,7 +33,7 @@ main = hakyllWith config $ do
     -- Notes
     match "notes/*" $ do
       route $ niceRoute "notes/"
-      compile $ pandocCompilerWith defaultHakyllReaderOptions writerOptions
+      compile $ pandocCompilerWithToc
         >>= loadAndApplyTemplate "templates/note.html" defCtx
         >>= loadAndApplyTemplate "templates/default.html" defCtx
         >>= relativizeUrls
@@ -132,7 +130,7 @@ main = hakyllWith config $ do
     -- Render some static pages
     match (fromList pages) $ do
         route   $ niceRoute ""
-        compile $ pandocCompilerWithTransform  defaultHakyllReaderOptions defaultHakyllWriterOptions pandocTransform
+        compile $ pandocCompiler
                 >>= loadAndApplyTemplate "templates/post.html" defCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
@@ -148,7 +146,7 @@ main = hakyllWith config $ do
     match "resume.html" $ do
         route   $ niceRoute ""
         compile copyFileCompiler
-                                
+
     -- Render RSS feed
     create ["rss.xml"] $ do
         route idRoute
@@ -230,24 +228,6 @@ feedConfiguration title = FeedConfiguration
     , feedRoot        = "http://rejuvyesh.com"
     }
 
-writerOptions :: Pandoc.WriterOptions
-writerOptions = defaultHakyllWriterOptions
-    { Pandoc.writerHtmlQTags = True
-    , Pandoc.writerTableOfContents = True
-    , Pandoc.writerSectionDivs = True
-    , Pandoc.writerHtml5 = True
-    , Pandoc.writerTemplate = "<div class=\"toc\"><p><strong>Contents</strong></p>$toc$</div>\n$body$"
-    , Pandoc.writerStandalone = True
-    , Pandoc.writerHTMLMathMethod = Pandoc.MathJax ""                                
-    }
-
-pandocTransform :: Pandoc.Pandoc -> Pandoc.Pandoc
-pandocTransform = Pandoc.bottomUp (map addAmazonAffiliate)
-
-addAmazonAffiliate :: Pandoc.Inline -> Pandoc.Inline
-addAmazonAffiliate (Pandoc.Link r (l, t)) | "?search" `isInfixOf` l = Pandoc.Link r (l++"&tag=rejuvyeshcom-20", t)
-                                          | "amazon.com/" `isInfixOf` l && not ("?tag=" `isInfixOf` l) = Pandoc.Link r (l++"?tag=rejuvyeshcom-20", t)
-addAmazonAffiliate x = x
 --------------------------------------------------------------------------------
 
 postList :: Tags -> Pattern -> ([Item String] -> Compiler [Item String])
