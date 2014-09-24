@@ -1,5 +1,5 @@
 name:                homepage
-version:             0.1.1.5
+version:             0.1.2.0
 synopsis:            Personal Blog and Homepage of Jayesh Kumar Gupta
 -- description:         
 homepage:            http://rejuvyesh.com
@@ -25,6 +25,6 @@ executable homepage
                        process      >= 1.1.0.2,
                        cryptohash   >= 0.11,
                        pandoc-types >= 1.12,
-                       hakyll       >= 4.2.2.0
+                       hakyll       >= 4.4
   -- hs-source-dirs:      
   default-language:    Haskell2010
