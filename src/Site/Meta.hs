@@ -67,4 +67,4 @@ postContext tags =
 
 -- Rss feed context
 feedContext :: Context String
-feedContext = bodyField "description"
+feedContext = bodyField "description" <> defContext
