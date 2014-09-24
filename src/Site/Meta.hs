@@ -15,9 +15,8 @@ module Site.Meta
 -------------------------------------------------------------------------------
 
 import           Control.Monad   (filterM, liftM)
-import           Data.Monoid     ((<>))
+import           Data.Monoid     (mconcat, (<>))
 import           System.FilePath (takeBaseName)
-
 -------------------------------------------------------------------------------
 import           Hakyll
 -------------------------------------------------------------------------------
@@ -53,17 +52,20 @@ niceRoute prefix = customRoute $
 
 -- Default Context
 defContext :: Context String
-defContext =
-  dateField "date" "%B %e, %Y"                    <>
-  dateField "archiveyear" "%Y"                    <>
-  modificationTimeField "lastmodified" "%d %b %Y" <>
-  constField "author" "rejuvyesh"
+defContext = mconcat
+  [ dateField "date" "%B %e, %Y"
+  , dateField "archiveyear" "%Y"
+  , modificationTimeField "lastmodified" "%d %b %Y"
+  , constField "author" "rejuvyesh"
+  , defaultContext
+  ]
 
 -- Post Context
 postContext :: Tags -> Context String
-postContext tags =
-  defContext <>
-  tagsField "tags" tags
+postContext tags = mconcat
+  [ tagsField "tags" tags
+  , defContext
+  ]
 
 -- Rss feed context
 feedContext :: Context String
