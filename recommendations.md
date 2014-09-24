@@ -137,7 +137,7 @@ I use free/open-source software almost exclusively as much as possible. Some of 
 Websites
 --------
 
-I follow a lot many websites via ~~Google Reader~~ [theoldreader](http://theoldreader.com).
+I follow a lot many websites via ~~Google Reader~~ [Inoreader](http://inoreader.com).
 
 - [Gwern's Essays](http://www.gwern.net/)
 - [Hacker News](http://news.ycombinator.com/)
