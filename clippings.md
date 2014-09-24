@@ -10,6 +10,404 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Dataclysm
+
+> this as follows: 129,864,880 books have been written, at least
+> according to Google. That number is laughably precise; however, given
+> that they have already logged 30 million of them, and indexing things
+> is their business, their guess should be considered a plausible
+> estimate. See Ben Parr, “Google: There Are 129,864,880 Books in the
+> Entire World,” Mashable, August 5, 2010,
+> mashable.com/2010/08/05/number-of-books-in-the-world/. According to
+> Amazon, the median length of a novel is 64,000 words. Since it’s very
+> likely that the median and mean are close here, I’m comfortable using
+> it as an average. I don’t think novels are necessarily longer or
+> shorter than other books. See Gabe Habash, “The Average Book Has
+> 64,500 Words,” PWxyz, March 6, 2012,
+> blogs.publishersweekly.com/blogs/PWxyz/2012/03/06/the-average-book-has-64500-words.
+> These two numbers together yield 8,311,352,320,000 words ever in
+> print. Twitter reported 500 million tweets a day in August 2013. See
+> blog.twitter.com/2013/new-tweets-per-second-record-and-how. I estimate
+> that each tweet has 20 words. So at 10 billion words a day, it will
+> take Twitter 831 days (2.3 years) to surpass all of printed literature
+> in volume. This is obviously meant to be an approximation, and a
+> conservative one at that. In all likelihood, Twitter will do it much
+> faster, since the rate of tweets per day is increasing rapidly.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> A web page can’t replace granite. It can’t replace friendship or love
+> or family, either. But what it can do—as a conduit for our shared
+> experience—is help us understand ourselves and our lives. The era of
+> data is here; we are now recorded. That, like all change, is
+> frightening, but between the gunmetal gray of the government and the
+> hot pink of product offers we just can’t refuse, there is an open and
+> ungarish way. To use data to know yet not manipulate, to explore but
+> not to pry, to protect but not to smother, to see yet never expose,
+> and, above all, to repay that priceless gift we bequeath to the world
+> when we share our lives so that other lives might be better—and to
+> fulfill for everyone that oldest of human hopes, from Gilgamesh to
+> Ramses to today: that our names be remembered, not only in stone but
+> as part of memory itself.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> From Nature’s discussion of the console: “It is fitted with a camera
+> that can monitor the heart rate of people sitting in the same room.
+> The sensor is primarily designed for exercise games, allowing players
+> to monitor heart changes during physical activity, but, in principle,
+> the same type of system could monitor and pass on details of
+> physiological responses to TV advertisements, horror movies or
+> even … political broadcasts.”
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Tech gods. Titans. Colossi astride the whole Earth, because, you know,
+> Rhodes just isn’t cool anymore. This is how the industry is often cast
+> to the public, and sadly it’s how it often thinks of itself. But
+> though there are surely monsters, there are no gods. We would all do
+> well to remember this. All are flawed, human, and mortal, and we all
+> walk under the same dark sky. We brought on the flood—will it drown us
+> or lift us up? My hope for myself, and for the others like me, is to
+> make something good and real and human out of the data. And while we
+> do, whenever the technology and the devices and the algorithms seem
+> just too epic, we must all recall Tennyson’s aging Ulysses and resolve
+> to search for our truth in a slightly different way. To strive, to
+> seek, to find, but then, always, to yield.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Google, mentioned many times in these pages, leads the way in turning
+> data to the public good. There’s Flu and the work of
+> Stephens-Davidowitz, but also a raft of even more ambitious, if less
+> publicized, projects, such as Constitute—a data-based approach to
+> constitution design. The citizens of most countries are usually only
+> concerned with one constitution—their own—but Google has assembled all
+> nine hundred such documents drafted since 1787. Combined and
+> quantified, they give emerging nations—five new constitutions are
+> written every year—a better chance at a durable government because
+> they can see what’s worked and what hasn’t in the past. Here, data
+> unlocks a better future because, as Constitute’s website points out:
+> in a constitution, “even a single comma can make a huge difference.”
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> The Internet can be a deranged place, but it’s that potential for the
+> unexpected, even the insane, that so often redeems it. I can’t imagine
+> anything worse for You! The Brand! than upvoting Hitler. Plus, what a
+> waste of time, because obviously Mountain Dew isn’t going to print a
+> single unflattering word in the style of its precious and distinctive
+> marks. I find comfort in the silliness, in the frivolity, even in the
+> stupidity. Trolling a soda is something no formula would ever
+> recommend. It’s no industry best practice. And it’s evidence that as
+> much as corporatism might invade our newsfeeds, our photostreams, our
+> walls, and even, as some would hope, our very souls, a small part of
+> us is still beyond reach. That’s what I always want to remember: it’s
+> not numbers that will deny us our humanity; it’s the calculated
+> decision to stop being human.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> More recently, Mountain Dew ran a “Dub the Dew” contest, trying to
+> ride the “crowdsourcing” wave to a cool new soda name and thinking
+> maybe, if everything went just right and the metrics showed enough
+> traction to get buy-in from the right influencers, they’d earn some
+> brand ambassadors in the blogosphere. Reddit and 4chan got ahold of
+> it, and “Hitler did nothing wrong” led the voting for a while, until
+> at the last minute “Diabeetus” swooped in and the people’s voice was
+> heard: Dub yourself, motherfucker.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> But if simplifying is what it takes to understand large data sets, I
+> do worry about a different kind of reductionism: people becoming not a
+> number exactly, but a dehumanized userid fed into the grind of a
+> marketing algorithm; grist for someone else’s brand. Data takes too
+> much of the guesswork out of the sell. It’s a rare urban legend that
+> turns out to be true, but Target, by analyzing a customer’s purchases,
+> really did know she was pregnant before she’d told anyone. The hitch
+> was that she was a teenager, and they’d started sending maternity ads
+> to her father’s house.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Reduction is inescapable. Algorithms are crude. Computers are
+> machines. Data science is trying to make digital sense of an analog
+> world. It’s a by-product of the basic physical nature of the
+> microchip: a chip is just a sequence of tiny gates. Not in the way
+> that the Internet is a “series of tubes” but in actuality. The gates
+> open and close to let electrons through, and when one of these gates
+> wants to know what state to be in, it’s all or nothing—like any door,
+> a circuit is open or it isn’t; there are no shades of maybe. From that
+> microscopic reality an absolutism propagates up through the whole
+> enterprise, until at the highest level you have the definitions, data
+> types, and classes essential to programming languages like C and
+> JavaScript.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Two months later Zook measured a convulsion of another kind: the
+> Kentucky Wildcats won the NCAA championship and the students got
+> wasted and burned shit like the future leaders they no doubt are.
+> \#LexingtonPoliceScanner began trending as a hashtag, based mostly on
+> this tweet from @TKoppe22: “Uh We have a partially nude male with a
+> propane tank \#LexingtonPoliceScanner.” Zook tracked that tag to show
+> how formerly local nonsense can now reverberate worldwide. The
+> highbrow/lowbrow schizophrenia of Twitter never stops amazing me. It’s
+> the Chris Farley of technologies.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Communities move to find an environment that will sustain them and
+> where they are safe, but also to find a physical place that reflects
+> what they feel within.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> That is, 51 percent of women and 18 percent of men have had or would
+> like to have a same-sex experience. Those numbers are far higher than
+> any plausible estimate of the true gay population, so not only do we
+> find that sexuality is more fluid than the categories a website can
+> accommodate, we see that sex with someone of the same gender is
+> relatively common, whether people consider it part of their identity
+> or not.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> In the United States, of all Google searches that begin “Is my
+> husband …,” the most common word to follow is “gay.” “Gay” is 10
+> percent more common in such searches than the second-place word,
+> “cheating.” It is 8 times more common than “an alcoholic” and 10 times
+> more common than “depressed.”
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> I invite you to imagine when it will be a mystery no more. That will
+> be the real transformation—to know not just that people are cruel, and
+> in what amounts, and when, but why. Why we search for “nigger jokes”
+> when a black man wins; why inspiration is hollow-eyed, stripped, and,
+> above all, \#thin; why people scream at each other about the true age
+> of the earth. And why we seem to define ourselves as much by what we
+> hate as by what we love.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> In my opinion, Muhammad Ali is one of the bravest Americans. In 1967,
+> as heavyweight champion, he refused to serve in Vietnam and was not
+> only stripped of his title but banned from the sport for three and a
+> half years. He lost the prime of his career, and received a five-year
+> prison sentence (that took the Supreme Court to overturn), because of
+> what he believed in. It’s a stand unimaginable from today’s political
+> leaders, let alone our athletes and celebrities. From Kanye to Glenn
+> Beck to Rachel Maddow to Sarah Palin, you get plenty of anger, but
+> little sacrifice. We can each have our own take on Ali’s stance
+> against Vietnam—and as the son of a veteran, Huê´ ’69, I know at least
+> one person who disagrees with mine—but data like this can help anyone
+> understand why he took it. As Ali said at the time, “No Viet-Cong ever
+> called me nigger,” and he was probably right. But imagine, had Google
+> existed then, what would’ve been going into American search bars. And
+> imagine the home-state disadvantage of a black man in those days.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Early on, the best predictor of a relationship doesn’t depend on the
+> couple’s social graph at all; for the first year or so of dating, the
+> optimal method is how often they view each other’s profile. Only over
+> time, as the page views go down and their mutual network fills out,
+> does assimilation come to dominate the calculus. In other words, the
+> curiosity, discovery, and (visual) stimulation of falling for someone
+> is eventually replaced by the graph-theory equivalent of nesting.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> But realize this: we are living through writing’s Cambrian explosion,
+> not its mass extinction. Language is more varied than ever before,
+> even if some of it is directly copied from the clipboard—variety is
+> the preservation of an art, not a threat to it. From the high-flown
+> language of literary fiction to the simple, even misspelled, status
+> update, through all this writing runs a common purpose. Whether friend
+> to friend, stranger to stranger, lover to lover, or author to reader,
+> we use words to connect. And as long as there is a person bored,
+> excited, enraged, transported, in love, curious, or missing his home
+> and afraid for his future, he’ll be writing about it.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Looking through the data, instead of a wasteland of cut stumps, we
+> find a forest of bonsai.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> But what they, or rather we, are making offers a richness and a beauty
+> of a different kind: a poetry not of lyrical phrases but of
+> understanding. We are at the cusp of momentous change in the study of
+> human communication and what it tries to foster: community and
+> personal connection.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Waters on film: “To me, bad taste is what entertainment is all about.
+> If someone vomits while watching one of my films, it’s like getting a
+> standing ovation.”
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> Our sense of smell, which is the most connected to the brain’s
+> emotional center, prefers discord to unison. Scientists have shown
+> this in labs, by mixing foul odors with pleasant ones, but nature, in
+> the wisdom of evolutionary time, realized it long before. The pleasant
+> scent given off by many flowers, like orange blossoms and jasmine,
+> contains a significant fraction (about 3 percent) of a protein called
+> indole. It’s common in the large intestine, and on its own, it smells
+> accordingly. But the flowers don’t smell as good without it. A little
+> bit of shit brings the bees. Indole is also an ingredient in synthetic
+> human perfumes.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> It takes a certain special motivation to, say, make a fan site, and
+> that motivation is often intensified by feeling like you’re part of a
+> special, embattled elect. Devotion is like vapor in a piston—pressure
+> helps it catch.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> I know there are a lot of people making big claims about data, and I’m
+> not here to say it will change the course of history—certainly not
+> like internal combustion did, or steel—but it will, I believe, change
+> what history is. With data, history can become deeper. It can become
+> more. Unlike clay tablets, unlike papyrus, unlike paper, newsprint,
+> celluloid, or photo stock, disk space is cheap and nearly
+> inexhaustible. On a hard drive, there’s room for more than just the
+> heroes. Not being a hero myself, in fact, being someone who would most
+> of all just like to spend time with his friends and family and live
+> life in small ways, this means something to me.
+
+ --- Christian Rudder
+
+### Dataclysm
+
+> DYLAN: I know a thousand cats who look just like you and talk just
+> like you. GUY AT PARTY: Oh, fuck off. You’re a big noise. You know?
+> DYLAN: I know it, man. I know I’m a big noise. GUY AT PARTY: I know
+> you know. DYLAN: I’m a bigger noise than you, man. GUY AT PARTY: I’m a
+> small noise. DYLAN: Right.
+
+ --- Christian Rudder
+
+### Thinking, Fast and Slow
+
+> My advice to students when I taught negotiations was that if you think
+> the other side has made an outrageous proposal, you should not come
+> back with an equally outrageous counteroffer, creating a gap that will
+> be difficult to bridge in further negotiations. Instead you should
+> make a scene, storm out or threaten to do so, and make it clear—to
+> yourself as well as to the other side—that you will not continue the
+> negotiation with that number on the table.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The exaggerated faith in small samples is only one example of a more
+> general illusion—we pay more attention to the content of messages than
+> to information about their reliability, and as a result end up with a
+> view of the world around us that is simpler and more coherent than the
+> data justify. Jumping to conclusions is a safer sport in the world of
+> our imagination than it is in reality. Statistics produce many
+> observations that appear to beg for causal explanations but do not
+> lend themselves to such explanations. Many facts of the world are due
+> to chance, including accidents of sampling. Causal explanations of
+> chance events are inevitably wrong.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> We do not expect to see regularity produced by a random process, and
+> when we detect what appears to be a rule, we quickly reject the idea
+> that the process is truly random. Random processes produce many
+> sequences that convince people that the process is not random after
+> all. You can see why assuming causality could have had evolutionary
+> advantages. It is part of the general vigilance that we have inherited
+> from ancestors. We are automatically on the lookout for the
+> possibility that the environment has changed. Lions may appear on the
+> plain at random times, but it would be safer to notice and respond to
+> an apparent increase in the rate of appearance of prides of lions,
+> even if it is actually due to the fluctuations of a random process.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> We started from a fact that calls for a cause: the incidence of kidney
+> cancer varies widely across counties and the differences are
+> systematic. The explanation I offered is statistical: extreme outcomes
+> (both high and low) are more likely to be found in small than in large
+> samples. This explanation is not causal. The small population of a
+> county neither causes nor prevents cancer; it merely allows the
+> incidence of cancer to be much higher (or much lower) than it is in
+> the larger population. The deeper truth is that there is nothing to
+> explain.
+
+ --- Kahneman, Daniel
+
+### Dataclysm
+
+> Twitter, Reddit, Tumblr, Instagram, all these companies are businesses
+> first, but, as a close second, they’re demographers of unprecedented
+> reach, thoroughness, and importance. Practically as an accident,
+> digital data can now show us how we fight, how we love, how we age,
+> who we are, and how we’re changing. All we have to do is look: from
+> just a very slight remove, the data reveals how people behave when
+> they think no one is watching.
+
+ --- Christian Rudder
+
 ### Thinking, Fast and Slow
 
 > The moral is significant: when System 2 is otherwise engaged, we will
