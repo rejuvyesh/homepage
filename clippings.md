@@ -10,6 +10,366 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### The Nurture Assumption
+
+> Number turns out not to be trivial. Whether a classroom of kids will
+> split up into contrasting groups depends partly on how many kids there
+> are in the classroom: bigger classes split up more readily than
+> smaller ones.39 And whether the kids will form groups that differ in
+> village of origin, or in race, ethnicity, religion, socioeconomic
+> class, or academic ability, depends on how many there are in these
+> social categories. You need a minimum number to form a group and I’m
+> not sure what it is because there hasn’t been much research on this
+> question—not with children, anyway. In some cases two might be enough
+> to form a group, but usually it takes more than two, perhaps more than
+> three or four.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> the diverse bunch of kids in her classroom into a united group of
+> motivated learners—an us. An us is a social category, whether or not
+> it has a name. I think Miss A made her kids feel that they were in a
+> special social category: “a brave corps on a secret, impossible
+> mission.” This self-categorization stuck with them even after they
+> graduated from her classroom; it buffered them from anti-school
+> attitudes and made them feel superior to the other kids in their
+> grade. And the existence of this special social category must have
+> been recognized even by those who hadn’t been lucky enough to have
+> Miss A as a teacher. That is why some of the people Pedersen
+> interviewed claimed to have been in Miss A’s class: they were, or had
+> aspired to be, part of the group she created. Behind the barred
+> windows of that old school, among the tenement kids who attended it,
+> there was a group of motivated learners who thought of themselves as
+> “Miss A’s kids,” even though some of them had never set foot in her
+> classroom.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> But gendered socialization is not the only reason why people vary. The
+> pressures from within and without to conform to the norms of one’s
+> group, the contrast effects that make these norms different, can only
+> do so much. Psychological differences between the sexes are
+> statistical differences: the distance between the twin peaks of the
+> two bell curves. During childhood the curves pull a bit farther apart
+> but they never part company: there is always an overlap. Some men are
+> short; some women are tall. Some boys are gentle; some girls are
+> tough. Even when they’re in the company of their peers.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> A bit of advice to parents who want to rear androgynous children: join
+> a nomadic hunter-gatherer group. Or move to a part of the world where
+> there are just enough kids to form one play group and not quite enough
+> to form two.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> Stereotypes are not always accurate; they are less likely to be
+> accurate when they involve groups we don’t know as well as we know men
+> and women. But the real danger in stereotypes is not so much their
+> inaccuracy as their inflexibility. We may be right when we see men as
+> more apt to take on leadership roles and less adept at reading other
+> people’s feelings, but we are wrong if we think all men are like that.
+> We are fairly good estimators of differences between means—the
+> difference between the average member of group X and the average
+> member of group Y—but we are poor estimators of the variability within
+> groups. Categorization tends to make us see the members of social
+> categories as more alike than they really are, and this is
+> particularly true for the category we’re not in.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The idea that babies are born with the potential to become either male
+> or female, and that the behaviors associated with the two sexes are
+> entirely cultural, was popularized by the anthropologist Margaret
+> Mead. It is another example of her tendency to see things through the
+> lens of her prior beliefs. She described a New Guinea tribe—the
+> Tchambuli—in which the men supposedly behaved like women and the women
+> like men. Submissive, anxious men; strong, bossy women. According to
+> anthropologist Donald Brown, Mead got it wrong. In fact, among the
+> Tchambuli, “polygyny was normal, wives were bought by men, men were
+> stronger than women and could beat them, and men were considered by
+> right to be in charge.”
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> But a case study from Czechoslovakia provides a clue. A pair of twin
+> boys lost their mother at birth and were placed in an orphanage. When
+> they were about a year old their father remarried and brought the boys
+> home—to a stepmother worse than Cinderella’s. For the next six years
+> the boys were kept in a small unheated closet, undernourished and
+> periodically beaten. When they were discovered at the age of seven
+> they could barely walk and had less language than an average
+> two-year-old. But they turned out all right. They were adopted into a
+> normal family and by the age of fourteen they were attending public
+> school and had caught up with their classmates. They had “no
+> pathological symptoms or eccentricities,” according to the researcher
+> who studied them.28 In their first seven years they hadn’t had a
+> mother’s love—nor, it would appear, a father’s—but they had had each
+> other.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> Children who spend their early years in an orphanage do not lack
+> social skills; if anything, they are overly friendly. What they lack
+> is the ability to form close relationships. They seem to be unable to
+> care deeply about anyone.21 The department in their brain where
+> working models are constructed either has never learned to construct
+> them or has given up the job as futile. “Use it or lose it” is a
+> saying most appropriately applied to the developing brain, not the
+> aging one.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> It is a sad and paradoxical fact that abuse may actually increase a
+> child’s clinginess, because attachment is most evident when a child is
+> frightened or in pain.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> Children don’t perceive adults as people like themselves, not if there
+> are any other children around to make the distinction clear. To a
+> child, an adult might as well be a member of another species. Grownups
+> know everything and can do whatever they want. Their bodies are
+> enormously big and strong and hairy, and they bulge out in odd places.
+> Though grownups can run, they are usually seen sitting or standing.
+> Though they can cry, they hardly ever do. Different creatures
+> entirely.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The human brain is an apparatus, first and foremost, for dealing with
+> the social environment. Dealing with the physical environment is a
+> secondary benefit. Evolutionary psychologist Linnda Caporael points
+> out that we have a default mode for dealing with ambiguous or
+> troublesome things: we try to interact with them socially. We
+> personalize them. We don’t treat humans like machines—we treat
+> machines like humans.52 We say “Start, damn you!” to our cars. We
+> expect our computers to be friendly. And when faced with phenomena we
+> don’t understand or can’t control, we attribute them to entities
+> called God and Nature, to which we impute human social motives such as
+> vengefulness, jealousy, and compassion.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> During Goodall’s first few years in Tanzania, she used to put out
+> boxes of bananas to attract chimpanzees. Usually the high-ranking
+> males would eat most of them. To enable the females and younger males
+> to get their share, she would hide some bananas in the trees. One day
+> a young chimpanzee named Figan spotted a banana hanging in a tree
+> directly above a high-ranking male. If Figan had reached for it, the
+> big male would have taken it away from him. Instead, Figan moved to a
+> spot where he couldn’t see the banana and waited. As soon as the big
+> male moved away, Figan retrieved the banana. By sitting in a spot
+> where he couldn’t see the object of his desire, he made sure he
+> wouldn’t give away the secret with his eyes.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> As Eibl-Eibesfeldt points out, human babies in all societies start
+> becoming afraid of strangers when they’re about six months old. By
+> then, in a typical hunter-gatherer or small village society, they have
+> usually had a chance to meet all the members of their community, so a
+> stranger is valid cause for concern. What is he here for? Does he want
+> to steal me? Make me a slave? Maybe even eat me? The baby watches its
+> mother for clues; if she seems to think the stranger is okay, the baby
+> is reassured. Eibl-Eibesfeldt calls the baby’s reaction to strangers
+> “childhood xenophobia” and considers it the first sign of a built-in
+> predisposition to see the world in terms of us versus them.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> According to Frans de Waal, a Dutch primatologist who spent several
+> years observing the chimpanzees and their human visitors at a
+> Netherlands zoo, “Contrary to general belief, humans imitate apes more
+> than the reverse.”
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> Girls tend to play closer to home than boys and are more likely to
+> have younger children to care for, because mothers in most
+> societies—probably all societies—prefer girls as babysitters.38 But
+> boys are pressed into service if no girls are available, and they take
+> the job very seriously. In one of Jane Goodall’s books about
+> chimpanzees there is a photo of an African man with a badly mutilated
+> face, the result of an injury he suffered when he was a child. He had
+> been taking care of his baby brother when a big male chimpanzee came
+> out of the forest and seized the baby.\* The boy was only six, but he
+> chased after the formidable animal. The chimpanzee dropped the baby
+> and attacked the boy. The baby survived.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> Socialization research has demonstrated one thing clearly and
+> irrefutably: a parent’s behavior toward a child affects how the child
+> behaves in the presence of the parent or in contexts that are
+> associated with the parent. I have no problem with that—I agree with
+> it. The parent’s behavior also affects the way the child feels about
+> the parent. When a parent favors one child over another, not only does
+> it cause hard feelings between the children—it also causes the
+> unfavored child to harbor hard feelings against the parent. These
+> feelings can last a lifetime.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The humor writer Dave Barry has captured the feeling: After canteen
+> we’d stand outside the school, surrounded by our peers, waiting for
+> our parents to pick us up; when my dad pulled up, wearing his poodle
+> hat and driving his Nash Metropolitan—a comically tiny vehicle
+> resembling those cars outside supermarkets that go up and down when
+> you put in a quarter, except the Metropolitan looked sillier and had a
+> smaller motor—I was mortified. I might as well have been getting
+> picked up by a flying saucer piloted by some bizarre, multitentacled,
+> stalk-eyed, slobber-mouthed alien being that had somehow got hold of a
+> Russian hat. I was horrified at what my peers might think of my dad;
+> it never occurred to me that my peers didn’t even notice my dad,
+> because they were too busy being mortified by THEIR parents.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> At home there are birth order effects, no question about it, and I
+> believe that is why it’s so hard to shake people’s faith in them. If
+> you see people with their parents or their siblings, you do see the
+> differences you expect to see. The oldest does seem more serious,
+> responsible, and bossy. The youngest does behave in a more carefree
+> fashion. But that’s how they act when they’re together. These patterns
+> of behavior are not like albatrosses that we have to drag along with
+> us wherever we go, all through our lives. We don’t even drag them to
+> nursery school.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> birth order effects do not turn up in the majority of studies of adult
+> personality. They do, however, turn up in the majority of studies of
+> one particular kind: the kind in which subjects’ personalities are
+> judged by their parents or siblings. When parents are asked to
+> describe their children, they are likely to say that their firstborn
+> is more serious, methodical, responsible, and anxious than their
+> laterborns. When a younger brother or sister is asked to describe the
+> firstborn, a word that often turns up is “bossy.”20 What we’re getting
+> is a picture of the way the subject behaves at home.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> Of course, if we look at one particular person, it’s easy to come up
+> with a story about how the home environment (the critical, demanding
+> mother, the ineffectual father) shaped the child’s personality and
+> produced the messed-up grownup we see today. That kind of post hoc
+> speculation—unprovable, undisprovable—is the stock-in-trade of
+> biographers.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> I will let those plainspoken Swiss researchers, Ernst and Angst, have
+> the last word. In italics (theirs). Birth order research seems very
+> simple, since position in a sibship and sibship size are easily
+> defined. The computer is fed some ordinal numbers, and then it is easy
+> to find a plausible post hoc explanation for any significant
+> difference in the related variables. If, for example, lastborn
+> children report more anxiety than other birth ranks, it is because for
+> many years they were the weakest in the family. If firstborns are
+> found to be the most timid, it is because of incoherent treatment by
+> an inexperienced mother. If, on the other hand, middle children show
+> the greatest anxiety, it is because they have been neglected by their
+> parents, being neither the first- nor the lastborn. With some
+> imagination it is even possible to find explanations for greatest
+> anxiety in a second girl of four, and so on, ad infinitum. This kind
+> of research is a sheer waste of time and money.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> When differences in parents’ behavior to their different children are
+> discussed, often the first issue that comes to mind is the birth order
+> of the children. It is frequently assumed that parents systematically
+> treat their firstborn child differently from laterborn children.... In
+> an important sense such differences are not relevant. This is because
+> individual differences in personality and psychopathology in the
+> general population—the differences in outcome that we are trying to
+> explain—are not clearly linked to the birth order of the individuals.
+> Although this evidence goes against many widely held and cherished
+> beliefs, the judgment of those who have looked carefully at a large
+> number of studies is that birth order plays only a bit-part in the
+> drama of sibling differences.... If there are no systematic
+> differences in personality according to birth order, then any
+> differences in parental behavior that are associated with birth order
+> cannot be very significant for later developmental outcome.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The relationship between a parent and a child, like any relationship
+> between two individuals, is a two-way street—an ongoing transaction in
+> which each party plays a role. When two people interact, what each one
+> says or does is, in part, a reaction to what the other has just said
+> or done, and to what was said or done in the past.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> For Gesell as for Goodenough, parents were a taken-for-granted part of
+> the child’s environment, anonymous and interchangeable. Children of a
+> given age were pretty much interchangeable as well. Gesell spoke of
+> “your four-year-old” or “your seven-year-old” and gave instructions on
+> how to take care of them,12 much as a book about cars might have told
+> you how to take care of “your Ford” or “your Studebaker.” The home was
+> like a garage where the children came home at night and where the
+> anonymous attendants washed them, waxed them, and filled their tanks.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Physical money – be it a banknote, a gold coin or the huge, virtually
+> immovable stones that were used as money in some Pacific islands – is
+> only a symbol. Money is a symbol of what others in your society owe
+> you, or your claim on particular amounts of the society’s resources.
+
+ --- Ha-Joon Chang
+
 ### Dataclysm
 
 > this as follows: 129,864,880 books have been written, at least
