@@ -15,31 +15,36 @@ description: Research Experience
 **Mentor:** [Prof. Ashutosh Saxena](http://www.cs.cornell.edu/~asaxena/)
 <div style="float:right">Cornell University (Summer 2014)</div>
 
+- PlanIt make it easier for robots to factor in user preferences in path planning by allowing them to obtain these preferences on a large scale.
+- Extended the existing cost function based 2-D navigation algorithm to work with high dimensional arm manipulation scenarios. Also worked on visualizing these learned costs as 3-D heatmaps.
+- Integrated all these features into the online [PlanIt](http://planit.cs.cornell.edu/) system.
+- Co-authored the paper which is under review in ICRA-2015.
+
 ### MTBA: Matlab Toolbox for Biclustering Analysis
 **Mentor:** [Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">IIT Kanpur (Summer 2013)</div>
 
-We developed a new Matlab^TM^ toolbox designed to perform a variety of biclustering algorithms under a common user interface, providing multiple functionalities for data handling, preprocessing, biclustering and visualization. More information is available on the [toolbox website](http://iitk.ac.in/iil/mtba/). 
+- Objective was to allow a user to _compare biclustering results_ from different biclustering algorithms and choose the approach that best fits their particular scenario.
+- Developed a new Matlab toolbox, MTBA, implementing a variety of _biclustering algorithms_ under a _common user interface_ while providing additional facilities for data preprocessing, visualization, and validation. 
+- More information is available on the [toolbox website](http://iitk.ac.in/iil/mtba/). 
+- Presented the work at _IEEE Workshop on Computational Intelligence, 2013_ (see [publications](/publications).
 
 ### Feature Level Analysis
 **Mentor:** [Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">IIT Kanpur (Winter 2012)</div>
 
-We took a case-study of acoustic and vibrational features from the different working states of an air compressor and graphically analyze them to derive the best feature set. We then validate our results by comparing the classification accuracy of the SVM model built by these feature sets with the standard PCA based SVM model, getting similar accuracies for both methods. This helped us to reduce the complexity of our earlier smartphone application while giving comparable results (see [publications](/publications)).
+- Undertook a case study of _acoustic and vibrational features_ from different working states of an air compressor.
+- Graphically analyzed these features to derive the best feature set.
+- Built an _SVM model_ based upon these features and got comparable results to the standard PCA based SVM model, thus drastically reducing application complexity and training time.
+- This allowed us to reduce implementation costs of condition based monitoring system via use of consumer-grade electronics.
+- Presented the work at _IEEE Workshop on Computational Intelligence, 2013_ (see [publications](/publications).
 
 ### Smart Phone Application for Fault Recognition
 
 **Mentor:** [Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
 <div style="float:right">IIT Kanpur (Summer 2012)</div>
 
-We developed a Smart Phone application, to learn different fault states
-of an industrial air compressor. The application was tested to recognize
-the fault state in real time as the air compressor was running. It has
-performed very well with classification accuracies above 93.73%. It is
-believed that similar application and model with some minor changes in
-specifications can be used for acoustic pattern recognition in wide
-range of fields; even in industry.
-
-The paper *Smart Phone Application for Fault Recognition* has been
-accepted for ICST 2012 (see [publications](/publications)).
+- Developed a smart phone application, to _learn different fault states_ of an industrial air compressor using _acoustic pattern recognition_.
+- Tested the application to recognize the fault state in real time as the air compressor was running. It has performed very well with classification accuracies above 90\%.
+- The paper *Smart Phone Application for Fault Recognition* was accepted for ICST 2012 (see [publications](/publications)).
 
