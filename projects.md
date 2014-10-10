@@ -7,11 +7,15 @@ description: Various course and independent projects
 
 - **Estimation of Direction of Arrival Using Information Theory**
 
-_Course Project for EE301(Digital Signal Processing), Prof. Rajesh Hegde, IIT Kanpur (January-April 2014)_
+_Course Project for EE301(Digital Signal Processing), Prof. Rajesh Hegde, IIT Kanpur_ (January-April 2014)
+
+Studied how direction of arrival of acoustic signal can be estimated using mutual information. Implemented the algorithm on MATLAB and compared with the most popular technique used for this purpose, GCC-PHAT.
 
 - **Autonomous Quadrotor**
 
 _Independent project for Electronics and Aeromodelling Club, IIT Kanpur_ (Summer 2012)
+
+Built a quadrotor using Arduino Mega 2560 for onboard processing and IMU Razor 9DOF for orientation determination. Xbee was used to communicate with the Arduino from an external computer. Studied application of OpenCV for environment detection.
 
 ## Other Projects
 <div class="projects">
