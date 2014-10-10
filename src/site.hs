@@ -144,7 +144,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" defContext
 
     -- Render the resume page
-    match "resume.html" $ do
+    match "cv.html" $ do
         route   $ niceRoute ""
         compile copyFileCompiler
 
