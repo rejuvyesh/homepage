@@ -27,7 +27,7 @@ description: Research Experience
 - Objective was to allow a user to _compare biclustering results_ from different biclustering algorithms and choose the approach that best fits their particular scenario.
 - Developed a new Matlab toolbox, MTBA, implementing a variety of _biclustering algorithms_ under a _common user interface_ while providing additional facilities for data preprocessing, visualization, and validation. 
 - More information is available on the [toolbox website](http://iitk.ac.in/iil/mtba/). 
-- Presented the work at _IEEE Workshop on Computational Intelligence, 2013_ (see [publications](/publications).
+- Presented the work at _IEEE Workshop on Computational Intelligence, 2013_ (see [publications](/publications)).
 
 ### Feature Level Analysis
 **Mentor:** [Prof. Nishchal K. Verma](http://home.iitk.ac.in/~nishchal/)
@@ -37,7 +37,7 @@ description: Research Experience
 - Graphically analyzed these features to derive the best feature set.
 - Built an _SVM model_ based upon these features and got comparable results to the standard PCA based SVM model, thus drastically reducing application complexity and training time.
 - This allowed us to reduce implementation costs of condition based monitoring system via use of consumer-grade electronics.
-- Presented the work at _IEEE Workshop on Computational Intelligence, 2013_ (see [publications](/publications).
+- Presented the work at _IEEE Workshop on Computational Intelligence, 2013_ (see [publications](/publications)).
 
 ### Smart Phone Application for Fault Recognition
 
