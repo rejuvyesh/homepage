@@ -21,26 +21,25 @@ Secondary School Examination (Class 10)          Central Board of Secondary Educ
 Major Courses
 -------------
 
-**Mathematics:**                         **Others**:
--------------                            ------------
--   Complex Analysis                      -  Fundamentals of Computing
--   Calculus                              -  Application of Psychology to Life
--   Linear Algebra                        -  Chemistry
--   Differential Equations                -  Engineering Graphics & Drawing
--   Probability and Statistics 
+**Mathematics:**               
 
-<p></p>
+-   Real and Complex Analysis            
+-   Calculus                    
+-   Linear Algebra              
+-   Differential Equations      
+-   Probability and Statistics   
 
-**Electrical Engineering:**                          **Physics:**
---------------------------------------               ------------
--   Introduction to Electronics                       -  Mechanics
--   Signals, Systems and Networks                     -  Electrodynamics
--   Introduction to Electrical Engineering
--   Microelectronics I
--   Control Systems
+**Computer Science:**
 
+- Data Structures and Algorithm
+- Computer Organization
+- Operating Systems
+- Computer Networks
 
+**Electrical Engineering:**                          
 
-[^1]: Currently Ongoing
-
+- Digital Signal Processing
+- Principles of Communication
+- Communication Systems
+- Information and Coding theory
 
