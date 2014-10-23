@@ -10,6 +10,481 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Thinking, Fast and Slow
+
+> If a strong predictive cue exists, human observers will find it, given
+> a decent opportunity to do so. Statistical algorithms greatly outdo
+> humans in noisy environments for two reasons: they are more likely
+> than human judges to detect weakly valid cues and much more likely to
+> maintain a modest level of accuracy by using such cues consistently.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Klein elaborated this description into a theory of decision making
+> that he called the recognition-primed decision (RPD) model, which
+> applies to firefighters but also describes expertise in other domains,
+> including chess. The process involves both System 1 and System 2. In
+> the first phase, a tentative plan comes to mind by an automatic
+> function of associative memory—System 1. The next phase is a
+> deliberate process in which the plan is mentally simulated to check if
+> it will work—an operation of System 2. The model of intuitive decision
+> making as pattern recognition develops ideas presented some time ago
+> by Herbert Simon, perhaps the only scholar who is recognized and
+> admired as a hero and founding figure by all the competing clans and
+> tribes in the study of decision making. I quoted Herbert Simon’s
+> definition of intuition in the introduction, but it will make more
+> sense when I repeat it now: “The situation has provided a cue; this
+> cue has given the expert access to information stored in memory, and
+> the information provides the answer. Intuition is nothing more and
+> nothing less than recognition.” This strong statement reduces the
+> apparent magic of intuition to the everyday experience of memory. We
+> marvel at the story of the firefighter who has a sudden urge to escape
+> a burning house just before it collapses, because the firefighter
+> knows the danger intuitively, “without knowing how he knows.” However,
+> we also do not know how we immediately know that a person we see as we
+> enter a room is our friend Peter. The moral of Simon’s remark is that
+> the mystery of knowing without knowing is not a distinctive feature of
+> intuition; it is the norm of mental life.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The core of the illusion is that we believe we understand the past,
+> which implies that the future also should be knowable, but in fact we
+> understand the past less than we believe we do. Know is not the only
+> word that fosters this illusion. In common usage, the words intuition
+> and premonition also are reserved for past thoughts that turned out to
+> be true. The statement “I had a premonition that the marriage would
+> not last, but I was wrong” sounds odd, as does any sentence about an
+> intuition that turned out to be false. To think clearly about the
+> future, we need to clean up the language that we use in labeling the
+> beliefs we had in the past.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Here are the directions for how to get there in four simple steps:
+> Start with an estimate of average GPA. Determine the GPA that matches
+> your impression of the evidence. Estimate the correlation between your
+> evidence and GPA. If the correlation is .30, move 30% of the distance
+> from the average to the matching GPA. Step 1 gets you the baseline,
+> the GPA you would have predicted if you were told nothing about Julie
+> beyond the fact that she is a graduating senior. In the absence of
+> information, you would have predicted the average. (This is similar to
+> assigning the base-rate probability of business administration
+> graduates when you are told nothing about Tom W.) Step 2 is your
+> intuitive prediction, which matches your evaluation of the evidence.
+> Step 3 moves you from the baseline toward your intuition, but the
+> distance you are allowed to move depends on your estimate of the
+> correlation. You end up, at step 4, with a prediction that is
+> influenced by your intuition but is far more moderate.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Indeed, the statistician David Freedman used to say that if the topic
+> of regression comes up in a criminal or civil trial, the side that
+> must explain regression to the jury will lose the case. Why is it so
+> hard? The main reason for the difficulty is a recurrent theme of this
+> book: our mind is strongly biased toward causal explanations and does
+> not deal well with “mere statistics.” When our attention is called to
+> an event, associative memory will look for its cause—more precisely,
+> activation will automatically spread to any cause that is already
+> stored in memory. Causal explanations will be evoked when regression
+> is detected, but they will be wrong because the truth is that
+> regression to the mean has an explanation but does not have a cause.
+> The event that attracts our attention in the golfing tournament is the
+> frequent deterioration of the performance of the golfers who were
+> successful on day 1. The best explanation of it is that those golfers
+> were unusually lucky that day, but this explanation lacks the causal
+> force that our minds prefer. Indeed, we pay people quite well to
+> provide interesting explanations of regression effects. A business
+> commentator who correctly announces that “the business did better this
+> year because it had done poorly last year” is likely to have a short
+> tenure on the air.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The test of learning psychology is whether your understanding of
+> situations you encounter has changed, not whether you have learned a
+> new fact. There is a deep gap between our thinking about statistics
+> and our thinking about individual cases. Statistical results with a
+> causal interpretation have a stronger effect on our thinking than
+> noncausal information. But even compelling causal statistics will not
+> change long-held beliefs or beliefs rooted in personal experience. On
+> the other hand, surprising individual cases have a powerful impact and
+> are a more effective tool for teaching psychology because the
+> incongruity must be resolved and embedded in a causal story. That is
+> why this book contains questions that are addressed personally to the
+> reader. You are more likely to learn something by finding surprises in
+> your own behavior than by hearing surprising facts about people in
+> general.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Subjects’ unwillingness to deduce the particular from the general was
+> matched only by their willingness to infer the general from the
+> particular.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The social norm against stereotyping, including the opposition to
+> profiling, has been highly beneficial in creating a more civilized and
+> more equal society. It is useful to remember, however, that neglecting
+> valid stereotypes inevitably results in suboptimal judgments.
+> Resistance to stereotyping is a laudable moral position, but the
+> simplistic idea that the resistance is costless is wrong. The costs
+> are worth paying to achieve a better society, but denying that the
+> costs exist, while satisfying to the soul and politically correct, is
+> not scientifically defensible. Reliance on the affect heuristic is
+> common in politically charged arguments. The positions we favor have
+> no cost and those we oppose have no benefits. We should be able to do
+> better.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The essential keys to disciplined Bayesian reasoning can be simply
+> summarized: Anchor your judgment of the probability of an outcome on a
+> plausible base rate. Question the diagnosticity of your evidence.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> There are two ideas to keep in mind about Bayesian reasoning and how
+> we tend to mess it up. The first is that base rates matter, even in
+> the presence of evidence about the case at hand. This is often not
+> intuitively obvious. The second is that intuitive impressions of the
+> diagnosticity of evidence are often exaggerated.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> “Risk” does not exist “out there,” independent of our minds and
+> culture, waiting to be measured. Human beings have invented the
+> concept of “risk” to help them understand and cope with the dangers
+> and uncertainties of life. Although these dangers are real, there is
+> no such thing as “real risk” or “objective risk.”
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> professor at UCLA found an ingenious way to exploit the availability
+> bias. He asked different groups of students to list ways to improve
+> the course, and he varied the required number of improvements. As
+> expected, the students who listed more ways to improve the class rated
+> it higher!
+
+ --- Kahneman, Daniel
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Krugman wrote in 2009: ‘Thirty-plus years ago, when I was a graduate
+> student in economics, only the least ambitious of my classmates sought
+> careers in the financial world. Even then, investment banks paid more
+> than teaching or public service – but not that much more, and anyway,
+> everyone knew that banking was, well, boring’ (‘Making banking
+> boring’, The New York Times, 9 April 2009).
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Expert knowledge is absolutely necessary, but an expert by definition
+> knows well only a narrow field and we cannot expect him or her to make
+> a sound judgement on issues that involve more than one area of life
+> (that is, most issues), balancing off different human needs, material
+> constraints and ethical values. The possession of expert knowledge can
+> sometimes give you a blinkered view. This dose of scepticism about
+> expert knowledge should be applied to all areas of life, not just
+> economics. But it is especially important in economics – a political
+> argument often presented as a science.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> The focus on the market has made most economists neglect vast areas of
+> our economic life, with significant negative consequences for our
+> well-being. The neglect of production at the expense of exchange has
+> made policy-makers in some countries overly complacent about the
+> decline of their manufacturing industries. The view of individuals as
+> consumers, rather than producers, has led to the neglect of issues
+> such as the quality of work (e.g., how interesting it is, how safe it
+> is, how stressful it is and even how oppressive it is) and work–life
+> balance. The disregard of these aspects of economic life partly
+> explains why most people in the rich countries don’t feel more
+> fulfilled despite consuming the greatest ever quantities of material
+> goods and services.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Many people would assume that numbers are straightforward and
+> objective, but each of them is constructed on the basis of a theory. I
+> might not go as far as Benjamin Disraeli, the former British prime
+> minister, who quipped that ‘there are lies, damned lies, and
+> statistics’, but numbers in economics are invariably the results of
+> attempts to measure concepts whose definitions are often extremely
+> contentious or at least debatable.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Saying that economics is a political argument does not mean that
+> ‘anything goes’. Some theories are better than others, depending on
+> the situation at hand. But it does mean that you should never believe
+> any economist who claims to offer ‘scientific’, value-free analysis.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Political and ethical judgements are present even in ostensibly
+> value-free exercises, such as defining the boundaries of the market.
+> Deciding what belongs in the domain of the market is an intensely
+> political exercise. Once you can drag something (say, water) into the
+> domain of the market, you can apply the ‘one-dollar-one-vote’ rule to
+> decisions surrounding it, making it easier for the rich to influence
+> the outcome. Conversely, if you can take something (say, child labour)
+> out of the domain of the market, it becomes impossible to influence
+> its use with the power of money.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Economics is a political argument. It is not – and can never be – a
+> science; there are no objective truths in economics that can be
+> established independently of political, and frequently moral,
+> judgements. Therefore, when faced with an economic argument, you must
+> ask the age-old question ‘Cui bono?’ (Who benefits?), first made
+> famous by the Roman statesman and orator Marcus Tullius Cicero.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> The first candidate is asked by the interview board, ‘What is two plus
+> two, comrade?’ He answers: ‘Five.’ The chairman of the interview board
+> smiles indulgently and says: ‘Comrade, we very much appreciate your
+> revolutionary enthusiasm, but this job needs someone who can count.’
+> The candidate is politely shown the door. The second candidate’s
+> answer is ‘Three.’ The youngest member of the interview board springs
+> up and shouts: ‘Arrest that man! We cannot tolerate this kind of
+> counter-revolutionary propaganda, under-reporting our achievements!’
+> The second candidate is summarily dragged out of the room by the
+> guards. When asked the same question, the third candidate answers: ‘Of
+> course it is four.’ The professorial-looking member of the board gives
+> him a stern lecture on the limitations of bourgeois science, fixated
+> on formal logic. The candidate hangs his head in shame and walks out
+> of the room. The fourth candidate is hired. What was his answer? ‘How
+> many do you want it to be?’
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Only when we know that there are different economic theories will we
+> be able to tell those in power that they are wrong to tell us that
+> ‘there is no alternative’ (TINA), as Margaret Thatcher once infamously
+> put it in defence of her controversial policies. When we learn how
+> much intellectual common ground there is between supposed ‘enemy
+> factions’ in economics, we can more effectively resist those who try
+> to polarize the debate by portraying everything in black and white.
+> Once we learn that different economic theories say different things
+> partly because they are based on different ethical and political
+> values, we will have the confidence to discuss economics for what it
+> really is – a political argument – and not a ‘science’ in which there
+> is clear right and wrong. And only when the general public displays
+> awareness of these issues will professional economists find it
+> impossible to browbeat them by declaring themselves to be custodians
+> of scientific truths. Knowing different types of economics and knowing
+> their respective strengths and weaknesses, thus seen, is not an
+> esoteric exercise reserved only for professional economists. It is a
+> vital part of learning about economics and also a contribution to our
+> collective effort to make the subject better serve humanity.
+
+ --- Ha-Joon Chang
+
+### Economics: The User's Guide: A Pelican Introduction (Pelican Books)
+
+> Vilfredo Pareto (1848–1923) argued that, if we respect the rights of
+> every sovereign individual, we should consider a social change an
+> improvement only when it makes some people better off without making
+> anyone worse off. There should be no more individual sacrifices in the
+> name of the ‘greater good’. This is known as the Pareto criterion and
+> forms the basis for all judgements on social improvements in
+> Neoclassical economics today.6 In real life, unfortunately, there are
+> few changes that hurt no one; thus the Pareto criterion effectively
+> becomes a recipe to stick to the status quo and let things be –
+> laissez faire. Its adoption thus imparted a huge conservative bias to
+> the Neoclassical school.
+
+ --- Ha-Joon Chang
+
+### The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History,Got Sick, and Will (Eventually) Feel Better
+
+> I was struck when Norman Borlaug died in 2009. Borlaug, as you may
+> know, was a leader of the “Green Revolution” and the inventor of more
+> robust seeds and crop varieties, which were then used in India,
+> Africa, and many other poorer parts of the world. It is no
+> exaggeration to say that Borlaug’s work saved the lives of millions of
+> human beings by preventing starvation. Yet when Borlaug died, most
+> Americans still did not know who he was. The press covered his
+> passing, but in a low-key manner, even though one of the most
+> important people of his era had died.
+
+ --- Tyler Cowen
+
+### The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History,Got Sick, and Will (Eventually) Feel Better
+
+> How did we make so many bad mistakes at the same time, all pointing in
+> more or less the same direction? Here is the eight-word answer: We
+> thought we were richer than we were.
+
+ --- Tyler Cowen
+
+### The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History,Got Sick, and Will (Eventually) Feel Better
+
+> Have you ever wondered why so many developing economies—the successful
+> ones, I mean—rise to prosperity through exports and tradable goods?
+> There are a few reasons for this, but one is that the external world
+> market provides a real measure of value. If you are exporting
+> successfully, it’s not based on privilege, connections, corruption, or
+> fakery. Someone who has no stake in your country and no concern for
+> your welfare is spending his or her own money to buy your product.
+
+ --- Tyler Cowen
+
+### The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History,Got Sick, and Will (Eventually) Feel Better
+
+> one sentence were to sum up the mechanism driving the Great
+> Stagnation, it is this: Recent and current innovation is more geared
+> to private goods than to public goods. That simple observation ties
+> together the three major macroeconomic events of our time: growing
+> income inequality, stagnant median income, and, as we will see in
+> chapter five, the financial crisis.
+
+ --- Tyler Cowen
+
+### The Nurture Assumption
+
+> The bond between parent and child lasts a lifetime. We kiss our
+> parents goodbye not once but many times; we do not lose track of them.
+> Each visit home gives us opportunities to take out family memories and
+> look at them again. Meanwhile, our childhood friends have scattered to
+> the winds and we’ve forgotten what happened on the playground. When
+> you think about childhood you think about your parents. Blame it on
+> the relationship department of your mind, which has usurped more than
+> its rightful share of your thoughts and memories. As for what’s wrong
+> with you: don’t blame it on your parents.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> “Why don’t you just wait, Nephew. See how it goes. She starts school
+> in September. . . . I agree with you that she’s different, you might
+> say she is a bit strange sometimes, but you know, we’re all different
+> though we may pretend otherwise. We’re all strange inside. We learn
+> how to disguise our differentness as we grow up. Bunny doesn’t do that
+> yet.”7 We learn how to disguise our differentness; socialization makes
+> us less strange. But the disguise tends to wear thin later in life. I
+> see socialization as a sort of hourglass: you start out with a bunch
+> of disparate individuals and as they are squeezed together the
+> pressure of the group makes them more alike. Then in adulthood the
+> pressure gradually lets up and individual differences reassert
+> themselves. People get more peculiar as they grow older because they
+> stop bothering to disguise their differentness. The penalties for
+> being different are not so severe.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The idea that we can make our children turn out any way we want is an
+> illusion. Give it up. Children are not empty canvases on which parents
+> can paint their dreams. Don’t worry about what the advice-givers tell
+> you. Love your kids because kids are lovable, not because you think
+> they need it. Enjoy them. Teach them what you can. Relax. How they
+> turn out is not a reflection on the care you have given them. You can
+> neither perfect them nor ruin them. They are not yours to perfect or
+> ruin: they belong to tomorrow.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The baby-care problem that brings the most complaints from American
+> parents is sleep disturbances: the baby won’t sleep. The baby keeps
+> them up at night. Most pediatricians advise the parent to get the baby
+> accustomed to sleeping alone. But a baby in a wandering
+> hunter-gatherer band was never left alone under normal circumstances.
+> If he found himself alone, and if his first whimpers did not
+> immediately fetch his mother, he was in serious trouble. Chances are
+> that either his mother was dead or she had decided she couldn’t take
+> care of him. The group was moving on and they weren’t taking him! He
+> was a goner if he couldn’t quickly persuade them to change their
+> minds. Screaming was the only persuader he had. He screamed because he
+> was terrified and angry, and with good reason. Babies are amazingly
+> adaptable. Most American babies adapt quite well to sleeping alone.
+> But some do not. Many parents—my younger daughter among them—are
+> relieved when you tell them it’s okay to let their baby sleep with
+> them, that it’s what nature intended. They hate letting the baby cry.
+> It is going against nature to let a baby cry, and yet many parents do
+> it—though they suffer almost as much as the baby—because it’s what
+> some advice-givers recommend.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> I am going to try to get you off the hook by presenting evidence that
+> maybe it’s not your fault after all. But this is a two-way deal: I ask
+> something from you in return. I ask you to promise not to go around
+> telling people that I said it doesn’t matter how you treat your kids.
+> I do not say that; nor do I imply it; nor do I believe it. It is not
+> all right to be cruel or neglectful to your children. It is not all
+> right for a variety of reasons, but most of all because children are
+> thinking, feeling, sensitive human beings who are completely dependent
+> on the older people in their lives. We may not hold their tomorrows in
+> our hands but we surely hold their todays, and we have the power to
+> make their todays very miserable.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
+### The Nurture Assumption
+
+> The result of this reasoning was that pregnant women in many
+> traditional cultures were hedged in with rules: what they were allowed
+> to do and see, what they were allowed to eat. Sometimes the
+> prohibitions extended to the father as well. If the child turned out
+> badly, the neighbors could blame it on the parents: they must have
+> done something wrong while the mother was pregnant. They must not have
+> followed the rules. You see, things haven’t changed so much after all!
+> The main difference is that in the old days the parents’ period of
+> culpability lasted only nine months.
+
+ --- Pinker, Steven;Harris, Judith Rich
+
 ### The Nurture Assumption
 
 > Number turns out not to be trivial. Whether a classroom of kids will
