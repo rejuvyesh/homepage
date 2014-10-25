@@ -171,7 +171,7 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[Hot Death, Cold Soup: An Anthology of Pakistani Women Writers](http://www.amazon.com/s?ie=UTF8&field-isbn=1859641113&page=1&rh=i:stripbooks)*                                                                    Manjula Padmanabhan        ★★★★     2009   2014/09/02   
 
-  *[The Metropolitan Man]()*                                                                                                                                                                                         Alexander Wales            ★★★★     0      2014/08/09   
+  *[The Metropolitan Man]()*                                                                                                                                                                                         Alexander Wales            ★★★★     2014   2014/08/09   
 
   *[Snow, Glass, Apples](http://thedreaming.joefulgham.com/1999/10/10/snow-glass-apples/)*                                                                                                                           Neil Gaiman                ★★★★     1995   2014/06/12   
 
@@ -332,6 +332,8 @@ This is a sortable table of books I have read. I used Gwern's [goodReadsToMarkdo
 
   *[Twelve Angry Men](http://www.amazon.com/s?ie=UTF8&field-isbn=0143104403&page=1&rh=i:stripbooks)*                                                                                                                 Reginald Rose              ★★★      2006   2014/02/23   Fonda's movie was better than the play.
                                                                                                                                                                                                                                                                              
+
+  *[The Curious Incident of the Dog in the Night-Time](http://www.amazon.com/s?ie=UTF8&field-isbn=1400032717&page=1&rh=i:stripbooks)*                                                                                Mark Haddon                ★★★      2004   2014/10/24   
 
   *[The Atrocity Archives (Laundry Files, \#1)](http://www.amazon.com/s?ie=UTF8&field-isbn=0441013651&page=1&rh=i:stripbooks)*                                                                                       Charles Stross             ★★★      2006   2014/09/05   
 
