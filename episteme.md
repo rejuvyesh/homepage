@@ -11,7 +11,7 @@ I have borrowed ^[or stolen if _you_ wish] this idea from [Gwern's belief tags](
 
 Since I plan to track my beliefs over a period of time, I think this is a pretty neat idea. This way I'll never need to throw away my content if I no longer believe it to be true and have changed my mind.^[After all [what are the odds a 6-year-old would know what a 30-year-old wants to do?"](http://www.qwantz.com/index.php?comic=2366)] Since, I do not wish to end up claiming that "I'm agnostic about everything" I haven't given any leeway to myself in having a tag for probability near 50%, although I agree that there are some situations where you don't have any data to do any better.
 
-I plan to use following tags:^[Mostly similar to _Gwern's_, using ["Kesselman List of Estimative Words"](http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf), page 71]
+I plan to use following tags:^[Mostly similar to _Gwern's_, using ["Kesselman List of Estimative Words"](https://web.archive.org/web/20140130132740/http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf), page 71]
 
    -  **certain**: Everything on this page is correct as per my current knowledge. I fully endorse it and there are not many errors. If asked to assign a probability, I'll say `p > 85%`.
 
