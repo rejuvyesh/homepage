@@ -105,13 +105,15 @@ You can track all anime I have seen at [MyAnimelist](http://myanimelist.net/prof
 TV
 ---
 
-- [Sherlock](http://www.imdb.com/title/tt1475582/)
-- [Freaks and Geeks]()
-- [House](http://www.imdb.com/title/tt0412142/)
+- [Black Mirror](http://www.imdb.com/title/tt2085059/)
+- [Borgen](http://www.imdb.com/title/tt1526318/)
 - [Breaking Bad](http://www.imdb.com/title/tt0903747/)
-- [The Wire](http://www.imdb.com/title/tt0306414/)
-- [The IT Crowd](http://www.imdb.com/title/tt0487831/)
+- [Freaks and Geeks](http://www.imdb.com/title/tt0193676/)
+- [House](http://www.imdb.com/title/tt0412142/)
+- [Sherlock](http://www.imdb.com/title/tt1475582/)
 - [The Dewarist](http://www.dewarsindia.com/the-dewarists/about-dewarists.aspx)
+- [The IT Crowd](http://www.imdb.com/title/tt0487831/)
+- [The Wire](http://www.imdb.com/title/tt0306414/)
 
 Books
 -----
@@ -125,7 +127,6 @@ Software
 I use free/open-source software almost exclusively as much as possible. Some of them which I heartily recommend:
 
 -  [Archlinux](https://www.archlinux.org/) - My favorite OS  <span data-icon="&#xe004;" aria-hidden="true" style="color:#005580"></span>
--  [Terminus](http://terminus-font.sourceforge.net/) - My favorite monospaced terminal font
 -  [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) aka `urxvt` - only sane unicode-aware terminal emulator
 -  [xmonad](http://xmonad.org/) - a window manger that hasn't crashed for me ever
 -  [emacs](http://www.gnu.org/s/emacs) - the only extensible editor
@@ -141,4 +142,4 @@ I follow a lot many websites via ~~Google Reader~~ [Inoreader](http://inoreader.
 
 - [Gwern's Essays](http://www.gwern.net/)
 - [Hacker News](http://news.ycombinator.com/)
-
+- [Slate Star Codex](http://slatestarcodex.com/)
