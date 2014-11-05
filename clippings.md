@@ -12,6 +12,44 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 ### Thinking, Fast and Slow
 
+> The errors of a theory are rarely found in what it asserts explicitly;
+> they hide in what it ignores or tacitly assumes.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Asked why so many expensive big-budget movies are released on the same
+> days (such as Memorial Day and Independence Day), he replied: Hubris.
+> Hubris. If you only think about your own business, you think, “I’ve
+> got a good story department, I’ve got a good marketing department,
+> we’re going to go out and do this.” And you don’t think that everybody
+> else is thinking the same way. In a given weekend in a year you’ll
+> have five movies open, and there’s certainly not enough people to go
+> around.
+
+ --- Kahneman, Daniel
+
+### The Curious Incident of the Dog in the Night-Time
+
+> I think people believe in heaven because they don’t like the idea of
+> dying, because they want to carry on living and they don’t like the
+> idea that other people will move into their house and put their things
+> into the rubbish.
+
+ --- Mark Haddon
+
+### The Curious Incident of the Dog in the Night-Time
+
+> Mother used to say that it meant Christopher was a nice name because
+> it was a story about being kind and helpful, but I do not want my name
+> to mean a story about being kind and helpful. I want my name to mean
+> me.
+
+ --- Mark Haddon
+
+### Thinking, Fast and Slow
+
 > If a strong predictive cue exists, human observers will find it, given
 > a decent opportunity to do so. Statistical algorithms greatly outdo
 > humans in noisy environments for two reasons: they are more likely
