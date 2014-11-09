@@ -10,6 +10,358 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> Although I believe the computer to be a vastly overrated technology,
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> What is information? Or more precisely, what are information ? What
+> are its various forms? What conceptions of intelligence, wisdom and
+> learning does each form insist upon? What conceptions does each form
+> neglect or mock? What are the main psychic effects of each form? What
+> is the relation between information and reason? What is the kind of
+> information that best facilitates thinking? Is there a moral bias to
+> each information form? What does it mean to say that there is too much
+> information? How would one know? What redefinitions of important
+> cultural meanings do new sources, speeds, contexts and forms of
+> information require? Does television, for example, give a new meaning
+> to “piety,” to “patriotism,” to “privacy”? Does television give a new
+> meaning to “judgment” or to “understanding”? How do different forms of
+> information persuade? Is a newspaper’s “public” different from
+> television’s “public”? How do different information forms dictate the
+> type of content that is expressed?
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> television’s principal contribution to educational philosophy is the
+> idea that teaching and entertainment are inseparable. This entirely
+> original conception is to be found nowhere in educational discourses,
+> from Confucius to Plato to Cicero to Locke to John Dewey. In searching
+> the literature of education, you will find it said by some that
+> children will learn best when they are interested in what they are
+> learning. You will find it said—Plato and Dewey emphasized this —that
+> reason is best cultivated when it is rooted in robust emotional
+> ground. You will even find some who say that learning is best
+> facilitated by a loving and benign teacher. But no one has ever said
+> or implied that significant learning is effectively, durably and
+> truthfully achieved when education is entertainment
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> A book is all history. Everything about it takes one back in time—from
+> the way it is produced to its linear mode of exposition to the fact
+> that the past tense is its most comfortable form of address. As no
+> other medium before or since, the book promotes a sense of a coherent
+> and usable past. In a conversation of books, history, as Carlyle
+> understood it, is not only a world but a living world. It is the
+> present that is shadowy.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> For television—bless its heart—is not congenial to messages of naked
+> hate. For one thing, you never know who is watching, so it is best not
+> to be wildly offensive. For another, haters with reddened faces and
+> demonic gestures merely look foolish on television, as Marshall
+> McLuhan observed years ago and Senator Joseph McCarthy learned to his
+> dismay. Television favors moods of conciliation and is at its best
+> when substance of any kind is muted. (One must make an exception here
+> for those instances when preachers, like Swaggart, turn to the subject
+> of the Devil and secular humanism. Then they are quite uncompromising
+> in the ferocity of their assaults, partly, one may assume, because
+> neither the Devil nor secular humanists are included in the Nielsen
+> Ratings. Neither are they inclined to watch.)
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> There is no problem in someone’s remarking that he prefers oranges to
+> apples, and also remarking that he prefers apples to oranges—not if
+> one statement is made in the context of choosing a wallpaper design
+> and the other in the context of selecting fruit for dessert. In such a
+> case, we have statements that are opposites, but not contradictory.
+> But if the statements are made in a single, continuous, and coherent
+> context, then they are contradictions, and cannot both be true.
+> Contradiction, in short, requires that statements and events be
+> perceived as interrelated aspects of a continuous and coherent
+> context. Disappear the context, or fragment it, and contradiction
+> disappears. This point is nowhere made more clear to me than in
+> conferences with my younger students about their writing. “Look here,”
+> I say. “In this paragraph you have said one thing. And in that you
+> have said the opposite. Which is it to be?” They are polite, and wish
+> to please, but they are as baffled by the question as I am by the
+> response. “I know,” they will say, “but that is there and this is
+> here.” The difference between us is that I assume “there” and “here,”
+> “now” and “then,” one paragraph and the next to be connected, to be
+> continuous, to be part of the same coherent world of thought. That is
+> the way of typographic discourse, and typography is the universe I’m
+> “coming from,” as they say. But they are coming from a different
+> universe of discourse altogether: the “Now ... this” world of
+> television. The fundamental assumption of that world is not coherence
+> but discontinuity. And in a world of discontinuities, contradiction is
+> useless as a test of truth or merit, because contradiction does not
+> exist.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> The idea, he writes, “is to keep everything brief, not to strain the
+> attention of anyone but instead to provide constant stimulation
+> through variety, novelty, action, and movement. You are required ...
+> to pay attention to no concept, no character, and no problem for more
+> than a few seconds at a time.” 2 He goes on to say that the
+> assumptions controlling a news show are “that bite-sized is best, that
+> complexity must be avoided, that nuances are dispensable, that
+> qualifications impede the simple message, that visual stimulation is a
+> substitute for thought, and that verbal precision is an anachronism.”
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> In fact, it is quite obvious that TV news has no intention of
+> suggesting that any story has any implications, for that would require
+> viewers to continue to think about it when it is done and therefore
+> obstruct their attending to the next story that waits panting in the
+> wings. In any case, viewers are not provided with much opportunity to
+> be distracted from the next story since in all likelihood it will
+> consist of some film footage. Pictures have little difficulty in
+> overwhelming words, and short-circuiting introspection. As a
+> television producer, you would be certain to give both prominence and
+> precedence to any event for which there is some sort of visual
+> documentation.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> Of course, in television’s presentation of the “news of the day,” we
+> may see the “Now ... this” mode of discourse in its boldest and most
+> embarrassing form. For there, we are presented not only with
+> fragmented news but news without context, without consequences,
+> without value, and therefore without essential seriousness; that is to
+> say, news as pure entertainment.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> In courtrooms, classrooms, operating rooms, board rooms, churches and
+> even airplanes, Americans no longer talk to each other, they entertain
+> each other. They do not exchange ideas; they exchange images. They do
+> not argue with propositions; they argue with good looks, celebrities
+> and commercials. For the message of television as metaphor is not only
+> that all the world is a stage but that the stage is located in Las
+> Vegas, Nevada.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> When a television show is in process, it is very nearly impermissible
+> to say, “Let me think about that” or “I don’t know” or “What do you
+> mean when you say ... ?” or “From what sources does your information
+> come?” This type of discourse not only slows down the tempo of the
+> show but creates the impression of uncertainty or lack of finish. It
+> tends to reveal people in the act of thinking, which is as
+> disconcerting and boring on television as it is on a Las Vegas stage.
+> Thinking does not play well on television, a fact that television
+> directors discovered long ago. There is not much to see in it. It is,
+> in a phrase, not a performing art. But television demands a performing
+> art, and so what the ABC network gave us was a picture of men of
+> sophisticated verbal skills and political understanding being brought
+> to heel by a medium that requires them to fashion performances rather
+> than ideas. Which accounts for why the eighty minutes were very
+> entertaining, in the way of a Samuel Beckett play: The intimations of
+> gravity hung heavy, the meaning passeth all understanding. The
+> performances, of course, were highly professional. Sagan abjured the
+> turtle-neck sweater in which he starred when he did “Cosmos.” He even
+> had his hair cut for the event. His part was that of the logical
+> scientist speaking in behalf of the planet. It is to be doubted that
+> Paul Newman could have done better in the role, although Leonard Nimoy
+> might have.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> But what I am claiming here is not that television is entertaining but
+> that it has made entertainment itself the natural format for the
+> representation of all experience. Our television set keeps us in
+> constant communion with the world, but it does so with a face whose
+> smiling countenance is unalterable. The problem is not that television
+> presents us with entertaining subject matter but that all subject
+> matter is presented as entertaining, which is another issue
+> altogether.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> Twenty years ago, the question, Does television shape culture or
+> merely reflect it? held considerable interest for many scholars and
+> social critics. The question has largely disappeared as television has
+> gradually become our culture. This means, among other things, that we
+> rarely talk about television, only about what is on television—that
+> is, about its content. Its ecology, which includes not only its
+> physical characteristics and symbolic code but the conditions in which
+> we normally attend to it, is taken for granted, accepted as natural.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> For the photograph gave a concrete reality to the strange-sounding
+> datelines, and attached faces to the unknown names. Thus it provided
+> the illusion, at least, that “the news” had a connection to something
+> within one’s sensory experience.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> And just as “nature” and “the sea” cannot be photographed, such larger
+> abstractions as truth, honor, love, falsehood cannot be talked about
+> in the lexicon of pictures. For “showing of” and “talking about” are
+> two very different kinds of processes. “Pictures,” Gavriel Salomon has
+> written, “need to be recognized, words need to be understood.” 6 By
+> this he means that the photograph presents the world as object;
+> language, the world as idea. For even the simplest act of naming a
+> thing is an act of thinking—of comparing one thing with others,
+> selecting certain features in common, ignoring what is different, and
+> making an imaginary category. There is no such thing in nature as
+> “man” or “tree.” The universe offers no such categories or
+> simplifications; only flux and infinite variety. The photograph
+> documents and celebrates the particularities of this infinite variety.
+> Language makes them comprehensible.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> Exposition is a mode of thought, a method of learning, and a means of
+> expression. Almost all of the characteristics we associate with mature
+> discourse were amplified by typography, which has the strongest
+> possible bias toward exposition: a sophisticated ability to think
+> conceptually, deductively and sequentially; a high valuation of reason
+> and order; an abhorrence of contradiction; a large capacity for
+> detachment and objectivity; and a tolerance for delayed response.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> A written sentence calls upon its author to say something, upon its
+> reader to know the import of what is said. And when an author and
+> reader are struggling with semantic meaning, they are engaged in the
+> most serious challenge to the intellect. This is especially the case
+> with the act of reading, for authors are not always trustworthy. They
+> lie, they become confused, they over-generalize, they abuse logic and,
+> sometimes, common sense. The reader must come armed, in a serious
+> state of intellectual readiness. This is not easy because he comes to
+> the text alone. In reading, one’s responses are isolated, one’s
+> intellect thrown back on its own resources. To be confronted by the
+> cold abstractions of printed sentences is to look upon language bare,
+> without the assistance of either beauty or community. Thus, reading is
+> by its nature a serious business. It is also, of course, an
+> essentially rational activity.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> For example, on October 16, 1854, in Peoria, Illinois, Douglas
+> delivered a three-hour address to which Lincoln, by agreement, was to
+> respond. When Lincoln’s turn came, he reminded the audience that it
+> was already 5 p.m., that he would probably require as much time as
+> Douglas and that Douglas was still scheduled for a rebuttal. He
+> proposed, therefore, that the audience go home, have dinner, and
+> return refreshed for four more hours of talk. 1 The audience amiably
+> agreed, and matters proceeded as Lincoln had outlined. What kind of
+> audience was this? Who were these people who could so cheerfully
+> accommodate themselves to seven hours of oratory? It should be noted,
+> by the way, that Lincoln and Douglas were not presidential candidates;
+> at the time of their encounter in Peoria they were not even candidates
+> for the United States Senate. But their audiences were not especially
+> concerned with their official status. These were people who regarded
+> such events as essential to their political education, who took them
+> to be an integral part of their social lives, and who were quite
+> accustomed to extended oratorical performances. Typically at county or
+> state fairs, programs included many speakers, most of whom were
+> allotted three hours for their arguments. And since it was preferred
+> that speakers not go unanswered, their opponents were allotted an
+> equal length of time. (One might add that the speakers were not always
+> men. At one fair lasting several days in Springfield, “Each evening a
+> woman [lectured] in the courtroom on ‘Woman’s Influence in the Great
+> Progressive Movements of the Day.”’ 2)
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> When Charles Dickens visited America in 1842, his reception equaled
+> the adulation we offer today to television stars, quarterbacks, and
+> Michael Jackson. “I can give you no conception of my welcome,” Dickens
+> wrote to a friend. “There never was a King or Emperor upon earth so
+> cheered and followed by the crowds, and entertained at splendid balls
+> and dinners and waited upon by public bodies of all kinds.... If I go
+> out in a carriage, the crowd surrounds it and escorts me home; if I go
+> to the theater, the whole house ... rises as one man and the timbers
+> ring again.”
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> it is implausible to imagine that anyone like our twenty-seventh
+> President, the multi-chinned, three-hundred-pound William Howard Taft,
+> could be put forward as a presidential candidate in today’s world. The
+> shape of a man’s body is largely irrelevant to the shape of his ideas
+> when he is addressing a public in writing or on the radio or, for that
+> matter, in smoke signals. But it is quite relevant on television. The
+> grossness of a three-hundred-pound image, even a talking one, would
+> easily overwhelm any logical or spiritual subtleties conveyed by
+> speech. For on television, discourse is conducted largely through
+> visual imagery, which is to say that television gives us a
+> conversation in images, not words. The emergence of the image-manager
+> in the political arena and the concomitant decline of the speech
+> writer attest to the fact that television demands a different kind of
+> content from other media. You cannot do political philosophy on
+> television. Its form works against the content.
+
+ --- Postman, Neil
+
+### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+
+> What Orwell feared were those who would ban books. What Huxley feared
+> was that there would be no reason to ban a book, for there would be no
+> one who wanted to read one. Orwell feared those who would deprive us
+> of information. Huxley feared those who would give us so much that we
+> would be reduced to passivity and egoism. Orwell feared that the truth
+> would be concealed from us. Huxley feared the truth would be drowned
+> in a sea of irrelevance. Orwell feared we would become a captive
+> culture. Huxley feared we would become a trivial culture, preoccupied
+> with some equivalent of the feelies, the orgy porgy, and the
+> centrifugal bumblepuppy. As Huxley remarked in Brave New World
+> Revisited, the civil libertarians and rationalists who are ever on the
+> alert to oppose tyranny “failed to take into account man’s almost
+> infinite appetite for distractions.” In 1984, Huxley added, people are
+> controlled by inflicting pain. In Brave New World, they are controlled
+> by inflicting pleasure. In short, Orwell feared that what we hate will
+> ruin us. Huxley feared that what we love will ruin us.
+
+ --- Postman, Neil
+
 ### Thinking, Fast and Slow
 
 > The errors of a theory are rarely found in what it asserts explicitly;
