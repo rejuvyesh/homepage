@@ -263,6 +263,41 @@ article .meta a:hover {
   border-bottom: 1px solid #555;
 }
 
+article .pub {
+  float: left;
+}
+article .pub .papert {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+article .pub .paperv {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+
+article .pub .papera {
+  font-size: 0.9em;
+  color: #004680;
+}
+
+article .paper .paperl {
+  float: right;
+  text-align: right;
+  font-size: 0.9em;
+}
+
+article .paper .paperl .abstr{
+  cursor: pointer;
+  color: #4682B4;
+}
+
+article .paperi {
+  text-align: center;
+  font-size: 0.9em;
+}
+
 .archive > li {
   list-style-type: none;
 }
