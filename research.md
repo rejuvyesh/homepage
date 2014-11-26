@@ -5,9 +5,12 @@ description: Research Experience
 
 ## What am I currently working on?
 
-### Coded Sampling Bound
+### Application of Coded Sampling Bound and Distortion Minimization to SC-FDE Systems
 **Mentor:** [Prof. A.K. Chaturvedi](http://home.iitk.ac.in/~akc/)
 <div style="float:right">Undergraduate Project, IIT Kanpur</div>
+
+- Used newly introduced coded sampling bound and distortion minimization techniques to improve pilot placements in SC-FDE (Single-Carrier Frequency Domain Equalization).
+
 
 ## What have I worked on?
 
