@@ -2,6 +2,7 @@
 title: Machine Learning
 description: [Machine Learning] Notes on introductory machine learning
 author: rejuvyesh
+math: true
 ---
 
 # Where and Why?
@@ -61,6 +62,11 @@ I mean really? Do you live under a rock?
     $$d(x_i, x_j) = \|x_i - x_j\|^2 = \sum_{k=1}^d (x_{ik} - x_{jk})^2$$
 - We take nearest $k$ points and take the **majority vote**.
 - Theoretical guarantees as $n \rightarrow \infty$
-- **Probabilistic Interpretation**
+- **Probabilistic Interpretation**:
+    - Fix $k$. Random variable $Y \tilde p$ where
+    $$p(y) = fraction of points x_i in N_k(x), s.t. y_i = y$$
+    which in conditional form is often written as $p(y|x,D)$. Not technically a conditional probability.
+    - Predict $\hat{y} = \arg\,\max_y p(y|x,D)$ ← Discriminative model
 - How to choose $k$?
-    - Cross Validation
+    - Cross Validation.
+    - Bias variance tradeoff.
