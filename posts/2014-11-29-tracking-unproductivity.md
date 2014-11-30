@@ -40,7 +40,7 @@ We first show the breakdown of all tags that I was occupied with on that day. He
 
 ![Breakdown of Active Windows](/images/pie-chart-29-Nov.png ) 
 
-Yeah, still a lot of time wasted on social sites. Even though close the window in a few minutes, they add up to a lot.
+Yeah, still a lot of time wasted on social sites. Even though I close the window in a few minutes, they add up to a lot. And of course the endless internet browsing...
 
 We also generate barcode plots for the entire duration of day seeking when a particular activity was being done. For example this is breakdown of the day on 29th Nov.
 
