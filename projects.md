@@ -5,9 +5,15 @@ description: Various course and independent projects
 
 ## Course Projects
 
+- **TCP over UDP**
+
+_Course Project for CS425A (Computer Networks), Prof. Dheeraj Sanghi, IIT Kanpur_ (July-November 2014)
+
+Implemented transport layer protocol over the basic structure of UDP providing TCP like features of congestion control, message reliability, flow control and connection control mechanism.
+
 - **Estimation of Direction of Arrival Using Information Theory**
 
-_Course Project for EE301(Digital Signal Processing), Prof. Rajesh Hegde, IIT Kanpur_ (January-April 2014)
+_Course Project for EE301A (Digital Signal Processing), Prof. Rajesh Hegde, IIT Kanpur_ (January-April 2014)
 
 Studied how direction of arrival of acoustic signal can be estimated using mutual information. Implemented the algorithm on MATLAB and compared with the most popular technique used for this purpose, GCC-PHAT.
 
