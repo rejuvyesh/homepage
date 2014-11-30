@@ -29,6 +29,10 @@ Built a quadrotor using Arduino Mega 2560 for onboard processing and IMU Razor 9
 <th><a href="https://github.com/rejuvyesh/clippings2md">clippings2md</a></th>
 <td>convert Kindle clippings to markdown.</td>
 </tr>
+<tr>
+<th><a href="https://github.com/rejuvyesh/dailystats">Arbtt Daily Stats</a></th>
+<td>visualization of computer usage as tracked by [arbtt](http://arbtt.nomeata.de/).</td>
+</tr>
 </tbody>
 </table>
 </div>
