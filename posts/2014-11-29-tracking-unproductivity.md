@@ -54,7 +54,7 @@ We need to get the context to really understand the implications and avoid jumpi
 
 ![Total time spent per day in various applications over a period of ~11 months. The tags can be clicked to toggle visualization of any tag](/images/year-review.svg )
 
-See the full-size image [here](/images/year-review.png). Yeah the image looks pretty cool. But it is pretty depressing to see so much time consumed on social networking sites. Let's remove all unproductive tags and see the real picture.
+See the full-size image [here](/images/year-review.png). Yeah the image looks pretty cool. But it is pretty depressing to see so much time consumed on random internet browsing. Let's remove all unproductive tags and see the real picture.
 
 ![](/images/yearly-productive-tags.png ) 
 
