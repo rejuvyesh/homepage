@@ -3,7 +3,7 @@ title: Contact
 description: Contact Jayesh Kumar Gupta aka rejuvyesh
 ---
 
-<span class="icon-envelop" aria-hidden="true" style="color:#005580;"></span> **Address**   
+<span class="icon-envelope" aria-hidden="true" style="color:#005580;"></span> **Address**   
 Jayesh Kumar Gupta <br>
 B-116, Hall 1 <br>
 IIT Kanpur <br>
@@ -24,7 +24,7 @@ You can also use my [GPG Key](/rejuvyesh.key) (fingerprint:CEEACD5D) if you want
 **Elsewhere**:
 
 <ul class="social">
-<li><a href="https://plus.google.com/105860864855598040575/posts" title="Google Plus"aria-hidden="true" class="icon-google-plus" style="color:#d64937;"></a></li>
+<li><a href="https://plus.google.com/105860864855598040575/posts" title="Google Plus"aria-hidden="true" class="icon-googleplus" style="color:#d64937;"></a></li>
 <li><a href="https://www.facebook.com/jayesh.k.gupta" title="Facebook"aria-hidden="true" class="icon-facebook" style="color:#3b5997;"></a></li>
 <li><a href="https://twitter.com/rejuvyesh" title="Twitter" aria-hidden="true" class="icon-twitter" style="color:#41b7d8;"></a></li>
 <li><a href="https://www.youtube.com/channel/UCaaAgWuJvm3xS_G3SRoNEBA" title="Youtube" aria-hidden="true" class="icon-youtube" style="color:#c4302b;"></a></li>
