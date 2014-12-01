@@ -74,7 +74,7 @@ I need to clean up and generalize the code. Right now it seems, it is just geare
 
 I also plan to do serious statistical analysis on the data. But first I need to study it properly. Finding mean, median may give some insight but I need to do more. See [Gwern](http://www.gwern.net/Google%20shutdowns) for example.
 
-Of course, pull requests are among the nicest things you can do <span data-icon="&#xe004;" aria-hidden="true" style="color:#005580"></span>!
+Of course, pull requests are among the nicest things you can do <span class="icon-happy" aria-hidden="true" style="color:#005580"></span>!
 
 
 [^lying]: I am lying here. I have to fill my grad applications and write my SoP. Everytime I sit down to write my SoP, I get distracted by something or the other. Basically I find writing my SoP pretty stressful and am doing anything to avoid it. But well, I should start now.

@@ -126,7 +126,7 @@ Software
 
 I use free/open-source software almost exclusively as much as possible. Some of them which I heartily recommend:
 
--  [Archlinux](https://www.archlinux.org/) - My favorite OS  <span data-icon="&#xe004;" aria-hidden="true" style="color:#005580"></span>
+-  [Archlinux](https://www.archlinux.org/) - My favorite OS  <span class="icon-happy" aria-hidden="true" style="color:#005580"></span>
 -  [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) aka `urxvt` - only sane unicode-aware terminal emulator
 -  [xmonad](http://xmonad.org/) - a window manger that hasn't crashed for me ever
 -  [emacs](http://www.gnu.org/s/emacs) - the only extensible editor
