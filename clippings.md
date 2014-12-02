@@ -10,6 +10,39 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Thinking, Fast and Slow
+
+> A lottery ticket is the ultimate example of the possibility effect.
+> Without a ticket you cannot win, with a ticket you have a chance, and
+> whether the chance is tiny or merely small matters little. Of course,
+> what people acquire with a ticket is more than a chance to win; it is
+> the right to dream pleasantly of winning.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> To appreciate the asymmetry between the possibility effect and the
+> certainty effect, imagine first that you have a 1% chance to win \$1
+> million. You will know the outcome tomorrow. Now, imagine that you are
+> almost certain to win \$1 million, but there is a 1% chance that you
+> will not. Again, you will learn the outcome tomorrow. The anxiety of
+> the second situation appears to be more salient than the hope in the
+> first. The certainty effect is also more striking than the possibility
+> effect if the outcome is a surgical disaster rather than a financial
+> gain. Compare the intensity with which you focus on the faint sliver
+> of hope in an operation that is almost certain to be fatal, compared
+> to the fear of a 1% risk.
+
+ --- Kahneman, Daniel
+
+### The Age of Spiritual Machines: When Computers Exceed Human Intelligence
+
+> “YOU CAN’T SAY THAT CIVILIZATION DON’T ADVANCE, FOR IN EVERY WAR THEY
+> KILL YOU IN A NEW WAY.”
+
+ --- Ray Kurzweil
+
 ### Amusing Ourselves to Death: Public Discourse in the Age of Show Business
 
 > Although I believe the computer to be a vastly overrated technology,
