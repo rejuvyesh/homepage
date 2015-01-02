@@ -20,7 +20,7 @@ Finally got to travel by air, that too straight across to western hemisphere. :)
 
 ## Projects
 
-![You decide](http://imgs.xkcd.com/comics/automation.png ) 
+![You decide](/images/automation.png ) 
 
 1. [**hserv**](https://github.com/rejuvyesh/hserv): Tried learning `haskell` by writing a simple `http` server using [`warp`](http://www.stackage.org/package/warp).
 
