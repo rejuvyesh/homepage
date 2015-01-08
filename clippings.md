@@ -10,6 +10,815 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Superintelligence: Paths, Dangers, Strategies
+
+> (Information continence may be especially challenging for academic
+> researchers, accustomed as they are to constantly disseminating their
+> results on every available lamppost and tree.)
+
+ --- Bostrom, Nick
+
+### Superintelligence: Paths, Dangers, Strategies
+
+> Nature might be a great experimentalist, but one who would never pass
+> muster with an ethics review board—contravening the Helsinki
+> Declaration and every norm of moral decency, left, right, and center.
+> It is important that we not gratuitously replicate such horrors in
+> silico.
+
+ --- Bostrom, Nick
+
+### Superintelligence: Paths, Dangers, Strategies
+
+> For instance, one search discovered a frequency discrimination circuit
+> that functioned without a clock—a component normally considered
+> necessary for this function. The researchers estimated that the
+> evolved circuit was between one and two orders of magnitude smaller
+> than what a human engineer would have required for the task. The
+> circuit exploited the physical properties of its components in
+> unorthodox ways; some active, necessary components were not even
+> connected to the input or output pins! These components instead
+> participated via what would normally be considered nuisance side
+> effects, such as electromagnetic coupling or power-supply loading.
+
+ --- Bostrom, Nick
+
+### Superintelligence: Paths, Dangers, Strategies
+
+> This strategy is exemplified by the sea squirt larva, which swims
+> about until it finds a suitable rock, to which it then permanently
+> affixes itself. Cemented in place, the larva has less need for complex
+> information processing, whence it proceeds to digest part of its own
+> brain (its cerebral ganglion). One can observe the same phenomenon in
+> some academics when they have been granted tenure.
+
+ --- Bostrom, Nick
+
+### Marx
+
+> Marx saw that within its own terms this defense of capitalism is
+> coherent; but he also saw that from a broader, historical perspective,
+> the liberal definition of freedom is open to a fundamental objection.
+> To explain his objection, I shall switch to a more homely example.
+> Suppose I live in the suburbs and work in the city. I could drive my
+> car to work, or take the bus. I prefer not to wait around for the bus,
+> and so I take my car. Fifty thousand other people living in my suburb
+> face the same choice and make the same decision. The road to town is
+> choked with cars. It takes each of us an hour to travel ten miles. In
+> this situation, according to the liberal conception of freedom, we
+> have all chosen freely. No one deliberately interfered with our
+> choices. Yet the outcome is something none of us wants. If we all went
+> by bus, the roads would be empty and we could cover the distance in
+> twenty minutes. Even with the inconvenience of waiting at the bus
+> stop, we would all prefer that. We are, of course, free to alter our
+> choice of transportation, but what can we do? While so many cars slow
+> the bus down, why should any individual choose differently? The
+> liberal conception of freedom has led to a paradox: we have each
+> chosen in our own interests, but the result is in no one’s interest.
+> Individual rationality, collective irrationality.
+
+ --- Singer, Peter
+
+### Marx
+
+> Everything Marx says about communism is premised on material
+> abundance. Remember that it is the development of the forces of
+> production that, according to the materialist theory of history, is
+> the driving force behind historical change. The change from one form
+> of society to another occurs when the existing structure of society
+> acts as a fetter on the further development of the productive forces.
+> But communism is the final form of society. Building on the dramatic
+> advances so ruthlessly made by capitalism, communism allows the forces
+> of production to develop to their fullest possible extent. Production
+> will be cooperatively planned for the benefit of all, not wasted in
+> socially fruitless competition between individual capitalists for
+> their own private ends. There will be no crises of overproduction, as
+> there are in unplanned economies. The reserve army of unemployed
+> workers required by capitalism to keep labor cheap and available will
+> become productive. Mechanization and automation will continue to
+> develop as they had developed under capitalism, though without their
+> degrading effect on the workers (unfortunately Marx does not tell us
+> how these effects would be avoided, but presumably it would be by a
+> drastic reduction in the hours of necessary labor). No longer will
+> surplus-value be extracted from the workers to line the pockets of the
+> capitalists. The working class will receive the full use-value of its
+> labor, subject only to a deduction for future social investment. We
+> will control our economy, instead of being controlled by it.
+
+ --- Singer, Peter
+
+### Marx
+
+> There is a reason for Marx’s reticence over the details of communist
+> society. He believed that history owed its momentum to the development
+> of the forces of production rather than the development of ideas. This
+> did not mean that theory was unimportant. If Marx’s mission in life
+> was to contribute to the overthrow of capitalism and the liberation of
+> the proletariat, his theories of history and of economics were
+> intended to do this by showing the workers their role in history and
+> making them conscious of the manner in which capitalism exploited
+> them. While theory could describe existing reality in this way,
+> however, for theory to reach ahead of its time was another matter
+> altogether. Marx derided as “Utopian” those socialists who sought to
+> bring about communism by producing blueprints of a future communist
+> society. His own form of socialism was, he claimed, scientific because
+> it built on knowledge of the laws of history that would bring
+> socialism into existence.
+
+ --- Singer, Peter
+
+### Marx
+
+> The view of society as a totality is no doubt illuminating when set
+> against the view that ideas, politics, law, religion, and so on have a
+> life and history of their own, independently of mundane economic
+> matters. Nevertheless it does not amount to “the law of development of
+> human history,” or to a scientific discovery comparable to Darwin’s
+> theory of evolution. To qualify as a contribution to science, a
+> proposed law must be precise enough to enable us to deduce from it
+> certain consequences rather than others. That is how we test proposed
+> scientific laws—by seeing if the consequences they predict actually
+> occur. The conception of society as an interconnected totality is
+> about as precise an instrument of historical analysis as a bowl of
+> porridge. Anything at all can be deduced from it. No observation could
+> ever refute it.
+
+ --- Singer, Peter
+
+### Marx
+
+> One might expect that Marx would go on to explain in some detail what
+> communism would be like. He does not—in fact, nowhere in his writings
+> does he give more than sketchy suggestions on this subject. He does,
+> however, gesture at the enormous difference communism would make.
+
+ --- Singer, Peter
+
+### Superintelligence: Paths, Dangers, Strategies
+
+> Far from being the smartest possible biological species, we are
+> probably better thought of as the stupidest possible biological
+> species capable of starting a technological civilization—a niche we
+> filled because we got there first, not because we are in any sense
+> optimally adapted to it.
+
+ --- Bostrom, Nick
+
+### Superintelligence: Paths, Dangers, Strategies
+
+> Optimality notions can be of theoretical interest even if they are
+> physically unrealizable. They give us a standard by which to judge
+> heuristic approximations, and sometimes we can reason about what an
+> optimal agent would do in some special case.
+
+ --- Bostrom, Nick
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Finally, arguments should be based on reasons, not people. Saying that
+> someone you disagree with is motivated by money, fame, politics, or
+> laziness, or slinging around insults like simplistic, naïve, or
+> vulgar, does not prove that the things the person is saying are false.
+> Nor is the point of disagreement or criticism to show that you are
+> smarter or nobler than your target. Psychologists have shown that in
+> any dispute both sides are convinced that they themselves are
+> reasonable and upright and that their opposite numbers are mulish and
+> dishonest.75 They can’t all be right, at least not all the time. Keep
+> in mind a bit of wisdom from the linguist Ann Farmer: “It isn’t about
+> being right. It’s about getting it right.”
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Fourth, beware of false dichotomies. Though it’s fun to reduce a
+> complex issue to a war between two slogans, two camps, or two schools
+> of thought, it is rarely a path to understanding. Few good ideas can
+> be insightfully captured in a single word ending with -ism, and most
+> of our ideas are so crude that we can make more progress by analyzing
+> and refining them than by pitting them against each other in a
+> winner-take-all contest.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Third, don’t confuse an anecdote or a personal experience with the
+> state of the world. Just because something happened to you, or you
+> read about it in the paper or on the Internet this morning, it doesn’t
+> mean it is a trend. In a world of seven billion people, just about
+> anything will happen to someone somewhere, and it’s the highly unusual
+> events that will be selected for the news or passed along to friends.
+> An event is a significant phenomenon only if it happens some
+> appreciable number of times relative to the opportunities for it to
+> occur, and it is a trend only if that proportion has been shown to
+> change over time.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Second, be sure your arguments are sound. If you are making a factual
+> claim, it should be verifiable in an edited source—one that has been
+> vetted by disinterested gatekeepers such as editors, fact-checkers, or
+> peer reviewers. If you’re making an argument, it should proceed from
+> premises that reasonable people already agree upon to your newer or
+> more contentious assertion using valid if-then steps. If you’re making
+> a moral argument—a claim about what people ought to do—you should show
+> how doing it would satisfy a principle or
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> First, look things up. Humans are cursed with the deadly combination
+> of a highly fallible memory and an overconfidence in how much they
+> know.73 Our social networks, traditional and electronic, multiply the
+> errors, so that much of our conventional wisdom consists of
+> friend-of-a-friend legends and factoids that are too good to be true.
+> As Mark Twain said, “The trouble with the world is not that people
+> know too little, but that they know so many things that aren’t so.”
+> Actually, he didn’t say that—I looked it up.74 But whoever said it
+> (probably Josh Billings) made an important point. We are blessed to
+> live in an age in which no subject has gone unresearched by scholars,
+> scientists, and journalists. The fruits of their research are
+> available within seconds to anyone with a laptop or smartphone, and
+> within minutes to anyone who can get to a library. Why not take
+> advantage of these blessings and try to restrict the things you know
+> (or at least the things you write) to things that are true?
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> If you really want to improve the quality of your writing, or if you
+> want to thunder about sins in the writing of others, the principles
+> you should worry about the most are not the ones that govern fused
+> participles and possessive antecedents but the ones that govern
+> critical thinking and factual diligence.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> There are several legitimate ways to splice two sentences, depending
+> on the coherence relation that connects them. When two sentences are
+> conceptually pretty much independent, the first should end with a
+> period and the next should begin with a capital, just like they teach
+> you in third grade. When the two are conceptually linked but the
+> writer feels no need to pinpoint the coherence relation that holds
+> between them, they can be joined with a semicolon; the semicolon is
+> the all-purpose way to eliminate a comma splice. When the coherence
+> relation is elaboration or exemplification (when one is tempted to say
+> that is, in other words, which is to say, for example, here’s what I
+> have in mind, or Voilà!), they may be linked with a colon: like this.
+> When the second sentence intentionally interrupts the flow of the
+> discussion, requiring the reader to wake up, think twice, or snap out
+> of it, a writer can use a dash—dashes can enliven writing, as long as
+> they are used sparingly. And when the writer pinpoints the coherence
+> relation he has in mind with an explicit connective such as a
+> coordinator (and, or, but, yet, so, nor) or a preposition (although,
+> except, if, before, after, because, for), a comma is fine, because the
+> phrase is a mere supplement (like the underlined clause, which I
+> fastened to the preceding one with a comma). Just don’t confuse these
+> connectives with sentence adverbs, such as however, nonetheless,
+> consequently, or therefore, which are themselves supplements of the
+> clause they precede. The clause with the adverb is a freestanding
+> sentence; consequently, it cannot be joined to its predecessor with a
+> comma.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> If I were allowed to take just one book to the proverbial desert
+> island, it might be a dictionary.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> But the claim that there is nothing inherently wrong with ain’t (which
+> is true) should not be confused with the claim that ain’t is one of
+> the conventions of standard written English (which is obviously
+> false). This distinction is lost on the purists, who worry that if we
+> point out that people who say ain’t or He be working or ax a question
+> are not lazy or careless, then we have no grounds for advising
+> students and writers to avoid them in their prose. So here is an
+> analogy. In the United Kingdom, everyone drives on the left, and there
+> is nothing inherently wrong with that convention; it is in no way
+> sinister, gauche, or socialist. Nonetheless, we have an excellent
+> reason to encourage a person in the United States to drive on the
+> right. There is a joke about a commuter who’s on his way to work when
+> he gets a call on his mobile phone from his wife. “Be careful, honey,”
+> she says. “They just said on the radio that there’s a maniac driving
+> on the wrong side of the freeway.” “One maniac?” he replies; “There
+> are thousands of them!”
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> A writer, after laying out her topic, will introduce a large number of
+> concepts which explain, enrich, or comment on that topic. These
+> concepts will center on a number of themes which make repeated
+> appearances in the discussion. To keep the text coherent, the writer
+> must allow the reader to keep track of these themes by referring to
+> each in a consistent way or by explaining their connection.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Of course, responsible writers have to deal with counterarguments and
+> counterevidence. But if there are enough of them to merit an extended
+> discussion, they deserve a section of their own, whose stated point is
+> to examine the contrary position. A fair-minded examination of the
+> counterevidence can then occupy as much space as it needs, because its
+> bulk will reflect its importance within that section. This
+> divide-and-conquer strategy is better than repeatedly allowing
+> counterexamples to intrude into the main line of an argument while
+> browbeating readers into looking away.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> When an author has to negate something that a reader doesn’t already
+> believe, she has to set it up as a plausible belief on his mental
+> stage before she knocks it down. Or, to put it more positively, when a
+> writer wants to negate an unfamiliar proposition, she should unveil
+> the negation in two stages: You might think … But no.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The cognitive difference between believing that a proposition is true
+> (which requires no work beyond understanding it) and believing that it
+> is false (which requires adding and remembering a mental tag) has
+> enormous implications for a writer.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Paragraph breaks generally coincide with the divisions between
+> branches in the discourse tree, that is, cohesive chunks of text. But
+> the same little notch must be used for divisions between branches of
+> every size, whether it’s the end of a minor digression, the end of a
+> major summation, or anything in between. Sometimes a writer should
+> cleave an intimidating block of print with a paragraph break just to
+> give the reader’s eyes a place to alight and rest. Academic writers
+> often neglect to do this and trowel out massive slabs of visually
+> monotonous text. Newspaper journalists, mindful of their readers’
+> attention spans, sometimes go to the other extreme and dice their text
+> into nanoparagraphs consisting of a sentence or two apiece.
+> Inexperienced writers tend to be closer to academics than to
+> journalists and use too few paragraph breaks rather than too many.
+> It’s always good to show mercy to your readers and periodically let
+> them rest their weary eyes. Just be sure not to derail them in the
+> middle of a train of thought. Carve the notch above a sentence that
+> does not elaborate or follow from the one that came before.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Just below the surface of these inchoate intuitions, I believe, is a
+> tacit awareness that the writer’s goal is to encode a web of ideas
+> into a string of words using a tree of phrases. Aspiring wordsmiths
+> would do well to cultivate this awareness. It can help rid their
+> writing of errors, dead ends, and confusing passages. And it can take
+> the fear and boredom out of grammar, because it’s always more inviting
+> to master a system when you have a clear idea of what it is designed
+> to accomplish.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> Accomplished wordsmiths identify a need while writing, or spot a
+> problem in a sentence while revising, and when all goes well the
+> suitable word or construction pops into mind.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The advice to omit needless words should not be confused with the
+> puritanical edict that all writers must pare every sentence down to
+> the shortest, leanest, most abstemious version possible. Even writers
+> who prize clarity don’t do this. That’s because the difficulty of a
+> sentence depends not just on its word count but on its geometry. Good
+> writers often use very long sentences, and they garnish them with
+> words that are, strictly speaking, needless. But they get away with it
+> by arranging the words so that a reader can absorb them a phrase at a
+> time, each phrase conveying a chunk of conceptual structure.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The reason that the task is so challenging is that the main resource
+> that English syntax makes available to writers—left-to-right ordering
+> on a page—has to do two things at once. It’s the code that the
+> language uses to convey who did what to whom. But it also determines
+> the sequence of early-to-late processing in the reader’s mind. The
+> human mind can do only a few things at a time, and the order in which
+> information comes in affects how that information is handled.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> metadiscourse, signposting, hedging, apologizing, professional
+> narcissism, clichés, mixed metaphors, metaconcepts, zombie nouns, and
+> unnecessary passives. Writers who want to invigorate their prose could
+> try to memorize that list of don’ts. But it’s better to keep in mind
+> the guiding metaphor of classic style: a writer, in conversation with
+> a reader, directs the reader’s gaze to something in the world. Each of
+> the don’ts corresponds to a way in which a writer can stray from this
+> scenario.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The summary should be self-contained, almost as if the material being
+> summarized had never existed.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> It takes cognitive toil and literary dexterity to pare an argument to
+> its essentials, narrate it in an orderly sequence, and illustrate it
+> with analogies that are both familiar and accurate. As Dolly Parton
+> said, “You wouldn’t believe how much it costs to look this cheap.”
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The guiding metaphor of classic style is seeing the world. The writer
+> can see something that the reader has not yet noticed, and he orients
+> the reader’s gaze so that she can see it for herself. The purpose of
+> writing is presentation, and its motive is disinterested truth. It
+> succeeds when it aligns language with the truth, the proof of success
+> being clarity and simplicity. The truth can be known, and is not the
+> same as the language that reveals it; prose is a window onto the
+> world. The writer knows the truth before putting it into words; he is
+> not using the occasion of writing to sort out what he thinks. Nor does
+> the writer of classic prose have to argue for the truth; he just needs
+> to present it. That is because the reader is competent and can
+> recognize the truth when she sees it, as long as she is given an
+> unobstructed view. The writer and the reader are equals, and the
+> process of directing the reader’s gaze takes the form of a
+> conversation.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The key to good style, far more than obeying any list of commandments,
+> is to have a clear conception of the make-believe world in which
+> you’re pretending to communicate.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> The authors of the four passages share a number of practices: an
+> insistence on fresh wording and concrete imagery over familiar
+> verbiage and abstract summary; an attention to the readers’ vantage
+> point and the target of their gaze; the judicious placement of an
+> uncommon word or idiom against a backdrop of simple nouns and verbs;
+> the use of parallel syntax; the occasional planned surprise; the
+> presentation of a telling detail that obviates an explicit
+> pronouncement; the use of meter and sound that resonate with the
+> meaning and mood. The authors also share an attitude: they do not hide
+> the passion and relish that drive them to tell us about their
+> subjects. They write as if they have something important to say. But
+> no, that doesn’t capture it. They write as if they have something
+> important to show. And that, we shall see, is a key ingredient in the
+> sense of style.
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> I write with a thesaurus, mindful of the advice I once read in a
+> bicycle repair manual on how to squeeze a dent out of a rim with
+> Vise-Grip pliers: “Do not get carried away with the destructive
+> potential of this tool.”
+
+ --- Steven Pinker
+
+### The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+
+> We are going to die, and that makes us the lucky ones. Good writing
+> starts strong. Not with a cliché (“Since the dawn of time”), not with
+> a banality (“Recently, scholars have been increasingly concerned with
+> the question of …”), but with a contentful observation that provokes
+> curiosity.
+
+ --- Steven Pinker
+
+### Willpower: Rediscovering the Greatest Human Strength
+
+> “The secret of my incredible energy and efficiency in getting work
+> done is a simple one,” Benchley wrote. “The psychological principle is
+> this: anyone can do any amount of work, provided it isn’t the work he
+> is supposed to be doing at that moment.”
+
+ --- Baumeister, Roy F.;Tierney, John
+
+### Willpower: Rediscovering the Greatest Human Strength
+
+> This broad rise in narcissism is the problem child of the self-esteem
+> movement, and it is not likely to change anytime soon, because the
+> movement persists despite the evidence that it’s not making children
+> become more successful, honest, or otherwise better citizens. Too many
+> students, parents, and educators are still seduced by the easy
+> promises of self-esteem. Like the students in Forsyth’s class in
+> Virginia, when the going gets tough, people with high self-esteem
+> often decide they shouldn’t bother. If other people can’t appreciate
+> how terrific they are, then it’s the other people’s problem.
+
+ --- Baumeister, Roy F.;Tierney, John
+
+### Willpower: Rediscovering the Greatest Human Strength
+
+> But the act of writing it was part of a strategy to conserve willpower
+> that he used over and over with great success: precommitment. The
+> essence of this strategy is to lock yourself into a virtuous path. You
+> recognize that you’ll face terrible temptations to stray from the
+> path, and that your willpower will weaken. So you make it
+> impossible—or somehow unthinkably disgraceful or sinful—to leave the
+> path.
+
+ --- Baumeister, Roy F.;Tierney, John
+
+### Willpower: Rediscovering the Greatest Human Strength
+
+> Public information has more impact than private information. People
+> care more about what other people know about them than about what they
+> know about themselves. A failure, a slipup, a lapse in self-control
+> can be swept under the carpet pretty easily if you’re the only one who
+> knows about it. You can rationalize it or just plain ignore it. But if
+> other people know about it, it’s harder to dismiss. After all, the
+> other person might not buy the excuses that you make, even though you
+> find them quite satisfying.
+
+ --- Baumeister, Roy F.;Tierney, John
+
+### Willpower: Rediscovering the Greatest Human Strength
+
+> The link between self-awareness and self-control was also demonstrated
+> in experiments involving adults and alcohol. Researchers found that
+> one of the chief effects of drinking was to reduce people’s ability to
+> monitor their own behavior. As drinkers’ self-awareness declines, they
+> lose self-control, so they get into more fights, smoke more, eat more,
+> make more sexual blunders, and wake up the next day with many more
+> regrets. One of the hardest parts of a hangover is the return of
+> self-awareness, because that’s when we resume that crucial task for a
+> social animal: comparing our behavior with the standards set by
+> ourselves and our neighbors.
+
+ --- Baumeister, Roy F.;Tierney, John
+
+### Willpower: Rediscovering the Greatest Human Strength
+
+> If you look at the cause of some movement in a time frame measured in
+> milliseconds, the immediate cause will be the firing of some nerve
+> cells that connect the brain to the muscles. There is no consciousness
+> in that process. Nobody is aware of nerve cells firing. But the will
+> is to be found in connecting units across time. Will involves treating
+> the current situation as part of a general pattern. Smoking one
+> cigarette will not jeopardize your health. Taking heroin once will not
+> make you addicted. One piece of cake won’t make you fat, and skipping
+> one assignment won’t ruin your career. But in order to stay healthy
+> and employed, you must treat (almost) every episode as a reflection of
+> the general need to resist these temptations. That’s where conscious
+> self-control comes in, and that’s why it makes the difference between
+> success and failure in just about every aspect of life.
+
+ --- Baumeister, Roy F.;Tierney, John
+
+### And Then I Thought I Was a Fish
+
+> The difference for me is that I don’t find a purposeless, meaningless
+> universe unsettling: the core mystical awakening is in the experience
+> of being, and even a laymen’s exploration of modern science reveals
+> that the universe is an extremely strange place that we don’t really
+> understand. The quest for spiritual truth becomes a need when people
+> project the banality and frustrations of their internal worlds and see
+> the universe as boring and faulty. A spiritual awakening is primarily
+> breaking the mind out of that interpretative trap, which is enough for
+> me. Somehow fitting visions and feelings into a framework with beings
+> and consciousnesses and unknown forces that care is superfluous. I
+> find such attempts less revelations than they are representations of a
+> longing to be loved. All of my altered experience, psychedelic and
+> otherwise, has left me with the lesson that it is far more important
+> to love than to be loved.
+
+ --- Peter Hunt Welch
+
+### And Then I Thought I Was a Fish
+
+> The idea that drugs and radically altered states express a higher
+> potential is a bit like saying humans are the pinnacle of evolution.
+> Evolution has no pinnacle, and an altered state of mind is just that.
+> It’s not better or worse: it’s different. I think contrast in general
+> is an excellent experience for broadening the mind and making it more
+> able to be further broadened, and if that’s what you want, extreme
+> brain alteration is part of it. But extreme and continuing contrast is
+> also the thing that gradually instills a sense of the arbitrariness of
+> interpretation and meaning. A popular altered state of mind that lacks
+> contrast is fanatical guru, and their universal cry is “everybody
+> should shuck the rest of the world and listen to the thoughts in my
+> head.” Exploring one’s own mind excessively is not pursuing universal
+> consciousness. It’s narcissism.
+
+ --- Peter Hunt Welch
+
+### And Then I Thought I Was a Fish
+
+> I’m tempted to believe this is how human culture mutates. If you go
+> through this whole process very slowly, you have culture and language.
+> Go through a little faster, you have philosophy and rhetoric. Go
+> through at a canter, you’ve got politics, and if you break into a
+> gallop, you’re insane. The faster the process, the easier it is to get
+> smaller, more literal symbols in the mix. Think about this sentence:
+> “God is God but not God, God is everything, God is the water and the
+> wave, the vision and its completion.” Sunday morning, right? Now,
+> trying to make Friday night before prom something worth confessing on
+> Sunday: “Love is Love but not Love, Love is everything, Love is the
+> water and the wave, the vision and its completion.” Sweet. I’ve just
+> demonstrated how the Bible can be used to get young atheists laid.
+> Grab a short passage, replace God with Love, and say it to an insecure
+> girl late at night. This can be done because Love and God are both
+> huge, ancient symbols describing nothing in particular. Love, God,
+> Earth, Hell, Heaven, Hope, Faith, etc., are all big words people argue
+> about, because by the process of insane osmosis[198] these words have
+> merged with every other concept and thought process we have, and thus
+> mean jack all. They’re shortcuts between other, more literal concepts.
+
+ --- Peter Hunt Welch
+
+### And Then I Thought I Was a Fish
+
+> I think alleviating existential dread is bad for humanity: if we
+> really want immortality and rocket ships and all the possible
+> pleasures of existence, we need hubris and dread. Monks be damned.
+
+ --- Peter Hunt Welch
+
+### And Then I Thought I Was a Fish
+
+> Emotion trumps reason. Always. You can stop yourself from screaming
+> and curb the urge toward violence, but your thoughts are shaped by how
+> you feel. You can throw some feedback into your hormones, but the
+> impetus for even that effort is rooted in your mood. If you take
+> someone and cut the link between the cerebral cortex and the emotional
+> centers of the brain, that person can no longer make choices. Nothing
+> has any more or less value than anything else, so judgments are
+> pointless.
+
+ --- Peter Hunt Welch
+
+### And Then I Thought I Was a Fish
+
+> When you’re nuts, and deprived of your ability to doubt and reason
+> against evidence, the same thing can happen. The processes running
+> your emotions are now running your logic centers, and you’re more
+> receptive to signals you can no longer interpret.
+
+ --- Peter Hunt Welch
+
+### And Then I Thought I Was a Fish
+
+> Think about all the things you’ve believed, unquestioning, while
+> dreaming. When you dream, you are InstaFanatic about whatever
+> ludicrous set of rules you’re presented with. That’s not a great place
+> to be when you’re awake, unless you’re looking to start a religion.
+
+ --- Peter Hunt Welch
+
+### How the Mind Works
+
+> The computational theory of mind resolves the paradox. It says that
+> beliefs and desires are information, incarnated as configurations of
+> symbols. The symbols are the physical states of bits of matter, like
+> chips in a computer or neurons in the brain. They symbolize things in
+> the world because they are triggered by those things via our sense
+> organs, and because of what they do once they are triggered. If the
+> bits of matter that constitute a symbol are arranged to bump into the
+> bits of matter constituting another symbol in just the right way, the
+> symbols corresponding to one belief can give rise to new symbols
+> corresponding to another belief logically related to it, which can
+> give rise to symbols corresponding to other beliefs, and so on.
+> Eventually the bits of matter constituting a symbol bump into bits of
+> matter connected to the muscles, and behavior happens. The
+> computational theory of mind thus allows us to keep beliefs and
+> desires in our explanations of behavior while planting them squarely
+> in the physical universe. It allows meaning to cause and be caused.
+
+ --- Steven Pinker
+
+### How the Mind Works
+
+> The camera does not lie; left to its own devices, it renders outdoor
+> scenes as milk and indoor scenes as mud. Photographers, and sometimes
+> microchips inside the camera, coax a realistic image out of the film
+> with tricks like adjustable shutter timing, lens apertures, film
+> speeds, flashes, and darkroom manipulations.
+
+ --- Steven Pinker
+
+### Thinking, Fast and Slow
+
+> Nothing in life is as important as you think it is when you are
+> thinking about it.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Odd as it may seem, I am my remembering self, and the experiencing
+> self, who does my living, is like a stranger to me.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Confusing experience with the memory of it is a compelling cognitive
+> illusion—and it is the substitution that makes us believe a past
+> experience can be ruined. The experiencing self does not have a voice.
+> The remembering self is sometimes wrong, but it is the one that keeps
+> score and governs what we learn from living, and it is the one that
+> makes decisions. What we learn from the past is to maximize the
+> qualities of our future memories, not necessarily of our future
+> experience. This is the tyranny of the remembering self.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Your moral feelings are attached to frames, to descriptions of reality
+> rather than to reality itself. The message about the nature of framing
+> is stark: framing should not be viewed as an intervention that masks
+> or distorts an underlying preference.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> Reframing is effortful and System 2 is normally lazy. Unless there is
+> an obvious reason to do otherwise, most of us passively accept
+> decision problems as they are framed and therefore rarely have an
+> opportunity to discover the extent to which our preferences are
+> frame-bound rather than reality-bound.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> The key is not the difference between commission and omission but the
+> distinction between default options and actions that deviate from the
+> default. When you deviate from the default, you can easily imagine the
+> norm—and if the default is associated with bad consequences, the
+> discrepancy between the two can be the source of painful emotions. The
+> default option when you own a stock is not to sell it, but the default
+> option when you meet your colleague in the morning is to greet him.
+> Selling a stock and failing to greet your coworker are both departures
+> from the default option and natural candidates for regret or blame.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> It works when the gambles are genuinely independent of each other; it
+> does not apply to multiple investments in the same industry, which
+> would all go bad together. It works only when the possible loss does
+> not cause you to worry about your total wealth. If you would take the
+> loss as significant bad news about your economic future, watch it! It
+> should not be applied to long shots, where the probability of winning
+> is very small for each bet.
+
+ --- Kahneman, Daniel
+
+### Thinking, Fast and Slow
+
+> than they were when prospect theory was formulated. The probability of
+> a rare event will (often, not always) be overestimated, because of the
+> confirmatory bias of memory. Thinking about that event, you try to
+> make it true in your mind. A rare event will be overweighted if it
+> specifically attracts attention.
+
+ --- Kahneman, Daniel
+
 ### Thinking, Fast and Slow
 
 > A lottery ticket is the ultimate example of the possibility effect.
