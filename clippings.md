@@ -10,6 +10,204 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The concept of classic style assumes that plain style already exists.
+> The classic version introduces a refinement, a qualification, a
+> meditation on the plain version that makes it classic. Classic style
+> takes the attitude that it is superior to plain style because classic
+> style presents intelligence as it should be presented: as a sparkling
+> display, not weighed down by grinding earnestness.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> “The truth is pure and simple” is plain style. “The truth is rarely
+> pure, and never simple” is classic style. The plain version contains
+> many elements of classic style without being classic; the classic
+> version contains all of the plain version without being plain.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The role is severely limited because classic prose is pure, fearless,
+> cool, and relentless. It asks no quarter and gives no quarter to
+> anyone, including the writer. While the role can be necessary, true,
+> and useful, as well as wonderfully thrilling, it can hardly be
+> permanent. For better or worse, human beings are not pure, fearless,
+> cool, or relentless, even if we may find it convenient for certain
+> purposes to pretend that we are. The human condition does not, in
+> general, allow the degree of autonomy and certainty that the classic
+> writer pretends to have. It does not sustain the classic writer’s
+> claim to disinterested expression of unconditional truth. It does not
+> allow the writer indefinitely to maintain the posture required by
+> classic style. But classic style simply does not acknowledge the human
+> condition. The insouciance required to ignore what everyone knows and
+> to carry the reader along in this style cannot be maintained very
+> long, and the masters of the style always know its limits. The classic
+> distance is a sprint.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Classic style is focused and assured. Its virtues are clarity and
+> simplicity; in a sense, so are its vices. It declines to acknowledge
+> ambiguities, unessential qualifications, doubts, or other styles. It
+> declines to acknowledge that it is a style. It makes its hard choices
+> silently and out of the reader’s sight. Once made, those hard choices
+> are not acknowledged to be choices at all; they are presented as if
+> they were inevitable because classic style is, above all, a style of
+> presentation with claims to transparency.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Classic style is in its own view clear and simple as the truth. It
+> adopts the stance that its purpose is presentation; its motive,
+> disinterested truth. Successful presentation consists of aligning
+> language with truth, and the test of this alignment is clarity and
+> simplicity. The idea that presentation is successful when language is
+> aligned with truth implies that truth can be known; truth needs no
+> argument but only accurate presentation; the reader is competent to
+> recognize truth; the symmetry between writer and reader allows the
+> presentation to follow the model of conversation; a natural language
+> is sufficient to express truth; and the writer knows the truth before
+> he puts it into language.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Writing proceeds from thinking. To achieve good prose styles, writers
+> must work through intellectual issues, not merely acquire mechanical
+> techniques.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> Fun is often frivolous, ephemeral, and easy to obtain, but true
+> fulfillment comes only after overcoming significant and meaningful
+> challenges. Pursuing a Ph.D. has been one of the most fulfilling
+> experiences of my life, and I feel extremely lucky to have been given
+> the opportunity to be creative during this time.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> reality, almost nobody fails their defense unless they act totally
+> moronic: The committee will usually have read through and approved a
+> student's dissertation before they let that student defend, so there
+> should be no surprises.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> The popular view of how a Ph.D. dissertation arises is that a student
+> comes up with some inspired intellectual idea in a brilliant flash of
+> insight and then spends a few years writing a giant treatise while
+> sipping hundreds of lattes and cappuccinos. In many science and
+> engineering fields, this perception is totally inaccurate: The
+> “writing” is simply combining one's published papers together into a
+> single document and surrounding their contents with introductory and
+> concluding chapters. All of the years of sweaty labor has already been
+> done by the time a student sits down to “write” their dissertation
+> document.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> I understood the importance of aligning with the subjective
+> preferences of senior collaborators (and paper reviewers), even when
+> doing research in supposedly objective technical fields.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> Academic conferences are filled with senior Ph.D. students, postdocs,
+> and pre-tenure professors schmoozing like crazy in attempts to impress
+> their senior colleagues. For these junior researchers, professional
+> networking at conferences is a serious full-time job, since their
+> budding careers and academic reputations depend upon excelling at it.
+> But since I was getting out of this academic game, I didn't care at
+> all and enjoyed myself without being nervous or calculating.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> Our user testing had failed to show the productivity improvement
+> effects that we originally hoped to see, so I was afraid that our
+> paper would be rejected for sure. But miraculously, Jeff's technical
+> writing and argument framing skills turned that near-defeat into a
+> surprise victory. The reviewers loved how we honestly acknowledged the
+> failures of our evaluation and extracted valuable insights from them.
+> Without a doubt, our paper would have never been accepted if not for
+> Jeff's rhetorical expertise. He had a lot of practice, though. Back
+> when he was a Ph.D. student, Jeff published 19 papers mostly in
+> top-tier conferences, which is five to ten times more than typical
+> computer science Ph.D. students. That's the sort of intensity required
+> to get a faculty job at a top-tier university like Stanford.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> I wish I could say that my solo brainstorming sessions were motivated
+> by a true love for the pure essence of academic scholarship. But the
+> truth was that I was driven by straight-up fear: I was afraid of not
+> being able to graduate within a reasonable time frame, so I pressured
+> myself to come up with new ideas that could potentially lead to
+> publications. I was all too aware that it might take two to three
+> years for a paper to get accepted for publication, so if I wanted to
+> graduate by the end of my sixth year, I would need to submit several
+> papers this year and pray that at least two get accepted. I felt
+> rushed because my fellowship lasted only until the end of this year.
+> After my funding expired, I would need to either find grant funding
+> from a professor and face all of the requisite restrictions (e.g.,
+> working on Klee again), or else become a perpetual teaching assistant
+> and delay my graduation even further. Time was running out.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> I discovered that this strategy of finding and setting short-term
+> deadlines for myself would work wonders in keeping me focused
+> throughout the rest of my Ph.D. years. Without self-imposed deadlines,
+> it becomes easy to fall into a rut and succumb to chronic
+> procrastination.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> I learned about the importance of being endorsed by an influential
+> person; simply doing good work isn't enough to get noticed in a
+> hyper-competitive field.
+
+ --- Philip Guo
+
+### The Ph.D. Grind: A Ph.D. Student Memoir
+
+> In the cutthroat world of academic publishing, simply being passionate
+> about a topic is nowhere near sufficient for success; one must be
+> well-versed in the preferences of senior colleagues in a particular
+> subfield who are serving as paper reviewers. In short, our data sets
+> were not as good, our techniques were not as refined, and our results
+> and presentation style were less impressive than what the veterans in
+> this subfield expected.
+
+ --- Philip Guo
+
 ### Superintelligence: Paths, Dangers, Strategies
 
 > (Information continence may be especially challenging for academic
