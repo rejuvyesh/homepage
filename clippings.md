@@ -10,6 +10,421 @@ These are random highlights from books I've been reading. Using fmap's [clipping
 
 
 
+### Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia
+
+> And as I walk around this fog-asphyxiated Moscow, I see how the city’s
+> topography articulates these splits: the bullying avenues with their
+> baron-bureaucrats, bribes, and werewolves in uniform, where the only
+> way to survive is to be as corrupt as they are, and just a few meters
+> away the gentle courtyards with an almost bucolic mood and small-town
+> ideas of decency. Before I used to think the two worlds were in
+> conflict, but the truth is a symbiosis. It’s almost as if you are
+> encouraged to have one identity one moment and the opposite one the
+> next. So you’re always split into little bits and can never quite
+> commit to changing things. And a result is the somewhat aggressive
+> apathy you can encounter here so often. That’s the underlying mind-set
+> that supported the USSR and supports the new Russia now even though
+> the USSR might officially be long gone. But there is a great comfort
+> in these splits, too: you can leave all your guilt with your “public”
+> self. That wasn’t you stealing that budget/making that propaganda
+> show/bending your knee to the President, just a role you were playing;
+> you’re a good person really. It’s not so much about denial. It’s not
+> even about suppressing dark secrets. You can see everything you do,
+> all your sins. You just reorganize your emotional life so as not to
+> care.
+
+ --- Peter Pomerantsev
+
+### Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia
+
+> “I tried to read but I keep on getting these thoughts in my head.”
+
+ --- Peter Pomerantsev
+
+### Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia
+
+> On the tour of Skolkovo we were accompanied by a young man named
+> Sergey Kalenik, a member of the Kremlin youth group, Nashi, created by
+> Surkov. Sergey wore a hoodie, goatee, and skinny jeans and looked like
+> any hipster youth you find in Brooklyn or Hackney—then he opened his
+> mouth and began to sing paeans to the President and how the West is
+> out to get Russia. Sergey was from a humble background in Minsk,
+> Belarus. He first made his name by drawing a really rather good manga
+> cartoon that showed the President as superhero doing battle against
+> zombie protesters and evil monster anticorruption bloggers: a nice
+> example of the Surkovian tactic of co-opting hipster language to its
+> own ends, trying to get the “cool” people on the Kremlin’s side. The
+> cartoon was so successful Kalenik was introduced to senior government
+> officials, and his career as a young spin doctor was launched.
+> “Politics is the ability to use any situation to advance your own
+> status,” Sergey told me with a smile that seemed to mimic Surkov’s
+> (who in turn mimics the KGB men). “How do you define your political
+> views?” I asked him. He looked at me like I was a fool to ask, then
+> smiled: “I’m a liberal . . . it can mean anything!”
+
+ --- Peter Pomerantsev
+
+### Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia
+
+> Now, Russia does have elections, but the “opposition,” with its almost
+> comical leaders, is designed and funded in such a way as to actually
+> strengthen the Kremlin: when the beetroot-faced communists and the
+> spitting nationalists row on TV political debating shows, the viewer
+> is left with the feeling that, compared to this lot, the President is
+> the only sane candidate. And Russia does have nongovernmental
+> organizations, representing everyone from bikers to beekeepers, but
+> they are often created by the Kremlin, which uses them to create a
+> “civil society” that is ever loyal to it. And though Russia does
+> officially have a free market, with mega-corporations floating their
+> record-breaking IPOs on the global stock exchanges, most of the owners
+> are friends of the President. Or else they are oligarchs who
+> officially pledge that everything that belongs to them is also the
+> President’s when he needs it: “All that I have belongs to the state,”
+> says Oleg Deripaska, one of the country’s richest men. This isn’t a
+> country in transition but some sort of postmodern dictatorship that
+> uses the language and institutions of democratic capitalism for
+> authoritarian ends.
+
+ --- Peter Pomerantsev
+
+### Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia
+
+> Whom to love, whom to believe in, On whom alone shall we depend? Who
+> will fit their speech and on, To our measure, in the end?  . . . Never
+> pursue a phantom, Or waste your efforts on the air Love yourself, your
+> only care. . . .
+
+ --- Peter Pomerantsev
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The first fundamental distinction between classic style and
+> contemplative style is thus that classic style presents something but
+> contemplative style presents an interpretation of something. This
+> entails many different decisions concerning truth, presentation, cast,
+> and scene. The second fundamental distinction between classic style
+> and contemplative style has to do with thought and language. Classic
+> language is an instrument for presenting the product of thought
+> according to the order of reason, not according to the sequence of
+> experience. In contemplative style, writing is itself the engine of
+> discovery: the writing is a record of the process of the writer’s
+> thinking, quite independent of its relation to the order of reason. In
+> contemplative style, the touchstone of the writing is the process of
+> the writer’s contemplation.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Practical style comes from deciding that what matters in style is the
+> reader, and in particular the reader’s ease in parsing features of the
+> text, especially the discourse features of the text. Practical style
+> is so firm in this decision that it treats it as no decision at all,
+> but as a necessity: of course excellence of style consists in
+> conforming to the reader’s grammatical expectations in the act of
+> reading. Why else would anyone presume to take up a reader’s time than
+> to solve a problem for the reader? Why then would anyone write except
+> to inform the reader about a solution to that problem? How else can
+> this be done aside from ordering the text so that readers can get the
+> point before giving up in the face of the obvious difficulty? Williams
+> and Colomb accordingly coach their students in a style of writing
+> assimilated to a model of reading. Classic style makes similar
+> pretenses in adopting the rather different stand that the writer
+> counts equally with the reader, that both are fully engaged by the
+> subject, competent, and alert, that of course the reader will be
+> interested in what the writer has to say, and that of course the
+> reader will recognize truth once it has been clearly presented.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Classic prose does not discuss doubts or fears about its own
+> enterprise, not because it is naïve, but because it has chosen
+> something incompatible with reflexive inquiry. We can question the
+> possibility of acting or we can act, but we cannot do both at once.
+> Classic writers make an unspoken choice: they act. Rather than discuss
+> the possibility of action, they put that possibility to the test, and
+> let the reader be the judge.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Plain style is communal, its model scene a congregation in which
+> speakers reaffirm for each other common truths that are the property
+> of all. In the theology behind plain style, truth is always simple,
+> and it is a common human possession. Individual revisions of this
+> communal possession distort and dilute it. The wisdom of children can
+> be the wisdom of adults, because knowing truth requires no special
+> experience and no critical analysis. Sophisticated thought and
+> conceptual refinement pervert truth. Any language that reaches beyond
+> the simplest level is suspicious as the probable symptom of such a
+> perversion. Simple language may not always be completely adequate to
+> the expression of truth, but at least it is pure as far as it goes.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Even a Geek Can Speak: Low-Tech Presentation Skills for High-Tech People
+
+> When people are nervous, sometimes the adrenaline can cause their
+> vocal cords to tighten. What you need to do is learn to relax your
+> vocal cords. When our clients have this problem, we have them talk
+> while holding a pencil between their teeth. When you do this, you’re
+> forced to drop your jaw, which loosens the vocal cords and lowers your
+> voice. Try it. It works. Now you will know how your jaw should feel
+> when you give a presentation. Of course, remember to put down the
+> pencil before you’re introduced.
+
+ --- Asher, Joey
+
+### Even a Geek Can Speak: Low-Tech Presentation Skills for High-Tech People
+
+> If there is something you find uncomfortable that the audience may be
+> interested in, you should take control and air the issue before
+> someone else airs it for you. That way you can put your own spin on
+> the issue and you retain your credibility with the audience.
+
+ --- Asher, Joey
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> In this image schema, the end of the sentence seems to be the goal of
+> the sentence, what it is trying to get to. In consequence, there is a
+> phenomenon in English known as the stress position: whatever you put
+> at the end of the sentence will be taken, absent direction to the
+> contrary, to be the most important part of the sentence,
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> In classic style, thinking is seeing, or more generally, recognizing;
+> writing is presenting what the writer has seen so the reader can see
+> it, too. The classic writer seems to be trying to place something
+> before your eyes or trying to put you where he is so you can see what
+> he sees.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> In the classic view, writing is not thinking. This runs counter to an
+> extremely powerful and pervasive connection between a concept of
+> writing and a concept of mind. Records are understood as a sort of
+> external memory, and memory as internal records. Writing is thinking
+> on paper, and thought is writing in the mind. The author’s mind is an
+> endless paper on which he writes, making mind internal writing; and
+> the book he writes is external mind, the external form of that
+> writing. The author is the self thinking. The self is the author
+> writing in the mind. (Hamlet says, “Within the book and volume of my
+> brain.”) Sometimes, the self is an author who records the process of
+> his thinking on paper.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> There is a tacit contract between writer and reader: the reader’s
+> closely focused intelligence will be repaid with something valuable
+> and self-contained.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The classic writer stands fully behind what she has to say because she
+> has thought it out independently. It may be that in thinking something
+> out independently she has come to a common conclusion, but in
+> expressing it she is neither joining a chorus nor embracing a
+> platitude. Her conclusion is the product of her own thought.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The elitism of classic style has nothing to do with the object of
+> presentation, which can range from fine wines to deep sewer tunnels.
+> It has nothing to do with the connoisseurship of the writer either.
+> The writer may speak with a technical mastery not possessed by the
+> reader, but his attitude is always that the reader lacks this mastery
+> only accidentally. You could know what he knows, and you would if you
+> were standing where he stands, which is where the classic writer is
+> trying to place you.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Paradoxically, classic style thus requires a strong revelation of
+> personality even as it subordinates what is merely personal. The
+> classic writer is not interested in mirroring the personal processes
+> of her thought; certainly she is not interested in mirroring her
+> personal sensations or emotions. Yet, since her only motive for
+> speaking is the felt importance of what she has to say, she reveals
+> herself through the topics she chooses and what she says about them.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> When accuracy in the sense of being exhaustively correct involves
+> complicated qualifications of no consequence to the main issue,
+> classic writers do not hesitate to simplify. In this frame, accuracy
+> becomes pedantry if it is indulged for its own sake. A classic writer
+> will phrase a subordinate point precisely but without the promise that
+> it is technically accurate. The convention between writer and reader
+> is that the writer is not to be challenged on these points because
+> they are merely scaffolding.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> But classic prose never has to be puzzled out. We never have to rework
+> the expression in order to see what it means to present.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Classic writers speak with conviction. That conviction, they imply,
+> comes from knowledge or experience of something that exists before the
+> writing and is completely independent of it. Their prose is conceived
+> of as a perfectly efficient instrument: it neither invents nor
+> distorts.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The classic writer rarely writes as if he is pressing claims and
+> presenting arguments, but rather pretends that he is presenting
+> subjects and conducting analyses. When, on rare occasions, the classic
+> writer adopts the stance that the reader will not believe what is
+> being presented, he never concedes that the reader’s disposition
+> should influence what he says. A writer who wishes to persuade is
+> constrained from ever telling the audience something it is unwilling
+> to believe, and this is a compromise unacceptable in the classic
+> attitude. The classic attitude compels writers, in extreme cases, to
+> express truth and leave the audience to its folly. In that case—as
+> always—the writer’s explicit motive is not hope of persuasion but
+> rather respect for truth. It is the choice Socrates makes in the
+> Apology.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The classic writer presents himself not as a guide to morals or
+> behavior, but as an observer of truth.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> In the classic view, what cannot be universally verified cannot be
+> true.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> In classic style, opinions stated clearly and distinctly are treated
+> as if they can be verified by simple observation. The writer does not
+> typically attempt to persuade by argument. The writer merely puts the
+> reader in a position to see whatever is being presented and suggests
+> that the reader will be able to verify it because the style treats
+> whatever conventions or even prejudices it operates from as if these
+> were, like natural reason, shared by everyone. It is a style of
+> disguised assertion.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Classic style expands the domain of truth to include anything that
+> might require not merely the knowledge of a convention but even the
+> ability to make a judgment.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> Classic style treats external objects, contingent facts, and even
+> opinions as if they too are beyond doubt or discussion. To verify them
+> we need to acquire local conventions so widespread within the relevant
+> culture that the style treats them as if they were natural endowments.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> His thesis is that everybody has what is essential for identifying
+> truth—natural reason—whether or not that person has any special
+> educational formation. Failure to identify truth comes either from
+> directing natural reason to the wrong objects—which can include the
+> recondite lore of erudition—or from uncritically accepting opinion and
+> custom.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The elements come under five topical headings: truth, presentation,
+> scene, cast, thought and language.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> The domain of style is what can be chosen. A fundamental stand is a
+> choice open to the writer. By contrast, to know a language is to know
+> a great range of things that are not open to choice: it is not open to
+> every writer, for example, to decide that sentences shall begin with a
+> period and end with a capital letter, that the word “dog” shall refer
+> to cats, that predicates shall not agree in number and person with
+> their subjects, or that six fine brick houses shall be called “brick
+> fine houses six.” You can, however, decide whether to call a certain
+> dog a “dog” or a “hound,” to say “Sally devoured the roast beef”
+> rather than “The roast beef was devoured by Sally,” to write in
+> sentences that are short and clipped rather than baroque and periodic,
+> or to write “24 March 1954” rather than “March 24, 1954,” but these
+> are surface features. Books that talk about style in writing treat
+> these moments of choice at the surface level but typically ignore the
+> elements of style, which is to say, the fundamental choices from which
+> surface features derive.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
+
+> If you start off with the view of style as a list of surface
+> mechanical elements at any level, then you can end up with the correct
+> list and present it as constituting style, rather than a style.
+
+ --- Thomas, Francis-Noël;Turner, Mark
+
+### Even a Geek Can Speak: Low-Tech Presentation Skills for High-Tech People
+
+> 1\. Recaps build retention. Be sure to restate your MO and your three key
+> points at the end of your presentation. 2. If you don’t ask, you don’t
+> get. Either ask for the order or end with a call to action. 3. You can
+> end with a final persuasive story. But make sure it’s tight and
+> relevant.
+
+ --- Asher, Joey
+
+### Even a Geek Can Speak: Low-Tech Presentation Skills for High-Tech People
+
+> Before any communication, think about what will be your Message
+> Objective. Limit yourself to no more than three points. Always support
+> your points with solid evidence, including stories (lots of stories),
+> personal examples, expert testimony, analogies, killer quotes, and
+> stats and facts.
+
+ --- Asher, Joey
+
 ### Clear and Simple as the Truth: Writing Classic Prose (Second Edition)
 
 > The concept of classic style assumes that plain style already exists.
