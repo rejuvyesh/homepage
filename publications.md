@@ -7,12 +7,12 @@ description: Jayesh Kumar Gupta's Publications
 <div class="pub">
 <span class="papert">PlanIt: A Crowdsourcing Approach for Learning to Plan Paths from Large Scale Preference Feedback</span>
 <br>
-<span class="paperv">ICRA 2015 (under review)</span>
+<span class="paperv">ICRA 2015</span>
 <br>
 <span class="papera">Ashesh Jain, Debarghya Das, Jayesh K. Gupta and Ashutosh Saxena</span>
 </div>
 <div class="paperl">
-<a href="http://arxiv.org/abs/1406.2616">[arxiv]</a>
+<a href="/files/2015-planit.pdf">[pdf]</a>
 <a href="http://asheshjain.org/supplementary.pdf">[supplementary]</a>
 <br>
 <a href="http://planit.cs.cornell.edu/">[website]</a>
